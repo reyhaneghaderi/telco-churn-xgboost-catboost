@@ -66,7 +66,7 @@ Rank	XGBoost (Gain)	CatBoost (PredictionValuesChange)
    - Confusion matrices (0.5 vs optimized thresholds)
    - Calibration & cumulative gains charts
 
-  # For Academia (PhD / Research)
+  #  Research
    - Rigorous methodology: stratified K-fold CV, AUC/AP focus under imbalance, threshold-free evaluation.
    - Interpretability with global + local SHAP, comparing intrinsic vs agnostic importance.
    - Foundation for further research: cost-sensitive learning, uplift modeling, FL (federated churn prediction).

@@ -1,0 +1,1410 @@
+customerID,Contract,PaymentMethod,tenure,MonthlyCharges,TotalCharges,Churn,actual_churn,predicted_churn,churn_probability,tenure_group,risk_segment
+4376-KFVRS,Two year,Credit card (automatic),72,114.05,8468.2,No,0,0,0.036690317,49+ months,Low Risk
+2754-SDJRD,Month-to-month,Credit card (automatic),8,100.15,908.55,No,0,1,0.75492233,0-12 months,High Risk
+9917-KWRBE,One year,Credit card (automatic),41,78.35,3211.2,No,0,0,0.064735964,25-48 months,Low Risk
+0365-GXEZS,Month-to-month,Electronic check,18,78.2,1468.75,No,0,1,0.3249193,13-24 months,Medium Risk
+9385-NXKDA,Two year,Credit card (automatic),72,82.65,5919.35,No,0,0,0.021159332,49+ months,Low Risk
+4686-UXDML,Month-to-month,Credit card (automatic),21,99.85,1992.55,No,0,1,0.57910717,13-24 months,Medium Risk
+2227-JRSJX,Month-to-month,Bank transfer (automatic),21,99.15,1956.4,No,0,1,0.48157203,13-24 months,Medium Risk
+4830-FAXFM,Month-to-month,Credit card (automatic),19,24.1,439.2,No,0,0,0.11896649,13-24 months,Low Risk
+1830-IPXVJ,Two year,Credit card (automatic),61,19.75,1311.6,No,0,0,0.013975844,49+ months,Low Risk
+4690-LLKUA,Month-to-month,Electronic check,17,45.05,770.6,Yes,1,1,0.3441627,13-24 months,Medium Risk
+5804-HYIEZ,Month-to-month,Electronic check,70,106.05,7554.05,No,0,0,0.3146456,49+ months,Medium Risk
+2388-LAESQ,Two year,Bank transfer (automatic),72,114.85,8317.95,No,0,0,0.034896918,49+ months,Low Risk
+5533-RJFTJ,Month-to-month,Bank transfer (automatic),49,30.2,1453.1,No,0,0,0.17948963,49+ months,Low Risk
+4706-AXVKM,Month-to-month,Credit card (automatic),11,84.8,906.85,Yes,1,1,0.6462284,0-12 months,Medium Risk
+0997-YTLNY,Month-to-month,Mailed check,19,48.8,953.65,No,0,0,0.14415845,13-24 months,Low Risk
+7971-HLVXI,Two year,Credit card (automatic),72,84.5,6130.85,No,0,0,0.06277602,49+ months,Low Risk
+7337-CINUD,Two year,Bank transfer (automatic),8,19.5,159.35,No,0,0,0.017324489,0-12 months,Low Risk
+1379-FRVEB,Month-to-month,Electronic check,15,91.0,1430.05,No,0,1,0.6185926,13-24 months,Medium Risk
+4753-PADAS,One year,Bank transfer (automatic),67,105.7,6816.95,No,0,0,0.23081839,49+ months,Low Risk
+5701-GUXDC,One year,Credit card (automatic),26,35.4,978.6,No,0,0,0.06020999,25-48 months,Low Risk
+7235-NXZCP,Month-to-month,Mailed check,2,74.85,156.4,Yes,1,1,0.6856539,0-12 months,Medium Risk
+0668-OGMHD,Month-to-month,Electronic check,21,28.5,629.35,No,0,0,0.22887777,13-24 months,Low Risk
+2812-REYAT,One year,Bank transfer (automatic),49,20.05,923.1,No,0,0,0.035899565,49+ months,Low Risk
+8779-YIQQA,One year,Mailed check,21,19.8,350.1,No,0,0,0.0354149,13-24 months,Low Risk
+9701-CDXHR,Month-to-month,Mailed check,51,69.15,3649.6,No,0,0,0.22323531,49+ months,Low Risk
+7130-CTCUS,Month-to-month,Bank transfer (automatic),16,54.55,825.1,No,0,0,0.17711084,13-24 months,Low Risk
+1894-IGFSG,Month-to-month,Electronic check,22,89.25,1907.85,Yes,1,1,0.44606227,13-24 months,Medium Risk
+0871-URUWO,Month-to-month,Credit card (automatic),13,102.25,1359.0,Yes,1,1,0.6613704,13-24 months,Medium Risk
+0057-QBUQH,Two year,Electronic check,43,25.1,1070.15,No,0,0,0.029389745,25-48 months,Low Risk
+9611-CTWIH,Month-to-month,Electronic check,3,89.45,240.45,Yes,1,1,0.75447774,0-12 months,High Risk
+8058-DMYRU,Month-to-month,Electronic check,54,90.05,4931.8,No,0,1,0.45822,49+ months,Medium Risk
+5351-QESIO,Month-to-month,Mailed check,1,24.2,24.2,No,0,1,0.58102405,0-12 months,Medium Risk
+4302-ZYFEL,One year,Credit card (automatic),69,20.55,1403.1,No,0,0,0.0310723,49+ months,Low Risk
+6134-KWTBV,Two year,Bank transfer (automatic),62,23.4,1429.65,No,0,0,0.016076077,49+ months,Low Risk
+2034-GDRCN,Month-to-month,Electronic check,2,90.4,168.2,Yes,1,1,0.7754871,0-12 months,High Risk
+9544-PYPSJ,Month-to-month,Credit card (automatic),62,96.1,6019.35,No,0,0,0.29500332,49+ months,Low Risk
+4208-UFFGW,Month-to-month,Mailed check,2,44.95,85.15,Yes,1,1,0.49845317,0-12 months,Medium Risk
+9537-JALFH,Two year,Bank transfer (automatic),69,19.9,1356.7,No,0,0,0.01427633,49+ months,Low Risk
+4415-IJZTP,Month-to-month,Electronic check,1,74.5,74.5,Yes,1,1,0.8002146,0-12 months,High Risk
+4701-MLJPN,Month-to-month,Electronic check,31,55.25,1715.65,Yes,1,0,0.17733516,25-48 months,Low Risk
+7515-LODFU,Two year,Credit card (automatic),69,20.3,1356.3,No,0,0,0.01563575,49+ months,Low Risk
+4927-WWOOZ,Month-to-month,Electronic check,2,91.45,171.45,No,0,1,0.82062846,0-12 months,High Risk
+4067-HLYQI,Month-to-month,Bank transfer (automatic),33,70.4,2406.1,No,0,0,0.30432075,25-48 months,Medium Risk
+6184-DYUOB,Month-to-month,Mailed check,3,19.6,55.25,No,0,0,0.1839666,0-12 months,Low Risk
+9209-NWPGU,One year,Electronic check,44,65.4,2774.55,No,0,0,0.06879181,25-48 months,Low Risk
+9851-KIELU,Month-to-month,Electronic check,10,110.1,1043.3,Yes,1,1,0.59929854,0-12 months,Medium Risk
+3199-XGZCY,Month-to-month,Electronic check,8,75.25,576.7,No,0,1,0.6694889,0-12 months,Medium Risk
+4226-KKDON,Month-to-month,Electronic check,8,66.65,520.95,No,0,0,0.27632603,0-12 months,Low Risk
+1085-LDWAM,One year,Credit card (automatic),69,20.35,1442.65,No,0,0,0.030429207,49+ months,Low Risk
+6825-UYPFK,Month-to-month,Bank transfer (automatic),23,75.6,1758.6,Yes,1,0,0.28441146,13-24 months,Low Risk
+1767-CJKBA,Two year,Mailed check,66,25.1,1697.7,No,0,0,0.016944794,49+ months,Low Risk
+7181-BQYBV,Month-to-month,Electronic check,1,102.45,102.45,Yes,1,1,0.7692034,0-12 months,High Risk
+0178-CIIKR,Month-to-month,Mailed check,3,19.95,58.0,No,0,0,0.14405766,0-12 months,Low Risk
+4256-ZWTZI,Month-to-month,Mailed check,5,51.0,286.8,No,0,1,0.33771184,0-12 months,Medium Risk
+9537-VHDTA,Month-to-month,Mailed check,1,51.2,51.2,No,0,1,0.4128047,0-12 months,Medium Risk
+2754-XBHTB,Month-to-month,Bank transfer (automatic),9,77.65,714.15,Yes,1,1,0.5881761,0-12 months,Medium Risk
+5975-BAICR,One year,Credit card (automatic),36,63.7,2188.5,No,0,0,0.06780682,25-48 months,Low Risk
+3301-VKTGC,One year,Bank transfer (automatic),68,85.5,5696.6,No,0,0,0.056218047,49+ months,Low Risk
+2877-VDUER,One year,Mailed check,35,40.9,1383.6,No,0,0,0.067092866,25-48 months,Low Risk
+7717-BICXI,Two year,Mailed check,60,20.55,1205.05,No,0,0,0.014803061,49+ months,Low Risk
+0562-FGDCR,Two year,Mailed check,72,74.55,5430.65,No,0,0,0.01191029,49+ months,Low Risk
+3705-PSNGL,One year,Electronic check,45,20.4,930.45,Yes,1,0,0.04947854,25-48 months,Low Risk
+0048-LUMLS,One year,Credit card (automatic),37,91.2,3247.55,No,0,0,0.13426758,25-48 months,Low Risk
+6497-TILVL,Month-to-month,Mailed check,7,50.7,350.35,No,0,0,0.18356912,0-12 months,Low Risk
+2108-YKQTY,Month-to-month,Credit card (automatic),4,50.7,151.3,Yes,1,0,0.28501624,0-12 months,Low Risk
+3658-KIBGF,Month-to-month,Electronic check,1,54.9,54.9,Yes,1,1,0.46912184,0-12 months,Medium Risk
+5482-NUPNA,Month-to-month,Mailed check,4,60.4,272.15,Yes,1,0,0.18271208,0-12 months,Low Risk
+7410-KTVFV,Month-to-month,Mailed check,18,49.55,878.35,Yes,1,0,0.20193203,13-24 months,Low Risk
+9033-EOXWV,One year,Mailed check,12,74.05,872.65,Yes,1,0,0.16620396,0-12 months,Low Risk
+8821-XNHVZ,Month-to-month,Mailed check,1,80.05,80.05,Yes,1,1,0.8001027,0-12 months,High Risk
+8224-KDLKN,Two year,Bank transfer (automatic),72,25.0,1738.9,No,0,0,0.010337203,49+ months,Low Risk
+4825-FUREZ,Two year,Electronic check,42,20.25,835.5,No,0,0,0.026429752,25-48 months,Low Risk
+7534-BFESC,Month-to-month,Electronic check,24,76.1,1712.7,Yes,1,1,0.5072586,13-24 months,Medium Risk
+9138-EFSMO,One year,Bank transfer (automatic),26,78.95,2034.25,No,0,0,0.12132158,25-48 months,Low Risk
+4227-OJHAL,One year,Credit card (automatic),68,73.0,5163.0,No,0,0,0.05326617,49+ months,Low Risk
+7279-NMVJC,One year,Bank transfer (automatic),17,19.9,323.15,No,0,0,0.03899446,13-24 months,Low Risk
+8591-TKMZH,Two year,Mailed check,59,111.1,6555.2,No,0,0,0.09011336,49+ months,Low Risk
+9283-LZQOH,Month-to-month,Credit card (automatic),13,74.4,896.75,Yes,1,1,0.4918812,13-24 months,Medium Risk
+3594-IVHJZ,Month-to-month,Mailed check,2,20.45,42.45,No,0,0,0.20193404,0-12 months,Low Risk
+1945-XISKS,Two year,Mailed check,67,19.65,1335.2,No,0,0,0.014548364,49+ months,Low Risk
+4359-INNWN,One year,Credit card (automatic),17,20.05,337.9,No,0,0,0.03899446,13-24 months,Low Risk
+7649-SIJJF,Two year,Mailed check,71,80.1,5585.4,No,0,0,0.015384146,49+ months,Low Risk
+9254-RBFON,One year,Bank transfer (automatic),17,98.6,1704.95,Yes,1,0,0.18484692,13-24 months,Low Risk
+0970-ETWGE,Month-to-month,Electronic check,1,89.55,89.55,Yes,1,1,0.8317789,0-12 months,High Risk
+7762-ONLJY,One year,Mailed check,6,19.7,94.45,No,0,0,0.042458147,0-12 months,Low Risk
+6710-HSJRD,Month-to-month,Electronic check,61,114.1,7132.15,No,0,1,0.36948842,49+ months,Medium Risk
+8873-GLDMH,Month-to-month,Mailed check,6,73.85,401.3,No,0,1,0.64326036,0-12 months,Medium Risk
+9907-SWKKF,Month-to-month,Mailed check,1,25.05,25.05,Yes,1,1,0.63845676,0-12 months,Medium Risk
+4658-HCOHW,Month-to-month,Electronic check,21,102.8,2110.15,Yes,1,1,0.50445795,13-24 months,Medium Risk
+9330-VOFSZ,Two year,Credit card (automatic),60,110.8,6640.7,No,0,0,0.091979206,49+ months,Low Risk
+2860-RANUS,Month-to-month,Credit card (automatic),20,85.8,1727.5,Yes,1,1,0.47386476,13-24 months,Medium Risk
+6234-PFPXL,Month-to-month,Credit card (automatic),22,95.9,2234.95,No,0,1,0.33938304,13-24 months,Medium Risk
+7205-BAIAD,Two year,Bank transfer (automatic),40,20.6,827.3,No,0,0,0.01620272,25-48 months,Low Risk
+3858-VOBET,Month-to-month,Electronic check,23,74.95,1710.45,Yes,1,1,0.48331663,13-24 months,Medium Risk
+5103-MHMHY,Month-to-month,Mailed check,1,45.95,45.95,Yes,1,1,0.51694673,0-12 months,Medium Risk
+6119-SPUDB,Two year,Mailed check,46,38.25,1755.35,No,0,0,0.02253766,25-48 months,Low Risk
+9389-ACWBI,Month-to-month,Credit card (automatic),5,69.95,320.4,No,0,1,0.5267286,0-12 months,Medium Risk
+3454-JFUBC,Two year,Credit card (automatic),68,20.0,1396.0,No,0,0,0.01563575,49+ months,Low Risk
+1768-ZAIFU,Month-to-month,Electronic check,1,25.2,25.2,Yes,1,1,0.7578978,0-12 months,High Risk
+7017-VFULY,Month-to-month,Bank transfer (automatic),2,20.1,43.15,No,0,0,0.15888624,0-12 months,Low Risk
+9221-OTIVJ,Month-to-month,Electronic check,14,104.85,1531.4,Yes,1,1,0.73429596,13-24 months,High Risk
+2482-CZGBB,Month-to-month,Electronic check,10,70.0,740.0,Yes,1,1,0.6023269,0-12 months,Medium Risk
+7018-WBJNK,Month-to-month,Credit card (automatic),13,78.3,1033.95,No,0,1,0.4956578,13-24 months,Medium Risk
+3331-HQDTW,Month-to-month,Mailed check,34,109.8,3587.25,Yes,1,1,0.34711537,25-48 months,Medium Risk
+4695-VADHF,Month-to-month,Electronic check,18,57.45,990.85,Yes,1,0,0.2761754,13-24 months,Low Risk
+4086-WITJG,Two year,Credit card (automatic),71,19.7,1301.1,No,0,0,0.010685412,49+ months,Low Risk
+6297-NOOPG,Two year,Electronic check,70,110.5,7752.05,No,0,0,0.10407808,49+ months,Low Risk
+8777-PVYGU,One year,Mailed check,52,64.3,3410.6,No,0,0,0.05235762,49+ months,Low Risk
+4378-MYPGO,Two year,Bank transfer (automatic),68,105.25,7173.15,No,0,0,0.09577794,49+ months,Low Risk
+9313-CDOGY,Month-to-month,Electronic check,38,19.6,717.3,No,0,0,0.07835321,25-48 months,Low Risk
+4121-AGSIN,One year,Credit card (automatic),58,24.5,1497.9,No,0,0,0.03297426,49+ months,Low Risk
+0432-CAJZV,Month-to-month,Mailed check,3,90.7,237.65,No,0,1,0.66420966,0-12 months,Medium Risk
+9097-ZUBYC,Month-to-month,Bank transfer (automatic),14,48.8,664.4,No,0,0,0.16370255,13-24 months,Low Risk
+9638-JIQYA,Month-to-month,Credit card (automatic),2,24.9,49.7,No,0,1,0.5910543,0-12 months,Medium Risk
+1024-GUALD,Month-to-month,Electronic check,1,24.8,24.8,Yes,1,1,0.69632035,0-12 months,Medium Risk
+8024-XNAFQ,Two year,Bank transfer (automatic),72,107.4,7748.75,No,0,0,0.037469354,49+ months,Low Risk
+7587-RZNME,Month-to-month,Electronic check,3,43.3,123.65,Yes,1,1,0.4710799,0-12 months,Medium Risk
+1346-UFHAX,Month-to-month,Credit card (automatic),13,80.0,1029.35,No,0,1,0.4373888,13-24 months,Medium Risk
+6374-NTQLP,Two year,Credit card (automatic),72,104.1,7447.7,No,0,0,0.047946665,49+ months,Low Risk
+6625-FLENO,Two year,Mailed check,58,20.75,1185.95,No,0,0,0.015408947,49+ months,Low Risk
+7375-WMVMT,Two year,Credit card (automatic),71,95.5,6707.15,No,0,0,0.04142165,49+ months,Low Risk
+6910-HADCM,Month-to-month,Electronic check,1,76.35,76.35,Yes,1,1,0.74494845,0-12 months,High Risk
+7401-JIXNM,Two year,Credit card (automatic),54,91.3,4965.0,No,0,0,0.021341955,49+ months,Low Risk
+7338-ERIVA,One year,Bank transfer (automatic),39,45.05,1790.6,No,0,0,0.045110617,25-48 months,Low Risk
+5376-DEQCP,Month-to-month,Electronic check,1,70.6,70.6,Yes,1,1,0.77145433,0-12 months,High Risk
+0909-SELIE,Two year,Bank transfer (automatic),61,80.8,4860.85,No,0,0,0.019472875,49+ months,Low Risk
+5419-KLXBN,Month-to-month,Bank transfer (automatic),25,89.15,2257.75,Yes,1,1,0.40656263,25-48 months,Medium Risk
+0365-TRTPY,Month-to-month,Bank transfer (automatic),37,91.2,3382.3,No,0,0,0.2234042,25-48 months,Low Risk
+6712-OAWRH,Month-to-month,Electronic check,26,91.25,2351.8,Yes,1,1,0.5240024,25-48 months,Medium Risk
+2428-ZMCTB,Month-to-month,Credit card (automatic),10,19.75,208.25,No,0,0,0.10176882,0-12 months,Low Risk
+1963-VAUKV,Month-to-month,Mailed check,1,20.4,20.4,Yes,1,0,0.29403707,0-12 months,Low Risk
+9381-NDKME,Month-to-month,Credit card (automatic),24,40.65,933.3,Yes,1,1,0.31811228,13-24 months,Medium Risk
+3729-OWRVL,Two year,Electronic check,65,110.35,7246.15,No,0,0,0.1620491,49+ months,Low Risk
+0895-LMRSF,One year,Bank transfer (automatic),23,64.9,1509.8,No,0,0,0.13886546,13-24 months,Low Risk
+2676-SSLTO,Two year,Bank transfer (automatic),49,66.15,3199.0,No,0,0,0.044025533,49+ months,Low Risk
+8495-PRWFH,Month-to-month,Electronic check,42,55.65,2421.75,No,0,0,0.27201554,25-48 months,Low Risk
+9030-QGZNL,Two year,Mailed check,8,20.85,161.65,No,0,0,0.018664597,0-12 months,Low Risk
+9972-NKTFD,Month-to-month,Bank transfer (automatic),28,54.65,1517.5,No,0,0,0.117298596,25-48 months,Low Risk
+7998-WNZEM,Two year,Bank transfer (automatic),71,80.6,5708.2,No,0,0,0.015384146,49+ months,Low Risk
+0979-PHULV,Month-to-month,Credit card (automatic),69,99.45,7007.6,Yes,1,1,0.38724846,49+ months,Medium Risk
+6445-TNRXS,Two year,Bank transfer (automatic),68,114.7,7849.85,No,0,0,0.085831456,49+ months,Low Risk
+9586-JGQKH,Two year,Bank transfer (automatic),64,105.4,6794.75,No,0,0,0.0784482,49+ months,Low Risk
+3966-HRMZA,Month-to-month,Mailed check,3,75.05,202.9,No,0,1,0.54954976,0-12 months,Medium Risk
+5498-IBWPI,One year,Credit card (automatic),66,49.4,3251.85,No,0,0,0.058077756,49+ months,Low Risk
+6823-SIDFQ,One year,Credit card (automatic),28,18.25,534.7,No,0,0,0.029685933,25-48 months,Low Risk
+2323-ARSVR,Two year,Electronic check,67,111.05,7321.05,No,0,0,0.08935901,49+ months,Low Risk
+5468-BPMMO,Month-to-month,Electronic check,46,19.6,851.2,No,0,0,0.08716728,25-48 months,Low Risk
+0486-HECZI,Month-to-month,Electronic check,55,96.75,5238.9,Yes,1,1,0.353934,49+ months,Medium Risk
+2178-PMGCJ,Month-to-month,Mailed check,22,69.7,1490.4,No,0,1,0.3345136,13-24 months,Medium Risk
+4660-IRIBM,Month-to-month,Mailed check,18,87.9,1500.5,No,0,1,0.36825156,13-24 months,Medium Risk
+9674-EHPPG,Two year,Credit card (automatic),46,40.4,1842.7,No,0,0,0.02253766,25-48 months,Low Risk
+5606-AMZBO,Month-to-month,Credit card (automatic),10,78.15,765.15,No,0,1,0.47207892,0-12 months,Medium Risk
+0665-XHDJU,Two year,Electronic check,72,99.4,7285.7,No,0,0,0.13770881,49+ months,Low Risk
+5402-HTOTQ,Month-to-month,Electronic check,16,55.3,875.35,No,0,0,0.2629045,13-24 months,Low Risk
+8258-GSTJK,Month-to-month,Electronic check,3,77.0,237.75,Yes,1,1,0.7599045,0-12 months,High Risk
+3787-TRIAL,Month-to-month,Electronic check,21,26.05,565.75,No,0,1,0.36363727,13-24 months,Medium Risk
+6175-IRFIT,Month-to-month,Mailed check,5,78.75,426.35,No,0,1,0.58085865,0-12 months,Medium Risk
+6317-YPKDH,Month-to-month,Bank transfer (automatic),1,29.95,29.95,Yes,1,1,0.54532444,0-12 months,Medium Risk
+5692-FPTAH,Month-to-month,Mailed check,1,45.4,45.4,Yes,1,1,0.5886122,0-12 months,Medium Risk
+5373-SFODM,Month-to-month,Credit card (automatic),36,85.25,3132.75,Yes,1,1,0.37905362,25-48 months,Medium Risk
+0868-VJRDR,Two year,Credit card (automatic),64,104.05,6605.55,No,0,0,0.06783647,49+ months,Low Risk
+4079-VTGLK,Two year,Electronic check,30,74.85,2181.75,No,0,0,0.14913556,25-48 months,Low Risk
+1166-PQLGG,Two year,Bank transfer (automatic),72,19.55,1463.45,No,0,0,0.009202968,49+ months,Low Risk
+5296-BFCYD,Two year,Mailed check,46,20.1,936.85,No,0,0,0.015208662,25-48 months,Low Risk
+6568-POCUI,Two year,Credit card (automatic),45,95.2,4285.8,No,0,0,0.06557908,25-48 months,Low Risk
+2839-RFSQE,Month-to-month,Mailed check,2,20.65,38.7,Yes,1,0,0.15888624,0-12 months,Low Risk
+2188-SXWVT,One year,Mailed check,34,55.0,1885.15,No,0,0,0.048472673,25-48 months,Low Risk
+8849-GYOKR,One year,Bank transfer (automatic),54,106.55,5763.3,Yes,1,0,0.20685767,49+ months,Low Risk
+3623-FQBOX,Month-to-month,Mailed check,21,19.95,416.4,No,0,0,0.11302688,13-24 months,Low Risk
+2649-HWLYB,Two year,Bank transfer (automatic),65,76.15,4929.55,No,0,0,0.026892444,49+ months,Low Risk
+0599-XNYDO,Month-to-month,Bank transfer (automatic),20,69.8,1540.35,No,0,1,0.3397865,13-24 months,Medium Risk
+2514-GINMM,Month-to-month,Electronic check,1,79.5,79.5,Yes,1,1,0.8374261,0-12 months,High Risk
+8401-EMUWF,Month-to-month,Bank transfer (automatic),42,69.4,3058.3,No,0,0,0.13770035,25-48 months,Low Risk
+5766-ZJYBB,Month-to-month,Mailed check,1,19.4,19.4,Yes,1,0,0.28408444,0-12 months,Low Risk
+2604-IJPDU,Month-to-month,Electronic check,20,96.55,1901.65,No,0,1,0.42631876,13-24 months,Medium Risk
+2501-XWWTZ,Month-to-month,Electronic check,11,70.2,760.05,No,0,1,0.44077975,0-12 months,Medium Risk
+6370-ZVHDV,Two year,Bank transfer (automatic),61,25.3,1554.9,No,0,0,0.015376968,49+ months,Low Risk
+3027-YNWZU,Two year,Credit card (automatic),64,25.0,1584.8,No,0,0,0.015376968,49+ months,Low Risk
+4526-ZJJTM,Month-to-month,Bank transfer (automatic),25,88.4,2191.15,No,0,1,0.34289703,25-48 months,Medium Risk
+0440-QEXBZ,Month-to-month,Mailed check,44,50.15,2139.1,No,0,0,0.18395428,25-48 months,Low Risk
+0330-IVZHA,Month-to-month,Electronic check,5,69.95,330.15,Yes,1,1,0.5619065,0-12 months,Medium Risk
+9758-MFWGD,One year,Bank transfer (automatic),48,29.9,1388.75,No,0,0,0.0867628,25-48 months,Low Risk
+4229-CZMLL,Month-to-month,Electronic check,6,74.9,469.8,Yes,1,1,0.7178554,0-12 months,High Risk
+0742-MOABM,Month-to-month,Mailed check,4,50.05,179.35,Yes,1,0,0.28478813,0-12 months,Low Risk
+4277-BWBML,Two year,Bank transfer (automatic),72,19.95,1322.85,No,0,0,0.009401814,49+ months,Low Risk
+5136-GFPMB,Month-to-month,Credit card (automatic),54,89.4,4869.5,No,0,0,0.28629446,49+ months,Low Risk
+7520-HQWJU,Month-to-month,Bank transfer (automatic),66,67.45,4508.65,No,0,0,0.12146012,49+ months,Low Risk
+6304-IJFSQ,Month-to-month,Mailed check,3,49.9,130.1,Yes,1,1,0.35388008,0-12 months,Medium Risk
+0297-RBCSG,One year,Bank transfer (automatic),19,65.35,1231.85,No,0,0,0.1088719,13-24 months,Low Risk
+6013-BHCAW,Two year,Bank transfer (automatic),61,81.0,4976.15,No,0,0,0.04501214,49+ months,Low Risk
+4402-FTBXC,Month-to-month,Mailed check,54,89.8,4667.0,No,0,0,0.25288162,49+ months,Low Risk
+1471-GIQKQ,Month-to-month,Electronic check,1,49.95,49.95,No,0,1,0.5478296,0-12 months,Medium Risk
+4283-FUTGF,Month-to-month,Electronic check,19,79.85,1471.75,Yes,1,1,0.55786544,13-24 months,Medium Risk
+9548-LERKT,Two year,Mailed check,24,19.75,483.15,No,0,0,0.015830874,13-24 months,Low Risk
+8059-UDZFY,Month-to-month,Bank transfer (automatic),33,105.35,3465.05,No,0,1,0.43350688,25-48 months,Medium Risk
+0410-IPFTY,Month-to-month,Bank transfer (automatic),31,83.85,2674.15,No,0,1,0.37521297,25-48 months,Medium Risk
+2478-EEWWM,Month-to-month,Electronic check,59,44.3,2666.75,No,0,1,0.33743992,49+ months,Medium Risk
+4619-EVPHY,One year,Bank transfer (automatic),20,91.0,1859.5,No,0,0,0.18173026,13-24 months,Low Risk
+2277-DJJDL,Month-to-month,Electronic check,60,99.0,6017.9,No,0,1,0.4271194,49+ months,Medium Risk
+2911-WDXMV,Month-to-month,Credit card (automatic),18,80.55,1406.65,No,0,1,0.38706776,13-24 months,Medium Risk
+3639-XJHKQ,Month-to-month,Electronic check,19,60.6,1297.8,No,0,0,0.21357419,13-24 months,Low Risk
+8173-RXAYP,Two year,Mailed check,24,19.7,452.55,No,0,0,0.015566123,13-24 months,Low Risk
+4537-CIBHB,One year,Mailed check,9,20.25,172.35,No,0,0,0.039104633,0-12 months,Low Risk
+5442-BXVND,Month-to-month,Bank transfer (automatic),33,24.25,838.5,No,0,0,0.07910395,25-48 months,Low Risk
+2308-STERM,Month-to-month,Mailed check,2,19.4,61.05,No,0,0,0.15888624,0-12 months,Low Risk
+7159-NOKYQ,Two year,Electronic check,67,93.15,6368.2,No,0,0,0.12596247,49+ months,Low Risk
+6075-QMNRR,Month-to-month,Bank transfer (automatic),52,49.75,2535.55,No,0,0,0.13072509,49+ months,Low Risk
+3694-GLTJM,Month-to-month,Credit card (automatic),5,19.65,92.05,No,0,0,0.1676249,0-12 months,Low Risk
+9629-NHXFW,Month-to-month,Mailed check,1,19.4,19.4,No,0,1,0.32338658,0-12 months,Medium Risk
+7167-PCEYD,Two year,Mailed check,67,19.8,1311.3,No,0,0,0.014860975,49+ months,Low Risk
+2748-MYRVK,One year,Bank transfer (automatic),63,99.9,6137.0,Yes,1,0,0.18730609,49+ months,Low Risk
+4223-WOZCM,Month-to-month,Mailed check,2,49.95,107.1,No,0,1,0.45828435,0-12 months,Medium Risk
+6946-LMSQS,One year,Electronic check,25,89.05,2177.45,Yes,1,0,0.18353927,25-48 months,Low Risk
+5469-NUJUR,Two year,Mailed check,19,19.95,373.5,No,0,0,0.016878556,13-24 months,Low Risk
+6388-TABGU,One year,Bank transfer (automatic),62,56.15,3487.95,No,0,0,0.038150635,49+ months,Low Risk
+1261-FWTTE,Month-to-month,Bank transfer (automatic),23,34.65,768.45,No,0,1,0.32402295,13-24 months,Medium Risk
+8590-YFFQO,Two year,Credit card (automatic),70,64.95,4523.25,No,0,0,0.017745756,49+ months,Low Risk
+0082-OQIQY,Month-to-month,Electronic check,29,94.2,2607.6,No,0,1,0.4284462,25-48 months,Medium Risk
+9465-RWMXL,Month-to-month,Electronic check,32,78.9,2447.95,Yes,1,1,0.49101827,25-48 months,Medium Risk
+2930-UOTMB,Month-to-month,Credit card (automatic),31,65.25,1994.3,Yes,1,0,0.09890712,25-48 months,Low Risk
+9128-CPXKI,Two year,Electronic check,59,95.8,5655.45,No,0,0,0.14000322,49+ months,Low Risk
+0484-FFVBJ,One year,Bank transfer (automatic),32,64.85,2010.95,No,0,0,0.12808764,25-48 months,Low Risk
+1100-DDVRV,Month-to-month,Mailed check,17,49.8,836.35,No,0,0,0.31104463,13-24 months,Medium Risk
+9313-QOLTZ,Month-to-month,Mailed check,26,20.9,518.3,No,0,0,0.08151569,25-48 months,Low Risk
+3338-CVVEH,Month-to-month,Electronic check,12,94.55,1173.55,No,0,1,0.65089524,0-12 months,Medium Risk
+1131-SUEKT,One year,Bank transfer (automatic),61,98.45,6145.2,No,0,0,0.14660342,49+ months,Low Risk
+7602-DBTOU,Two year,Mailed check,71,19.6,1416.5,No,0,0,0.0108897835,49+ months,Low Risk
+1385-TQOZW,Month-to-month,Credit card (automatic),9,20.45,147.55,No,0,0,0.13448872,0-12 months,Low Risk
+6892-XPFPU,Month-to-month,Electronic check,24,104.25,2433.9,Yes,1,1,0.6779308,13-24 months,Medium Risk
+4115-NZRKS,Month-to-month,Electronic check,7,89.15,574.35,No,0,1,0.7279821,0-12 months,High Risk
+5514-YQENT,Two year,Electronic check,41,111.15,4507.15,No,0,0,0.09871042,25-48 months,Low Risk
+6319-IEJWJ,Month-to-month,Electronic check,20,90.2,1776.55,Yes,1,1,0.5632241,13-24 months,Medium Risk
+8849-AYPTR,Month-to-month,Electronic check,33,91.25,2964.05,No,0,1,0.39402768,25-48 months,Medium Risk
+5893-PYOLZ,Two year,Credit card (automatic),56,81.8,4534.45,No,0,0,0.033202432,49+ months,Low Risk
+7180-PISOG,Month-to-month,Electronic check,1,74.5,74.5,Yes,1,1,0.7979538,0-12 months,High Risk
+8443-ZRDBZ,Month-to-month,Electronic check,4,76.05,318.9,Yes,1,1,0.7419946,0-12 months,High Risk
+9079-YEXQJ,Month-to-month,Electronic check,54,111.1,6014.85,Yes,1,1,0.36237076,49+ months,Medium Risk
+3780-YVMFA,Month-to-month,Electronic check,8,68.55,564.35,No,0,1,0.3185368,0-12 months,Medium Risk
+6968-MHOMU,One year,Credit card (automatic),58,45.0,2689.35,No,0,0,0.1504584,49+ months,Low Risk
+0899-LIIBW,Month-to-month,Electronic check,34,100.85,3527.3,No,0,1,0.49482575,25-48 months,Medium Risk
+3677-IYRBF,Month-to-month,Electronic check,2,30.4,78.65,Yes,1,1,0.70096636,0-12 months,High Risk
+8393-DLHGA,Month-to-month,Electronic check,25,95.9,2448.75,Yes,1,1,0.5392081,25-48 months,Medium Risk
+7691-XVTZH,Two year,Bank transfer (automatic),68,89.95,5974.3,No,0,0,0.071315594,49+ months,Low Risk
+5360-LJCNJ,Two year,Bank transfer (automatic),71,105.15,7555.0,No,0,0,0.13089846,49+ months,Low Risk
+3891-PUQOD,Month-to-month,Electronic check,1,59.2,59.2,Yes,1,1,0.5791788,0-12 months,Medium Risk
+0952-KMEEH,Month-to-month,Mailed check,13,98.15,1230.25,Yes,1,1,0.5470152,13-24 months,Medium Risk
+4919-IKATY,Month-to-month,Electronic check,5,84.5,453.75,Yes,1,1,0.6088865,0-12 months,Medium Risk
+9746-UGFAC,One year,Bank transfer (automatic),22,20.85,450.65,No,0,0,0.037679143,13-24 months,Low Risk
+9108-EQPNQ,Two year,Credit card (automatic),10,26.1,225.55,No,0,0,0.019335115,0-12 months,Low Risk
+0531-ZZJWQ,Month-to-month,Electronic check,55,74.0,4052.4,No,0,1,0.3840905,49+ months,Medium Risk
+8763-KIAFH,One year,Mailed check,27,20.55,583.3,No,0,0,0.035162557,25-48 months,Low Risk
+5863-OOKCL,Month-to-month,Mailed check,10,18.85,163.2,No,0,0,0.09012644,0-12 months,Low Risk
+2958-NHPPS,Month-to-month,Electronic check,23,20.85,473.9,No,0,0,0.09308918,13-24 months,Low Risk
+9530-GRMJG,Two year,Electronic check,70,84.1,5979.7,No,0,0,0.049574845,49+ months,Low Risk
+1809-DMJHQ,Month-to-month,Mailed check,5,46.0,221.7,Yes,1,0,0.3037782,0-12 months,Medium Risk
+0164-XAIRP,Two year,Bank transfer (automatic),24,19.55,470.2,No,0,0,0.01620272,13-24 months,Low Risk
+2926-JEJJC,One year,Bank transfer (automatic),8,20.2,140.95,No,0,0,0.046267003,0-12 months,Low Risk
+1169-WCVAK,Month-to-month,Credit card (automatic),19,88.8,1672.35,No,0,0,0.26932994,13-24 months,Low Risk
+1217-VASWC,One year,Bank transfer (automatic),43,100.55,4304.0,No,0,0,0.2756387,25-48 months,Low Risk
+2452-KDRRH,Month-to-month,Credit card (automatic),67,101.4,6841.05,No,0,1,0.42883816,49+ months,Medium Risk
+6402-EJMWF,Month-to-month,Mailed check,4,55.3,238.5,No,0,1,0.41387022,0-12 months,Medium Risk
+7663-CUXZB,Two year,Electronic check,59,113.75,6561.25,No,0,0,0.101267494,49+ months,Low Risk
+4312-KFRXN,Two year,Mailed check,72,25.4,1710.9,No,0,0,0.011169491,49+ months,Low Risk
+3011-WQKSZ,Month-to-month,Electronic check,19,20.0,377.55,No,0,0,0.14379795,13-24 months,Low Risk
+9747-DDZOS,Month-to-month,Bank transfer (automatic),1,73.5,73.5,Yes,1,1,0.69756496,0-12 months,Medium Risk
+2091-MJTFX,Month-to-month,Credit card (automatic),30,51.2,1561.5,Yes,1,0,0.16054355,25-48 months,Low Risk
+0388-EOPEX,Month-to-month,Electronic check,2,74.4,139.4,Yes,1,1,0.5334416,0-12 months,Medium Risk
+3161-ONRWK,One year,Bank transfer (automatic),60,65.85,3928.3,No,0,0,0.034989104,49+ months,Low Risk
+2587-EKXTS,Month-to-month,Electronic check,44,111.5,4915.15,No,0,1,0.3888235,25-48 months,Medium Risk
+9752-ZNQUT,Month-to-month,Electronic check,1,48.6,48.6,No,0,1,0.6197695,0-12 months,Medium Risk
+9572-WUKSB,Month-to-month,Electronic check,3,29.9,92.25,No,0,1,0.4405739,0-12 months,Medium Risk
+3836-FZSDJ,Two year,Bank transfer (automatic),71,24.85,1901.0,No,0,0,0.013354532,49+ months,Low Risk
+8805-JNRAZ,Month-to-month,Mailed check,2,49.2,103.7,No,0,1,0.39672256,0-12 months,Medium Risk
+3069-SSVSN,One year,Mailed check,1,25.85,25.85,No,0,0,0.18846892,0-12 months,Low Risk
+8015-IHCGW,Two year,Electronic check,72,115.5,8425.15,No,0,0,0.03243012,49+ months,Low Risk
+8132-YPVBX,Month-to-month,Mailed check,6,85.95,514.6,No,0,1,0.68323517,0-12 months,Medium Risk
+0235-KGSLC,Month-to-month,Credit card (automatic),1,85.55,85.55,Yes,1,1,0.8206085,0-12 months,High Risk
+1302-UHBDD,Month-to-month,Electronic check,20,89.95,1648.45,No,0,1,0.48552537,13-24 months,Medium Risk
+3722-WPXTK,Month-to-month,Electronic check,1,88.35,88.35,Yes,1,1,0.8317789,0-12 months,High Risk
+7531-GQHME,Month-to-month,Credit card (automatic),12,20.05,265.45,No,0,0,0.10176882,0-12 months,Low Risk
+1335-NTIUC,Month-to-month,Electronic check,9,24.95,190.25,No,0,1,0.48724112,0-12 months,Medium Risk
+9367-TCUYN,Month-to-month,Mailed check,12,20.1,223.6,No,0,0,0.10394604,0-12 months,Low Risk
+1536-HBSWP,Month-to-month,Electronic check,1,49.9,49.9,No,0,1,0.48763356,0-12 months,Medium Risk
+8573-JGCZW,One year,Bank transfer (automatic),17,19.65,351.55,No,0,0,0.040541686,13-24 months,Low Risk
+2694-CIUMO,Month-to-month,Credit card (automatic),12,79.55,958.25,No,0,1,0.4909024,0-12 months,Medium Risk
+2027-FECZV,Month-to-month,Electronic check,12,106.7,1253.9,Yes,1,1,0.7280539,0-12 months,High Risk
+9103-TCIHJ,Month-to-month,Mailed check,15,55.7,899.8,Yes,1,0,0.22582643,13-24 months,Low Risk
+1545-JFUML,Two year,Electronic check,71,99.0,6994.6,No,0,0,0.07555811,49+ months,Low Risk
+0524-IAVZO,Month-to-month,Electronic check,30,85.0,2624.25,Yes,1,1,0.52412534,25-48 months,Medium Risk
+5519-TEEUH,One year,Mailed check,33,20.15,682.15,No,0,0,0.034370795,25-48 months,Low Risk
+6654-QGBZZ,Month-to-month,Mailed check,1,19.9,19.9,No,0,0,0.3058963,0-12 months,Medium Risk
+2294-DMMUS,Month-to-month,Credit card (automatic),62,70.45,4300.45,No,0,0,0.16799274,49+ months,Low Risk
+0017-IUDMW,Two year,Credit card (automatic),72,116.8,8456.75,No,0,0,0.030471053,49+ months,Low Risk
+5018-LXQQG,Month-to-month,Bank transfer (automatic),30,66.3,1923.5,No,0,0,0.1061933,25-48 months,Low Risk
+5808-TOTXO,One year,Credit card (automatic),3,20.55,57.4,No,0,0,0.04818999,0-12 months,Low Risk
+1174-FGIFN,One year,Electronic check,28,90.45,2509.25,No,0,0,0.18873805,25-48 months,Low Risk
+0730-KOAVE,Month-to-month,Credit card (automatic),30,94.3,2679.7,No,0,1,0.3377889,25-48 months,Medium Risk
+1218-VKFPE,Month-to-month,Mailed check,12,19.0,233.55,Yes,1,0,0.08409512,0-12 months,Low Risk
+5313-FPXWG,One year,Bank transfer (automatic),51,24.6,1266.4,No,0,0,0.03910352,49+ months,Low Risk
+2834-JKOOW,One year,Mailed check,15,45.9,693.45,No,0,0,0.052602474,13-24 months,Low Risk
+9430-NKQLY,Two year,Credit card (automatic),72,25.1,1790.8,No,0,0,0.010337203,49+ months,Low Risk
+0363-QJVFX,Month-to-month,Credit card (automatic),32,108.15,3432.9,Yes,1,1,0.34149718,25-48 months,Medium Risk
+1658-TJVOA,Month-to-month,Electronic check,6,74.1,450.9,No,0,1,0.5249028,0-12 months,Medium Risk
+6685-GBWJZ,One year,Credit card (automatic),63,70.8,4448.8,No,0,0,0.043548632,49+ months,Low Risk
+6328-ZPBGN,Month-to-month,Bank transfer (automatic),11,95.15,997.65,Yes,1,1,0.701213,0-12 months,High Risk
+4003-FUSHP,Month-to-month,Credit card (automatic),19,61.55,1093.2,No,0,0,0.18853426,13-24 months,Low Risk
+7690-KPNCU,One year,Credit card (automatic),64,73.05,4688.65,No,0,0,0.07219182,49+ months,Low Risk
+2969-WGHQO,One year,Electronic check,7,69.45,477.05,No,0,0,0.08192171,0-12 months,Low Risk
+1855-CFULU,Month-to-month,Mailed check,4,20.05,91.45,No,0,0,0.15025379,0-12 months,Low Risk
+9788-YTFGE,Month-to-month,Mailed check,7,19.95,147.5,No,0,0,0.14189231,0-12 months,Low Risk
+8266-VBFQL,Month-to-month,Electronic check,4,90.4,356.65,No,0,1,0.6541431,0-12 months,Medium Risk
+2325-NBPZG,Month-to-month,Electronic check,3,74.55,233.65,No,0,1,0.5269602,0-12 months,Medium Risk
+9906-NHHVC,Two year,Bank transfer (automatic),65,53.5,3517.9,No,0,0,0.06284741,49+ months,Low Risk
+2541-YGPKE,One year,Credit card (automatic),42,63.7,2763.35,No,0,0,0.061826285,25-48 months,Low Risk
+5049-MUBWG,One year,Bank transfer (automatic),26,75.0,1908.35,No,0,0,0.069018595,25-48 months,Low Risk
+2332-TODQS,One year,Credit card (automatic),48,25.05,1171.5,No,0,0,0.03753584,25-48 months,Low Risk
+4419-UJMUS,Two year,Electronic check,69,99.35,6856.45,No,0,0,0.12910838,49+ months,Low Risk
+2233-TXSIU,One year,Credit card (automatic),17,44.45,792.15,No,0,0,0.06750104,13-24 months,Low Risk
+6770-XUAGN,Month-to-month,Electronic check,1,21.0,21.0,Yes,1,1,0.3745328,0-12 months,Medium Risk
+2919-HBCJO,Month-to-month,Bank transfer (automatic),4,76.65,333.6,Yes,1,1,0.599958,0-12 months,Medium Risk
+9508-ILZDG,Month-to-month,Electronic check,34,96.35,3190.25,No,0,1,0.39727193,25-48 months,Medium Risk
+5442-BHQNG,Month-to-month,Electronic check,2,70.35,139.25,No,0,1,0.58637345,0-12 months,Medium Risk
+7250-EQKIY,Month-to-month,Mailed check,1,50.45,50.45,Yes,1,1,0.52831227,0-12 months,Medium Risk
+6838-HVLXG,Month-to-month,Mailed check,12,20.3,246.7,No,0,0,0.10394604,0-12 months,Low Risk
+9767-FFLEM,Month-to-month,Credit card (automatic),38,69.5,2625.25,No,0,0,0.29934868,25-48 months,Low Risk
+2245-ADZFJ,Two year,Bank transfer (automatic),31,80.55,2471.6,No,0,0,0.035267383,25-48 months,Low Risk
+1150-WFARN,Two year,Credit card (automatic),67,108.75,7156.2,Yes,1,0,0.109169364,49+ months,Low Risk
+9054-FOWNV,Month-to-month,Electronic check,22,88.75,1885.15,No,0,1,0.5816194,13-24 months,Medium Risk
+7997-EASSD,One year,Credit card (automatic),63,81.2,4965.1,No,0,0,0.07344076,49+ months,Low Risk
+7560-QJAVJ,Two year,Bank transfer (automatic),70,79.6,5589.45,No,0,0,0.02833393,49+ months,Low Risk
+2668-TZSPS,Month-to-month,Mailed check,1,20.45,20.45,No,0,0,0.29403707,0-12 months,Low Risk
+9139-WQQDY,One year,Mailed check,49,100.45,4941.8,Yes,1,0,0.20687248,49+ months,Low Risk
+6726-NNFWD,Two year,Credit card (automatic),71,89.45,6435.25,No,0,0,0.057357803,49+ months,Low Risk
+9330-DHBFL,One year,Mailed check,23,66.25,1533.8,No,0,0,0.048834383,13-24 months,Low Risk
+5727-MYATE,Two year,Credit card (automatic),72,90.8,6397.6,No,0,0,0.011782456,49+ months,Low Risk
+2824-DXNKN,Two year,Bank transfer (automatic),72,71.45,5025.85,No,0,0,0.02368005,49+ months,Low Risk
+6166-ILMNY,Month-to-month,Bank transfer (automatic),2,69.75,144.55,Yes,1,1,0.53400636,0-12 months,Medium Risk
+5236-XMZJY,Month-to-month,Bank transfer (automatic),42,59.65,2536.55,No,0,0,0.11277916,25-48 months,Low Risk
+1709-EJDOX,Two year,Mailed check,47,19.75,948.9,No,0,0,0.015566123,25-48 months,Low Risk
+4962-CHQPW,One year,Mailed check,29,19.85,535.05,No,0,0,0.03325554,25-48 months,Low Risk
+0301-FIDRB,Two year,Bank transfer (automatic),72,63.8,4684.3,No,0,0,0.011848369,49+ months,Low Risk
+1820-TQVEV,Month-to-month,Electronic check,1,69.55,69.55,Yes,1,1,0.8049369,0-12 months,High Risk
+9115-YQHGA,Month-to-month,Electronic check,40,51.1,2092.9,No,0,0,0.17532282,25-48 months,Low Risk
+1541-ETJZO,Month-to-month,Mailed check,1,62.05,62.05,Yes,1,1,0.3485223,0-12 months,Medium Risk
+6230-BSUXY,Month-to-month,Electronic check,1,85.0,85.0,Yes,1,1,0.82938474,0-12 months,High Risk
+6797-LNAQX,Two year,Bank transfer (automatic),70,98.3,6859.5,Yes,1,0,0.08412197,49+ months,Low Risk
+9588-YRFHY,Two year,Credit card (automatic),49,19.9,1022.6,No,0,0,0.01624031,49+ months,Low Risk
+1092-GANHU,Month-to-month,Electronic check,17,76.65,1313.55,Yes,1,1,0.45743382,13-24 months,Medium Risk
+5951-AOFIH,Month-to-month,Credit card (automatic),33,66.4,2245.4,No,0,0,0.18107167,25-48 months,Low Risk
+7029-RPUAV,Month-to-month,Credit card (automatic),17,100.45,1622.45,Yes,1,1,0.59921545,13-24 months,Medium Risk
+4700-UBQMV,One year,Bank transfer (automatic),21,75.9,1549.75,No,0,0,0.101176485,13-24 months,Low Risk
+3594-UVONA,One year,Credit card (automatic),35,85.95,3110.1,Yes,1,0,0.08076766,25-48 months,Low Risk
+7750-EYXWZ,One year,Electronic check,12,60.65,743.3,No,0,0,0.16139606,0-12 months,Low Risk
+7054-ENNGU,Month-to-month,Mailed check,9,50.85,466.6,No,0,0,0.20120932,0-12 months,Low Risk
+0402-OAMEN,Two year,Bank transfer (automatic),72,24.45,1709.1,No,0,0,0.009885151,49+ months,Low Risk
+2195-VVRJF,Month-to-month,Credit card (automatic),18,59.1,1011.05,No,0,0,0.20411953,13-24 months,Low Risk
+8819-ZBYNA,Two year,Credit card (automatic),58,109.1,6393.65,No,0,0,0.103232704,49+ months,Low Risk
+7748-UMTRK,Month-to-month,Electronic check,30,101.3,2974.5,No,0,1,0.5125594,25-48 months,Medium Risk
+1741-WTPON,Two year,Mailed check,56,115.85,6567.9,No,0,0,0.09246672,49+ months,Low Risk
+7209-JCUDS,Month-to-month,Electronic check,10,94.9,1048.85,Yes,1,1,0.74165046,0-12 months,High Risk
+2485-ITVKB,Month-to-month,Electronic check,2,35.1,68.75,Yes,1,1,0.69038254,0-12 months,Medium Risk
+9648-BCHKM,Two year,Credit card (automatic),18,24.65,471.35,No,0,0,0.018524315,13-24 months,Low Risk
+0743-HRVFF,One year,Electronic check,51,56.15,2898.95,No,0,0,0.14916746,49+ months,Low Risk
+2522-AHJXR,Month-to-month,Bank transfer (automatic),60,109.45,6572.85,No,0,0,0.31230083,49+ months,Medium Risk
+9143-CANJF,Month-to-month,Electronic check,24,55.15,1319.85,No,0,0,0.13854414,13-24 months,Low Risk
+1444-VVSGW,One year,Credit card (automatic),70,115.65,7968.85,Yes,1,0,0.17347346,49+ months,Low Risk
+6898-MDLZW,Month-to-month,Mailed check,12,53.75,648.65,No,0,0,0.17863376,0-12 months,Low Risk
+0074-HDKDG,One year,Bank transfer (automatic),25,61.6,1611.0,No,0,0,0.056553476,25-48 months,Low Risk
+3982-JGSFD,One year,Credit card (automatic),36,20.35,695.85,No,0,0,0.035748515,25-48 months,Low Risk
+7928-VJYAB,Month-to-month,Electronic check,11,90.6,1020.2,No,0,1,0.5624162,0-12 months,Medium Risk
+1522-VVDMG,Month-to-month,Electronic check,7,89.75,608.8,Yes,1,1,0.5688282,0-12 months,Medium Risk
+2665-NPTGL,Month-to-month,Bank transfer (automatic),26,98.1,2510.7,No,0,1,0.54937625,25-48 months,Medium Risk
+8728-SKJLR,Month-to-month,Electronic check,41,74.25,3089.1,No,0,0,0.29273966,25-48 months,Low Risk
+7733-UDMTP,Month-to-month,Electronic check,57,55.0,3094.05,No,0,1,0.32595107,49+ months,Medium Risk
+0431-APWVY,One year,Bank transfer (automatic),28,90.1,2598.95,Yes,1,0,0.16622612,25-48 months,Low Risk
+5081-NWSUP,One year,Mailed check,10,64.9,685.55,No,0,0,0.11253518,0-12 months,Low Risk
+2746-DIJLO,One year,Credit card (automatic),41,56.3,2364.0,No,0,0,0.09335987,25-48 months,Low Risk
+7277-OZCGZ,Month-to-month,Electronic check,22,89.05,1886.25,No,0,1,0.3579026,13-24 months,Medium Risk
+5236-PERKL,Two year,Bank transfer (automatic),57,112.95,6465.0,Yes,1,0,0.11986605,49+ months,Low Risk
+2788-CJQAQ,One year,Mailed check,13,19.45,270.2,No,0,0,0.041116994,13-24 months,Low Risk
+3096-WPXBT,One year,Credit card (automatic),61,100.7,6018.65,No,0,0,0.14019218,49+ months,Low Risk
+9962-BFPDU,Month-to-month,Mailed check,1,20.05,20.05,No,0,0,0.31041571,0-12 months,Medium Risk
+2892-GESUL,Two year,Mailed check,18,19.35,309.25,No,0,0,0.015398062,13-24 months,Low Risk
+9741-YLNTD,Month-to-month,Bank transfer (automatic),6,87.95,522.35,No,0,1,0.6863178,0-12 months,Medium Risk
+1205-WNWPJ,Month-to-month,Mailed check,7,59.5,415.95,Yes,1,0,0.29129612,0-12 months,Low Risk
+3173-NVMPX,Month-to-month,Mailed check,9,55.3,501.2,No,0,0,0.29975384,0-12 months,Low Risk
+9661-MHUMO,Month-to-month,Credit card (automatic),1,49.25,49.25,Yes,1,1,0.4686881,0-12 months,Medium Risk
+6000-APYLU,Month-to-month,Electronic check,9,80.8,713.1,Yes,1,1,0.6525573,0-12 months,Medium Risk
+0048-PIHNL,One year,Bank transfer (automatic),49,20.45,900.9,No,0,0,0.034736488,49+ months,Low Risk
+9420-LOJKX,Month-to-month,Credit card (automatic),15,99.1,1426.4,Yes,1,1,0.5171289,13-24 months,Medium Risk
+7061-OVMIM,One year,Bank transfer (automatic),30,19.55,608.5,No,0,0,0.034022518,25-48 months,Low Risk
+5671-RQRLP,Two year,Credit card (automatic),70,75.65,5411.4,No,0,0,0.06677859,49+ months,Low Risk
+5129-JLPIS,Month-to-month,Electronic check,25,105.5,2686.05,No,0,1,0.544762,25-48 months,Medium Risk
+5170-PTRKA,One year,Credit card (automatic),49,35.8,1782.0,No,0,0,0.04151235,49+ months,Low Risk
+4819-HJPIW,Month-to-month,Mailed check,18,25.15,476.8,No,0,0,0.20924523,13-24 months,Low Risk
+8780-RSYYU,Month-to-month,Credit card (automatic),25,19.2,532.1,No,0,0,0.08913237,25-48 months,Low Risk
+2335-GSODA,Two year,Mailed check,23,40.1,857.75,No,0,0,0.02496261,13-24 months,Low Risk
+5696-CEIQJ,Two year,Bank transfer (automatic),67,103.15,6895.5,No,0,0,0.0672003,49+ months,Low Risk
+6169-PPETC,Two year,Bank transfer (automatic),35,20.5,759.35,No,0,0,0.015208662,25-48 months,Low Risk
+4237-RLAQD,Month-to-month,Mailed check,1,45.85,45.85,Yes,1,1,0.5886122,0-12 months,Medium Risk
+7359-WWYJV,Two year,Credit card (automatic),72,114.45,8375.05,No,0,0,0.039903395,49+ months,Low Risk
+8620-RJPZN,Month-to-month,Electronic check,1,20.7,20.7,No,0,0,0.31395584,0-12 months,Medium Risk
+7426-WEIJX,Month-to-month,Electronic check,60,80.95,4859.1,No,0,0,0.2154221,49+ months,Low Risk
+7629-WIXZF,One year,Electronic check,7,59.1,369.25,No,0,0,0.12977895,0-12 months,Low Risk
+2616-FLVQC,Two year,Mailed check,64,19.55,1240.15,No,0,0,0.014860975,49+ months,Low Risk
+9163-GHAYE,Month-to-month,Electronic check,15,48.85,736.8,No,0,0,0.21589552,13-24 months,Low Risk
+4464-JCOLN,One year,Mailed check,2,19.85,35.9,Yes,1,0,0.04699691,0-12 months,Low Risk
+2971-SGAFL,Month-to-month,Electronic check,13,78.75,995.35,No,0,1,0.40913907,13-24 months,Medium Risk
+4735-ASGMA,Month-to-month,Electronic check,26,98.35,2515.3,Yes,1,1,0.6729026,25-48 months,Medium Risk
+5245-VDBUR,One year,Mailed check,52,35.45,1958.95,No,0,0,0.047856066,49+ months,Low Risk
+1493-AMTIE,Month-to-month,Bank transfer (automatic),1,20.2,20.2,Yes,1,1,0.32145864,0-12 months,Medium Risk
+1112-CUNAO,Month-to-month,Electronic check,15,89.85,1424.95,Yes,1,1,0.5551664,13-24 months,Medium Risk
+7571-YXDAD,Month-to-month,Credit card (automatic),2,74.9,147.15,Yes,1,1,0.5825571,0-12 months,Medium Risk
+8714-EUHJO,Month-to-month,Electronic check,31,91.15,2995.45,Yes,1,1,0.46403286,25-48 months,Medium Risk
+9040-KZVWO,One year,Bank transfer (automatic),26,75.5,2018.1,No,0,0,0.07581625,25-48 months,Low Risk
+6713-OKOMC,Month-to-month,Mailed check,10,29.75,301.9,No,0,0,0.20348552,0-12 months,Low Risk
+8749-CLJXC,Month-to-month,Mailed check,1,20.05,20.05,No,0,0,0.3058963,0-12 months,Medium Risk
+4713-LZDRV,Month-to-month,Electronic check,2,79.6,195.05,Yes,1,1,0.73667747,0-12 months,High Risk
+6598-RFFVI,One year,Credit card (automatic),2,19.3,28.3,Yes,1,0,0.0410151,0-12 months,Low Risk
+7470-MCQTK,Month-to-month,Bank transfer (automatic),13,48.75,633.4,Yes,1,1,0.38049525,13-24 months,Medium Risk
+5524-KHNJP,One year,Credit card (automatic),33,74.75,2453.3,No,0,0,0.0748408,25-48 months,Low Risk
+1707-HABPF,One year,Bank transfer (automatic),46,91.3,4126.35,No,0,0,0.09641668,25-48 months,Low Risk
+4581-LNWUM,Month-to-month,Electronic check,13,49.15,649.4,No,0,1,0.41374928,13-24 months,Medium Risk
+9710-ZUSHQ,Month-to-month,Bank transfer (automatic),37,106.75,4056.75,Yes,1,1,0.3594644,25-48 months,Medium Risk
+1697-LYYYX,One year,Credit card (automatic),61,19.1,1143.8,No,0,0,0.02899391,49+ months,Low Risk
+4013-GUXND,Month-to-month,Mailed check,1,20.8,20.8,No,0,0,0.29403707,0-12 months,Low Risk
+5022-JNQEQ,Month-to-month,Electronic check,9,75.85,647.5,No,0,1,0.5457382,0-12 months,Medium Risk
+4983-CCWMC,Month-to-month,Mailed check,3,69.6,207.4,No,0,1,0.5998209,0-12 months,Medium Risk
+6345-FZOQH,Two year,Mailed check,69,19.9,1363.45,No,0,0,0.014860975,49+ months,Low Risk
+0962-CQPWQ,Two year,Bank transfer (automatic),62,20.3,1296.15,No,0,0,0.013975844,49+ months,Low Risk
+5495-GPSRW,Two year,Mailed check,20,19.7,419.4,No,0,0,0.016878556,13-24 months,Low Risk
+2252-JHJGE,One year,Electronic check,61,104.0,6363.45,No,0,0,0.25178733,49+ months,Low Risk
+7356-AYNJP,One year,Electronic check,4,23.9,97.5,No,0,0,0.068827204,0-12 months,Low Risk
+2019-HDCZY,Two year,Electronic check,63,102.6,6296.75,No,0,0,0.21673188,49+ months,Low Risk
+8582-KRHPJ,Month-to-month,Mailed check,50,35.0,1782.4,No,0,0,0.13808887,49+ months,Low Risk
+2867-UIMSS,Month-to-month,Electronic check,1,80.5,80.5,Yes,1,1,0.7665825,0-12 months,High Risk
+3487-EARAT,One year,Credit card (automatic),70,74.1,5222.3,No,0,0,0.05761517,49+ months,Low Risk
+9926-PJHDQ,Two year,Bank transfer (automatic),72,76.8,5468.45,No,0,0,0.062190626,49+ months,Low Risk
+0289-IVARM,Month-to-month,Electronic check,35,60.55,1982.6,No,0,0,0.13426885,25-48 months,Low Risk
+4672-FOTSD,Month-to-month,Electronic check,12,67.25,832.3,No,0,0,0.19085492,0-12 months,Low Risk
+6198-PNNSZ,One year,Bank transfer (automatic),56,109.8,6109.65,No,0,0,0.19595961,49+ months,Low Risk
+7603-USHJS,Month-to-month,Credit card (automatic),12,73.75,871.4,Yes,1,1,0.4918812,0-12 months,Medium Risk
+6784-XYJAE,One year,Electronic check,36,55.8,1941.5,No,0,0,0.12141899,25-48 months,Low Risk
+3858-XHYJO,One year,Bank transfer (automatic),40,105.75,4228.55,No,0,0,0.2482302,25-48 months,Low Risk
+1087-UDSIH,Month-to-month,Mailed check,3,19.6,59.75,Yes,1,0,0.1839666,0-12 months,Low Risk
+7251-LJBQN,One year,Credit card (automatic),40,103.75,4188.4,No,0,0,0.31774396,25-48 months,Medium Risk
+3200-MNQTF,Two year,Credit card (automatic),67,70.9,4677.1,No,0,0,0.019463718,49+ months,Low Risk
+9359-UGBTK,One year,Bank transfer (automatic),67,72.35,4991.5,No,0,0,0.05754287,49+ months,Low Risk
+8160-HOWOX,Month-to-month,Electronic check,7,66.85,458.1,No,0,1,0.43842804,0-12 months,Medium Risk
+0258-NOKBL,Month-to-month,Electronic check,3,90.4,268.45,No,0,1,0.6233967,0-12 months,Medium Risk
+2800-QQUSO,Month-to-month,Electronic check,42,100.3,4222.95,No,0,1,0.5298399,25-48 months,Medium Risk
+2129-ALKBS,Month-to-month,Electronic check,40,26.2,1077.5,No,0,0,0.10378299,25-48 months,Low Risk
+9972-VAFJJ,One year,Electronic check,53,94.0,4871.45,No,0,0,0.133569,49+ months,Low Risk
+4693-VWVBO,Month-to-month,Electronic check,3,19.55,61.05,No,0,0,0.16864225,0-12 months,Low Risk
+6969-MVBAI,Month-to-month,Electronic check,9,90.1,816.8,No,0,1,0.77449906,0-12 months,High Risk
+4821-WQOYN,Two year,Credit card (automatic),72,20.1,1326.25,No,0,0,0.009202968,49+ months,Low Risk
+6769-DYBQN,Month-to-month,Electronic check,46,85.0,3969.4,Yes,1,0,0.28181508,25-48 months,Low Risk
+4018-PPNDW,Two year,Mailed check,61,24.1,1551.6,No,0,0,0.014235674,49+ months,Low Risk
+6288-CHQJB,Two year,Bank transfer (automatic),54,69.95,3871.85,No,0,0,0.020264463,49+ months,Low Risk
+4905-JEFDW,One year,Electronic check,11,41.6,470.6,Yes,1,0,0.27312237,0-12 months,Low Risk
+0559-CKHUS,Two year,Mailed check,29,19.55,521.8,No,0,0,0.01620272,25-48 months,Low Risk
+2659-VXMWZ,One year,Electronic check,67,111.3,7482.1,Yes,1,0,0.20897874,49+ months,Low Risk
+6559-RAKOZ,One year,Electronic check,49,97.95,4917.9,No,0,0,0.23756386,49+ months,Low Risk
+8809-XKHMD,Two year,Bank transfer (automatic),72,100.55,7325.1,No,0,0,0.024108537,49+ months,Low Risk
+6365-HITVU,Two year,Credit card (automatic),71,87.25,6328.7,No,0,0,0.014177317,49+ months,Low Risk
+0134-XWXCE,One year,Bank transfer (automatic),44,74.85,3268.05,No,0,0,0.109688096,25-48 months,Low Risk
+9720-JJJOR,One year,Bank transfer (automatic),41,60.3,2511.3,No,0,0,0.054562293,25-48 months,Low Risk
+2782-LFZVW,Month-to-month,Mailed check,11,58.95,601.6,No,0,0,0.31639692,0-12 months,Medium Risk
+6112-KTHFQ,Month-to-month,Mailed check,13,19.3,279.3,No,0,0,0.1171393,13-24 months,Low Risk
+9220-ZNKJI,Two year,Credit card (automatic),55,88.8,4805.3,No,0,0,0.04083615,49+ months,Low Risk
+9820-RMCQV,Month-to-month,Credit card (automatic),11,48.55,501.0,Yes,1,0,0.16253366,0-12 months,Low Risk
+9013-AQORL,Month-to-month,Credit card (automatic),48,45.55,2108.35,No,0,0,0.17373203,25-48 months,Low Risk
+2040-OBMLJ,One year,Credit card (automatic),31,81.7,2548.65,No,0,0,0.08695203,25-48 months,Low Risk
+5574-NXZIU,Two year,Credit card (automatic),63,109.2,7049.75,No,0,0,0.08774577,49+ months,Low Risk
+5446-DKWYW,One year,Electronic check,61,65.2,3965.05,No,0,0,0.13754627,49+ months,Low Risk
+0480-KYJVA,Two year,Credit card (automatic),72,24.25,1784.5,No,0,0,0.009885151,49+ months,Low Risk
+1074-AMIOH,Month-to-month,Bank transfer (automatic),53,108.25,5935.1,No,0,1,0.34191033,49+ months,Medium Risk
+0015-UOCOJ,Month-to-month,Electronic check,7,48.2,340.35,No,0,1,0.33130756,0-12 months,Medium Risk
+0256-LTHVJ,Month-to-month,Electronic check,28,81.05,2227.1,Yes,1,1,0.42596418,25-48 months,Medium Risk
+4547-LYTDD,Month-to-month,Electronic check,16,72.65,1194.3,Yes,1,1,0.45165578,13-24 months,Medium Risk
+1077-HUUJM,Month-to-month,Electronic check,7,71.05,472.65,No,0,1,0.62156564,0-12 months,Medium Risk
+2041-JIJCI,Month-to-month,Electronic check,5,64.0,370.25,No,0,1,0.52197653,0-12 months,Medium Risk
+1555-HAPSU,Two year,Credit card (automatic),71,23.9,1663.5,No,0,0,0.011233989,49+ months,Low Risk
+4323-SADQS,Month-to-month,Electronic check,7,34.5,279.25,Yes,1,0,0.26310623,0-12 months,Low Risk
+3292-PBZEJ,Month-to-month,Electronic check,11,111.4,1183.05,No,0,1,0.7069575,0-12 months,High Risk
+6203-HBZPA,Two year,Credit card (automatic),52,63.9,3334.95,No,0,0,0.021372294,49+ months,Low Risk
+9755-JHNMN,Two year,Bank transfer (automatic),49,67.4,3306.85,No,0,0,0.015471192,49+ months,Low Risk
+7369-TRPFD,One year,Mailed check,19,18.8,279.2,No,0,0,0.032732125,13-24 months,Low Risk
+9878-TNQGW,Month-to-month,Electronic check,2,80.95,171.15,Yes,1,1,0.724937,0-12 months,High Risk
+2279-AXJJK,Month-to-month,Credit card (automatic),52,95.65,5088.4,No,0,0,0.30355763,49+ months,Medium Risk
+5016-IBERQ,Month-to-month,Electronic check,23,84.25,1968.1,No,0,1,0.4043783,13-24 months,Medium Risk
+1016-DJTSV,Month-to-month,Electronic check,8,69.7,572.85,No,0,1,0.61666995,0-12 months,Medium Risk
+8433-WPJTV,One year,Bank transfer (automatic),65,103.9,6767.1,No,0,0,0.21391067,49+ months,Low Risk
+8903-XEBGX,Month-to-month,Electronic check,2,55.3,108.65,No,0,1,0.5644266,0-12 months,Medium Risk
+2632-TACXW,Two year,Bank transfer (automatic),62,23.65,1416.75,No,0,0,0.015376968,49+ months,Low Risk
+7952-OBOYL,Month-to-month,Mailed check,3,89.85,244.45,No,0,1,0.6473749,0-12 months,Medium Risk
+1470-PSXNM,One year,Electronic check,49,93.65,4520.15,No,0,0,0.19836856,49+ months,Low Risk
+6227-HWPWX,Month-to-month,Bank transfer (automatic),15,69.0,994.8,Yes,1,1,0.3564787,13-24 months,Medium Risk
+5924-SNGKP,One year,Credit card (automatic),41,20.25,865.0,No,0,0,0.035162557,25-48 months,Low Risk
+8818-DOPVL,Month-to-month,Electronic check,46,104.45,4863.85,No,0,1,0.50877464,25-48 months,Medium Risk
+4521-WFJAI,Two year,Bank transfer (automatic),56,25.95,1444.05,No,0,0,0.017069247,49+ months,Low Risk
+4724-WXVWF,Month-to-month,Electronic check,48,95.4,4445.3,No,0,1,0.3285877,25-48 months,Medium Risk
+3717-OEAUQ,Month-to-month,Mailed check,2,70.7,129.2,No,0,1,0.52813053,0-12 months,Medium Risk
+8165-ZJRNM,Two year,Bank transfer (automatic),72,23.75,1679.25,No,0,0,0.009885151,49+ months,Low Risk
+7838-LAZFO,One year,Bank transfer (automatic),45,78.8,3597.5,No,0,0,0.073705204,25-48 months,Low Risk
+0513-RBGPE,Two year,Credit card (automatic),37,62.8,2278.75,No,0,0,0.021277122,25-48 months,Low Risk
+7251-XFOIL,Month-to-month,Mailed check,61,89.2,5500.6,No,0,0,0.2401325,49+ months,Low Risk
+2525-GVKQU,Two year,Mailed check,60,20.6,1093.0,No,0,0,0.015084987,49+ months,Low Risk
+7579-OOPEC,Month-to-month,Credit card (automatic),2,50.15,115.1,Yes,1,1,0.41693395,0-12 months,Medium Risk
+3795-GWTRD,Two year,Credit card (automatic),63,75.55,4707.85,No,0,0,0.018255008,49+ months,Low Risk
+4750-ZRXIU,Month-to-month,Electronic check,4,84.6,360.1,Yes,1,1,0.8144854,0-12 months,High Risk
+5445-PZWGX,One year,Electronic check,62,102.0,6529.25,Yes,1,0,0.15833667,49+ months,Low Risk
+0516-UXRMT,One year,Electronic check,62,92.05,5755.8,No,0,0,0.08292125,49+ months,Low Risk
+0727-BNRLG,Two year,Credit card (automatic),69,97.65,6743.55,No,0,0,0.059272382,49+ months,Low Risk
+3932-CMDTD,One year,Electronic check,4,105.65,443.9,Yes,1,1,0.3885482,0-12 months,Medium Risk
+1264-FUHCX,One year,Credit card (automatic),49,56.3,2780.6,No,0,0,0.11960924,49+ months,Low Risk
+6194-HBGQN,One year,Credit card (automatic),51,81.15,4126.2,No,0,0,0.054729875,49+ months,Low Risk
+4524-QCSSM,Month-to-month,Bank transfer (automatic),26,44.65,1156.55,No,0,0,0.17083664,25-48 months,Low Risk
+4570-QHXHL,Month-to-month,Electronic check,9,43.75,405.7,No,0,1,0.38686574,0-12 months,Medium Risk
+2972-YDYUW,One year,Electronic check,57,94.7,5468.95,No,0,0,0.13777004,49+ months,Low Risk
+2061-VVFST,Month-to-month,Bank transfer (automatic),37,19.5,805.2,No,0,0,0.078948796,25-48 months,Low Risk
+6874-SGLHU,One year,Bank transfer (automatic),30,97.0,3021.3,No,0,0,0.19246751,25-48 months,Low Risk
+9844-FELAJ,One year,Electronic check,70,107.9,7475.85,No,0,0,0.2174565,49+ months,Low Risk
+1902-XBTFB,Month-to-month,Electronic check,22,89.4,2001.5,Yes,1,1,0.52119976,13-24 months,Medium Risk
+9039-RBEEE,Month-to-month,Credit card (automatic),39,48.95,1880.85,Yes,1,0,0.11883306,25-48 months,Low Risk
+9369-XFEHK,Month-to-month,Bank transfer (automatic),33,80.6,2656.5,Yes,1,1,0.37402996,25-48 months,Medium Risk
+3680-CTHUH,One year,Credit card (automatic),60,116.6,7049.5,No,0,0,0.16558605,49+ months,Low Risk
+3679-XASPY,Month-to-month,Electronic check,1,19.45,19.45,No,0,1,0.33092391,0-12 months,Medium Risk
+9089-UOWJG,Month-to-month,Credit card (automatic),12,58.35,740.55,No,0,0,0.26450545,0-12 months,Low Risk
+1574-DYCWE,Two year,Mailed check,51,19.95,1028.75,No,0,0,0.015274297,49+ months,Low Risk
+9779-DPNEJ,Month-to-month,Electronic check,22,80.15,1790.65,No,0,1,0.47206572,13-24 months,Medium Risk
+2967-MXRAV,One year,Mailed check,1,18.8,18.8,No,0,0,0.065601274,0-12 months,Low Risk
+0327-WFZSY,One year,Electronic check,39,100.0,3835.55,No,0,0,0.31570604,25-48 months,Medium Risk
+1731-TVIUK,Month-to-month,Electronic check,4,93.5,362.2,Yes,1,1,0.6891019,0-12 months,Medium Risk
+7666-WKRON,Two year,Electronic check,39,80.45,3201.55,Yes,1,0,0.088156596,25-48 months,Low Risk
+3865-ZYKAD,Month-to-month,Credit card (automatic),69,84.9,5785.65,No,0,0,0.20420471,49+ months,Low Risk
+1465-LNTLJ,Month-to-month,Credit card (automatic),8,64.4,581.7,No,0,0,0.25774428,0-12 months,Low Risk
+2696-RZVZW,Two year,Credit card (automatic),68,25.05,1629.2,No,0,0,0.016944794,49+ months,Low Risk
+0685-MLYYM,Month-to-month,Electronic check,2,70.75,154.85,Yes,1,1,0.61413944,0-12 months,Medium Risk
+2778-OCLGR,Month-to-month,Bank transfer (automatic),24,39.1,971.3,Yes,1,0,0.23143832,13-24 months,Low Risk
+3982-XWFZQ,Month-to-month,Electronic check,42,50.25,2203.65,Yes,1,0,0.27837247,25-48 months,Low Risk
+4759-PXTAN,One year,Electronic check,59,80.1,4693.2,No,0,0,0.1207548,49+ months,Low Risk
+1448-PWKYE,Month-to-month,Electronic check,1,80.0,80.0,Yes,1,1,0.7660096,0-12 months,High Risk
+8741-LQOBK,Month-to-month,Bank transfer (automatic),46,35.05,1620.25,No,0,0,0.11676819,25-48 months,Low Risk
+8650-RHRKE,Month-to-month,Electronic check,4,29.65,118.5,Yes,1,1,0.56805766,0-12 months,Medium Risk
+7266-GSSJX,Month-to-month,Electronic check,11,20.45,250.8,No,0,0,0.15601914,0-12 months,Low Risk
+1265-HVPZB,One year,Credit card (automatic),59,66.4,3958.2,No,0,0,0.045803502,49+ months,Low Risk
+9640-ZSLDC,One year,Credit card (automatic),53,60.6,3297.0,No,0,0,0.087100506,49+ months,Low Risk
+0988-JRWWP,Month-to-month,Electronic check,3,54.2,140.4,No,0,1,0.51457566,0-12 months,Medium Risk
+1926-QUZNN,Two year,Bank transfer (automatic),72,25.25,1841.2,No,0,0,0.0106814355,49+ months,Low Risk
+9025-ZRPVR,Month-to-month,Mailed check,9,18.95,185.6,Yes,1,0,0.11472114,0-12 months,Low Risk
+6527-PZFPV,One year,Credit card (automatic),24,20.8,469.65,No,0,0,0.03661783,13-24 months,Low Risk
+7460-ITWWP,Month-to-month,Electronic check,45,86.1,3861.45,No,0,1,0.39852437,25-48 months,Medium Risk
+1530-ZTDOZ,Month-to-month,Bank transfer (automatic),49,40.65,2070.75,No,0,0,0.15032454,49+ months,Low Risk
+4785-FCIFB,Two year,Mailed check,61,24.4,1417.9,No,0,0,0.015376968,49+ months,Low Risk
+9717-QEBGU,Month-to-month,Electronic check,2,70.3,144.0,No,0,1,0.6690221,0-12 months,Medium Risk
+0876-WDUUZ,Month-to-month,Credit card (automatic),5,85.4,425.9,Yes,1,1,0.64668244,0-12 months,Medium Risk
+7881-EVUAD,Month-to-month,Electronic check,2,42.6,72.4,Yes,1,1,0.45305085,0-12 months,Medium Risk
+4002-BQWPQ,Month-to-month,Bank transfer (automatic),25,81.75,2028.8,No,0,0,0.11634022,25-48 months,Low Risk
+6377-WHAOX,Month-to-month,Electronic check,60,106.15,6411.25,No,0,1,0.39041063,49+ months,Medium Risk
+5027-YOCXN,One year,Credit card (automatic),51,110.05,5686.4,No,0,0,0.19609691,49+ months,Low Risk
+8450-JOVAH,Month-to-month,Mailed check,2,56.7,113.55,Yes,1,0,0.29644078,0-12 months,Low Risk
+6646-QVXLR,One year,Electronic check,62,103.75,6383.35,Yes,1,1,0.3205959,49+ months,Medium Risk
+0254-KCJGT,One year,Credit card (automatic),52,81.4,4354.45,No,0,0,0.06835153,49+ months,Low Risk
+3442-ZHHCC,One year,Credit card (automatic),68,76.9,5023.0,No,0,0,0.07334233,49+ months,Low Risk
+9167-APMXZ,Month-to-month,Bank transfer (automatic),22,84.15,1821.95,No,0,1,0.45801976,13-24 months,Medium Risk
+0616-ATFGB,Month-to-month,Electronic check,1,25.05,25.05,Yes,1,1,0.7101295,0-12 months,High Risk
+7273-TEFQD,Month-to-month,Electronic check,3,41.15,132.2,Yes,1,1,0.67363775,0-12 months,Medium Risk
+8245-UMPYT,Month-to-month,Electronic check,16,96.4,1581.2,Yes,1,1,0.7432329,13-24 months,High Risk
+6022-UGGSO,Month-to-month,Electronic check,32,74.4,2276.95,Yes,1,1,0.4193956,25-48 months,Medium Risk
+6292-TOSSS,Two year,Bank transfer (automatic),50,24.9,1195.25,No,0,0,0.018649673,49+ months,Low Risk
+5207-PLSTK,Month-to-month,Mailed check,1,48.75,48.75,No,0,1,0.44097245,0-12 months,Medium Risk
+3908-BLSYF,Month-to-month,Electronic check,6,83.9,497.55,Yes,1,1,0.62855273,0-12 months,Medium Risk
+4317-VTEOA,Month-to-month,Electronic check,1,50.75,50.75,Yes,1,1,0.6277296,0-12 months,Medium Risk
+0625-AFOHS,Two year,Mailed check,29,20.2,558.8,No,0,0,0.015566123,25-48 months,Low Risk
+4667-OHGKG,Month-to-month,Mailed check,1,19.3,19.3,Yes,1,0,0.2854852,0-12 months,Low Risk
+2386-OWURY,Month-to-month,Electronic check,58,95.3,5817.7,No,0,0,0.31447583,49+ months,Medium Risk
+3780-DDGSE,Month-to-month,Electronic check,35,76.05,2747.2,No,0,0,0.18940538,25-48 months,Low Risk
+1047-RNXZV,Two year,Mailed check,43,19.55,876.15,No,0,0,0.015830874,25-48 months,Low Risk
+3926-YZVVX,One year,Bank transfer (automatic),41,50.05,2029.05,No,0,0,0.058803268,25-48 months,Low Risk
+4742-TXUEX,Two year,Bank transfer (automatic),47,19.3,890.5,No,0,0,0.014440922,25-48 months,Low Risk
+8709-KRDVL,Month-to-month,Electronic check,33,100.0,3320.6,No,0,1,0.55921775,25-48 months,Medium Risk
+0397-ZXWQF,Two year,Bank transfer (automatic),67,20.5,1430.95,No,0,0,0.014860975,49+ months,Low Risk
+3910-MRQOY,Two year,Bank transfer (automatic),72,19.4,1496.45,No,0,0,0.010637104,49+ months,Low Risk
+2511-MORQY,One year,Bank transfer (automatic),50,54.9,2614.1,No,0,0,0.07317195,49+ months,Low Risk
+4039-PIMHX,Two year,Mailed check,49,49.8,2398.4,No,0,0,0.04627945,49+ months,Low Risk
+8083-YTZES,Month-to-month,Electronic check,4,74.35,265.35,Yes,1,1,0.7315238,0-12 months,High Risk
+1346-PJWTK,Month-to-month,Credit card (automatic),61,94.15,5731.85,No,0,0,0.20230298,49+ months,Low Risk
+3750-YHRYO,One year,Mailed check,7,20.65,150.0,No,0,0,0.041509174,0-12 months,Low Risk
+1236-WFCDV,Month-to-month,Credit card (automatic),14,90.45,1266.1,Yes,1,1,0.45282605,13-24 months,Medium Risk
+5949-HGVJL,Month-to-month,Electronic check,26,73.05,1959.5,No,0,0,0.185164,25-48 months,Low Risk
+9112-WSNPU,Month-to-month,Electronic check,35,70.55,2419.0,No,0,1,0.35270286,25-48 months,Medium Risk
+1360-JYXKQ,One year,Electronic check,54,99.1,5437.1,No,0,0,0.22219856,49+ months,Low Risk
+3585-ISXZP,Month-to-month,Bank transfer (automatic),8,95.65,778.1,Yes,1,1,0.67637485,0-12 months,Medium Risk
+8380-PEFPE,Month-to-month,Electronic check,1,71.65,71.65,Yes,1,1,0.77682555,0-12 months,High Risk
+9402-ROUMJ,One year,Bank transfer (automatic),67,100.25,6689.0,No,0,0,0.1565877,49+ months,Low Risk
+4335-UPJSI,Two year,Mailed check,24,19.75,498.1,No,0,0,0.015566123,13-24 months,Low Risk
+6096-EGVTU,One year,Mailed check,64,24.9,1595.5,No,0,0,0.028925315,49+ months,Low Risk
+8988-ECPJR,Month-to-month,Mailed check,34,79.6,2718.3,Yes,1,1,0.37271863,25-48 months,Medium Risk
+7677-SJJJK,One year,Credit card (automatic),8,19.9,153.95,No,0,0,0.03822762,0-12 months,Low Risk
+5850-BDWCY,Month-to-month,Mailed check,6,20.2,123.65,No,0,0,0.11221085,0-12 months,Low Risk
+2025-JKFWI,Month-to-month,Mailed check,13,99.0,1301.7,Yes,1,1,0.6497057,13-24 months,Medium Risk
+8028-PNXHQ,Two year,Bank transfer (automatic),62,24.25,1424.6,No,0,0,0.014883687,49+ months,Low Risk
+8397-MVTAZ,Month-to-month,Electronic check,34,100.05,3480.0,Yes,1,1,0.6065063,25-48 months,Medium Risk
+4445-ZJNMU,Month-to-month,Credit card (automatic),9,99.3,918.75,No,0,1,0.7701845,0-12 months,High Risk
+3125-RAHBV,One year,Credit card (automatic),22,20.3,467.15,No,0,0,0.036832877,13-24 months,Low Risk
+6682-QJDGB,Month-to-month,Mailed check,40,55.25,2139.2,Yes,1,0,0.13057067,25-48 months,Low Risk
+8840-DQLGN,Month-to-month,Bank transfer (automatic),35,100.5,3653.35,Yes,1,1,0.3210742,25-48 months,Medium Risk
+6258-NGCNG,Month-to-month,Mailed check,7,23.5,173.0,No,0,0,0.12392925,0-12 months,Low Risk
+5917-RYRMG,One year,Credit card (automatic),32,19.8,587.7,No,0,0,0.037778094,25-48 months,Low Risk
+7157-SMCFK,Two year,Mailed check,61,19.75,1124.2,No,0,0,0.014803061,49+ months,Low Risk
+0816-TSPHQ,Month-to-month,Mailed check,2,20.75,44.2,No,0,0,0.1557583,0-12 months,Low Risk
+6766-HFKLA,Two year,Bank transfer (automatic),56,103.2,5744.35,No,0,0,0.103470355,49+ months,Low Risk
+7067-KSAZT,One year,Electronic check,65,106.25,6979.8,Yes,1,0,0.2603832,49+ months,Low Risk
+5155-AZQPB,Month-to-month,Mailed check,28,49.9,1410.25,No,0,0,0.14650041,25-48 months,Low Risk
+6890-PFRQX,Month-to-month,Mailed check,18,69.5,1199.4,No,0,0,0.17494076,13-24 months,Low Risk
+3508-VLHCZ,Two year,Credit card (automatic),71,90.55,6239.05,No,0,0,0.014646193,49+ months,Low Risk
+3649-JPUGY,Two year,Bank transfer (automatic),72,88.6,6201.95,No,0,0,0.030905932,49+ months,Low Risk
+9248-OJYKK,Month-to-month,Electronic check,1,76.45,76.45,Yes,1,1,0.84195936,0-12 months,High Risk
+7239-HZZCX,Month-to-month,Mailed check,1,19.75,19.75,Yes,1,0,0.3058963,0-12 months,Medium Risk
+9860-LISIZ,Month-to-month,Mailed check,34,20.35,673.2,No,0,0,0.078948796,25-48 months,Low Risk
+6979-ZNSFF,Month-to-month,Electronic check,8,87.05,762.1,Yes,1,1,0.7576863,0-12 months,High Risk
+8938-UMKPI,Month-to-month,Electronic check,47,106.4,5127.95,Yes,1,1,0.49235705,25-48 months,Medium Risk
+1820-DJFPH,Two year,Bank transfer (automatic),72,24.05,1709.15,No,0,0,0.009885151,49+ months,Low Risk
+0732-OCQOC,Two year,Bank transfer (automatic),52,25.05,1270.25,No,0,0,0.015932761,49+ months,Low Risk
+6776-TLWOI,Month-to-month,Mailed check,3,19.85,64.55,Yes,1,0,0.12803589,0-12 months,Low Risk
+4940-KHCWD,Two year,Bank transfer (automatic),60,37.7,2288.7,No,0,0,0.01754988,49+ months,Low Risk
+9057-SIHCH,Month-to-month,Electronic check,3,96.6,291.9,Yes,1,1,0.85287714,0-12 months,High Risk
+9866-QEVEE,Month-to-month,Bank transfer (automatic),19,86.0,1532.45,Yes,1,1,0.46619403,13-24 months,Medium Risk
+5542-TBBWB,Month-to-month,Electronic check,1,69.9,69.9,No,0,1,0.7906641,0-12 months,High Risk
+4587-VVTOX,Month-to-month,Electronic check,6,105.3,545.2,Yes,1,1,0.8237179,0-12 months,High Risk
+6322-HRPFA,Month-to-month,Credit card (automatic),49,59.6,2970.3,No,0,0,0.08636296,49+ months,Low Risk
+6284-AHOOQ,Month-to-month,Bank transfer (automatic),22,90.5,1910.6,Yes,1,1,0.3905836,13-24 months,Medium Risk
+4530-NDRKU,One year,Electronic check,42,19.05,761.85,No,0,0,0.042117476,25-48 months,Low Risk
+1751-NCDLI,Month-to-month,Electronic check,46,98.85,4564.9,No,0,1,0.5914431,25-48 months,Medium Risk
+3893-JRNFS,Month-to-month,Bank transfer (automatic),68,39.9,2796.35,No,0,0,0.19817682,49+ months,Low Risk
+5857-XRECV,One year,Bank transfer (automatic),2,20.5,38.25,No,0,0,0.04806505,0-12 months,Low Risk
+3115-CZMZD,Two year,Mailed check,0,20.25,0.0,No,0,0,0.028150626,0-12 months,Low Risk
+4489-SNOJF,Month-to-month,Electronic check,35,72.25,2568.55,Yes,1,0,0.13348407,25-48 months,Low Risk
+1051-GEJLJ,Month-to-month,Mailed check,2,19.5,27.55,No,0,0,0.17693774,0-12 months,Low Risk
+3563-SVYLG,Two year,Credit card (automatic),68,62.65,4375.8,No,0,0,0.014632966,49+ months,Low Risk
+4301-VVZKA,Month-to-month,Electronic check,16,75.4,1189.4,No,0,1,0.58396274,13-24 months,Medium Risk
+9351-HXDMR,Two year,Credit card (automatic),72,110.9,8240.85,No,0,0,0.056038618,49+ months,Low Risk
+5161-XEUVX,Two year,Mailed check,37,94.3,3460.95,No,0,0,0.052383494,25-48 months,Low Risk
+3088-FVYWK,Two year,Credit card (automatic),53,25.55,1336.1,No,0,0,0.016656712,49+ months,Low Risk
+9812-GHVRI,Month-to-month,Bank transfer (automatic),40,83.85,3532.25,No,0,0,0.287097,25-48 months,Low Risk
+1370-GGAWX,One year,Electronic check,46,94.15,4408.45,No,0,0,0.23755448,25-48 months,Low Risk
+6023-YEBUP,Month-to-month,Electronic check,3,100.95,329.95,Yes,1,1,0.85849184,0-12 months,High Risk
+9940-RHLFB,Month-to-month,Electronic check,1,75.3,75.3,Yes,1,1,0.7197172,0-12 months,High Risk
+4541-RMRLG,Month-to-month,Electronic check,7,19.25,112.3,Yes,1,0,0.12116815,0-12 months,Low Risk
+2606-RMDHZ,Month-to-month,Credit card (automatic),6,30.5,208.7,Yes,1,1,0.3784198,0-12 months,Medium Risk
+5575-TPIZQ,Month-to-month,Credit card (automatic),46,89.15,4245.55,No,0,0,0.28595233,25-48 months,Low Risk
+9378-FXTIZ,One year,Credit card (automatic),54,70.15,3715.65,Yes,1,0,0.13131347,49+ months,Low Risk
+4631-OACRM,Month-to-month,Electronic check,15,79.4,1156.1,Yes,1,1,0.63070524,13-24 months,Medium Risk
+8593-WHYHV,Month-to-month,Electronic check,3,85.3,264.8,Yes,1,1,0.8034195,0-12 months,High Risk
+1403-GYAFU,Two year,Credit card (automatic),70,20.05,1360.25,No,0,0,0.01427633,49+ months,Low Risk
+7641-TQFHN,Two year,Mailed check,39,100.55,3895.35,No,0,0,0.09665492,25-48 months,Low Risk
+4237-CLSMM,Month-to-month,Mailed check,2,20.0,38.0,No,0,0,0.1557583,0-12 months,Low Risk
+4360-PNRQB,Month-to-month,Bank transfer (automatic),18,75.6,1395.05,No,0,1,0.3838198,13-24 months,Medium Risk
+5334-AFQJB,Two year,Credit card (automatic),72,25.1,1789.9,No,0,0,0.011754112,49+ months,Low Risk
+9308-ANMVE,Month-to-month,Electronic check,47,55.3,2654.05,No,0,0,0.17041007,25-48 months,Low Risk
+3530-VWVGU,Month-to-month,Mailed check,22,19.9,400.3,No,0,0,0.090351805,13-24 months,Low Risk
+4674-HGNUA,Two year,Credit card (automatic),71,89.9,6457.15,No,0,0,0.015312602,49+ months,Low Risk
+3030-YDNRM,Month-to-month,Electronic check,8,74.85,572.45,No,0,1,0.6769506,0-12 months,Medium Risk
+3642-BYHDO,Two year,Bank transfer (automatic),71,19.9,1389.35,No,0,0,0.010459704,49+ months,Low Risk
+0440-UEDAI,One year,Credit card (automatic),53,94.45,5042.75,No,0,0,0.12531875,49+ months,Low Risk
+9819-FBNSV,Month-to-month,Bank transfer (automatic),37,72.25,2575.45,No,0,0,0.31213996,25-48 months,Medium Risk
+9289-LBQVU,One year,Mailed check,64,70.15,4480.7,No,0,0,0.09850948,49+ months,Low Risk
+4468-YDOVK,Month-to-month,Bank transfer (automatic),5,48.65,235.2,No,0,0,0.31652755,0-12 months,Medium Risk
+2001-EWBQU,Two year,Electronic check,60,104.7,6333.8,No,0,0,0.15066096,49+ months,Low Risk
+9992-UJOEL,Month-to-month,Mailed check,2,50.3,92.75,No,0,1,0.4746583,0-12 months,Medium Risk
+8409-WQJUX,One year,Electronic check,25,54.2,1423.15,No,0,0,0.14835037,25-48 months,Low Risk
+3077-RSNTJ,Month-to-month,Mailed check,6,19.7,113.5,No,0,0,0.10487194,0-12 months,Low Risk
+6993-YCOBK,Two year,Electronic check,60,110.6,6586.85,No,0,0,0.11899545,49+ months,Low Risk
+4817-VYYWS,Month-to-month,Electronic check,30,100.2,2983.8,Yes,1,1,0.5406033,25-48 months,Medium Risk
+4702-HDRKD,One year,Bank transfer (automatic),67,49.35,3321.35,No,0,0,0.042714212,49+ months,Low Risk
+3251-YMVWZ,One year,Bank transfer (automatic),53,24.05,1301.9,No,0,0,0.03784072,49+ months,Low Risk
+4190-MFLUW,Month-to-month,Credit card (automatic),10,55.2,528.35,Yes,1,0,0.18192331,0-12 months,Low Risk
+4678-DVQEO,Month-to-month,Electronic check,1,52.2,52.2,Yes,1,1,0.48763356,0-12 months,Medium Risk
+4701-AHWMW,Month-to-month,Bank transfer (automatic),55,54.55,2978.3,Yes,1,0,0.17007007,49+ months,Low Risk
+2987-BJXIK,Two year,Mailed check,70,84.7,5991.05,No,0,0,0.03481837,49+ months,Low Risk
+1730-VFMWO,Month-to-month,Bank transfer (automatic),34,50.2,1815.3,No,0,0,0.120411016,25-48 months,Low Risk
+1936-UAFEH,Two year,Credit card (automatic),68,110.25,7279.35,No,0,0,0.08442294,49+ months,Low Risk
+5140-FOMCQ,One year,Credit card (automatic),59,109.15,6557.75,No,0,0,0.18857716,49+ months,Low Risk
+8778-LMWTJ,Month-to-month,Electronic check,9,74.85,708.2,No,0,1,0.5034374,0-12 months,Medium Risk
+9840-DVNDC,Month-to-month,Credit card (automatic),6,80.5,463.05,Yes,1,1,0.6547223,0-12 months,Medium Risk
+8033-VCZGH,One year,Electronic check,50,103.95,5231.3,No,0,1,0.33433232,49+ months,Medium Risk
+8580-QVLOC,Two year,Credit card (automatic),72,92.45,6440.25,Yes,1,0,0.0119723175,49+ months,Low Risk
+6128-AQBMT,Month-to-month,Electronic check,41,53.95,2215.4,No,0,1,0.369212,25-48 months,Medium Risk
+6257-RJOHI,Month-to-month,Mailed check,4,50.8,202.3,No,0,1,0.3331651,0-12 months,Medium Risk
+1929-ZCBHE,One year,Electronic check,47,40.3,1794.8,No,0,0,0.05559874,25-48 months,Low Risk
+6242-SGYTS,One year,Credit card (automatic),62,94.95,5791.85,No,0,0,0.078352176,49+ months,Low Risk
+7010-ZMVBF,Month-to-month,Mailed check,18,20.45,357.0,No,0,0,0.090351805,13-24 months,Low Risk
+3519-ZKXGG,Month-to-month,Electronic check,3,75.85,256.6,Yes,1,1,0.7354481,0-12 months,High Risk
+5666-MBJPT,Two year,Bank transfer (automatic),65,25.1,1725.0,No,0,0,0.016944794,49+ months,Low Risk
+3313-QKNKB,One year,Electronic check,59,85.55,5084.65,Yes,1,0,0.16539837,49+ months,Low Risk
+7581-EBBOU,One year,Credit card (automatic),60,70.15,4224.7,No,0,0,0.0597784,49+ months,Low Risk
+1784-BXEFA,Month-to-month,Mailed check,10,20.55,187.35,No,0,0,0.13448872,0-12 months,Low Risk
+7492-TAFJD,Two year,Mailed check,7,38.55,280.0,No,0,0,0.034333214,0-12 months,Low Risk
+5213-TWWJU,Month-to-month,Electronic check,28,91.0,2626.15,No,0,0,0.31369224,25-48 months,Medium Risk
+3312-ZWLGF,Month-to-month,Electronic check,29,79.3,2414.55,No,0,1,0.41312066,25-48 months,Medium Risk
+2923-ARZLG,One year,Mailed check,0,19.7,0.0,No,0,0,0.07834177,0-12 months,Low Risk
+7032-LMBHI,One year,Bank transfer (automatic),37,64.65,2347.85,No,0,0,0.060286783,25-48 months,Low Risk
+8292-ITGYJ,Two year,Bank transfer (automatic),45,24.65,1138.8,No,0,0,0.016834792,25-48 months,Low Risk
+9107-UKCKY,One year,Electronic check,61,79.8,4914.8,No,0,0,0.18457313,49+ months,Low Risk
+6848-HJTXY,Two year,Credit card (automatic),64,19.45,1208.6,No,0,0,0.016736008,49+ months,Low Risk
+4184-VODJZ,One year,Electronic check,63,91.35,5764.7,No,0,0,0.14967296,49+ months,Low Risk
+4846-WHAFZ,Month-to-month,Electronic check,37,76.5,2868.15,Yes,1,1,0.4743642,25-48 months,Medium Risk
+8735-SDUFN,Two year,Bank transfer (automatic),72,24.3,1778.7,No,0,0,0.011240797,49+ months,Low Risk
+0839-JTCUD,Two year,Credit card (automatic),66,89.9,5958.85,No,0,0,0.019881433,49+ months,Low Risk
+6857-VWJDT,Month-to-month,Mailed check,1,95.65,95.65,Yes,1,1,0.82458866,0-12 months,High Risk
+7363-QTBIW,Month-to-month,Electronic check,9,79.75,769.1,No,0,1,0.665581,0-12 months,Medium Risk
+6158-HDPXZ,Month-to-month,Mailed check,1,25.35,25.35,No,0,1,0.56532764,0-12 months,Medium Risk
+5419-CONWX,Month-to-month,Credit card (automatic),4,99.8,442.85,Yes,1,1,0.769958,0-12 months,High Risk
+9286-DOJGF,Month-to-month,Bank transfer (automatic),38,74.95,2869.85,Yes,1,1,0.36069676,25-48 months,Medium Risk
+2408-PSJVE,Month-to-month,Mailed check,44,61.9,2924.05,No,0,0,0.13086504,25-48 months,Low Risk
+2087-QAREY,Month-to-month,Mailed check,22,54.7,1178.75,No,0,0,0.19428942,13-24 months,Low Risk
+6777-TGHTM,One year,Credit card (automatic),53,106.95,5785.5,Yes,1,0,0.2541229,49+ months,Low Risk
+6507-ZJSUR,Month-to-month,Electronic check,23,90.45,2117.25,No,0,1,0.5542539,13-24 months,Medium Risk
+5025-GOOKI,Month-to-month,Credit card (automatic),20,18.9,347.65,No,0,0,0.10024028,13-24 months,Low Risk
+6080-LNESI,Two year,Mailed check,51,24.75,1234.6,No,0,0,0.017988564,49+ months,Low Risk
+2236-HILPA,Two year,Credit card (automatic),62,20.65,1218.45,No,0,0,0.01427633,49+ months,Low Risk
+1386-ZIKUV,Month-to-month,Mailed check,7,18.95,130.55,No,0,0,0.123724364,0-12 months,Low Risk
+3365-SAIGS,Month-to-month,Electronic check,17,83.55,1329.15,No,0,1,0.536434,13-24 months,Medium Risk
+6061-GWWAV,One year,Mailed check,41,70.2,2894.55,No,0,0,0.05305055,25-48 months,Low Risk
+9979-RGMZT,One year,Mailed check,7,94.05,633.45,No,0,0,0.3024997,0-12 months,Medium Risk
+8445-DNBAE,Month-to-month,Electronic check,1,50.05,50.05,No,0,1,0.6662033,0-12 months,Medium Risk
+6872-HXFNF,One year,Bank transfer (automatic),64,58.35,3756.45,No,0,0,0.052240063,49+ months,Low Risk
+1320-HTRDR,Month-to-month,Electronic check,3,75.5,220.6,Yes,1,1,0.7248102,0-12 months,High Risk
+3923-CSIHK,Month-to-month,Electronic check,50,71.05,3444.85,Yes,1,1,0.3556996,49+ months,Medium Risk
+2446-ZKVAF,Month-to-month,Credit card (automatic),18,56.8,1074.65,No,0,0,0.17304201,13-24 months,Low Risk
+4640-UHDOS,Month-to-month,Electronic check,13,55.95,734.35,Yes,1,0,0.2850516,13-24 months,Low Risk
+5457-COLHT,Two year,Bank transfer (automatic),69,80.65,5542.55,No,0,0,0.019659813,49+ months,Low Risk
+2254-DLXRI,Month-to-month,Mailed check,1,79.15,79.15,No,0,1,0.79987824,0-12 months,High Risk
+5339-PXDVH,Month-to-month,Electronic check,4,90.65,367.95,No,0,1,0.58524996,0-12 months,Medium Risk
+2386-LAHRK,Month-to-month,Mailed check,1,53.5,53.5,Yes,1,1,0.6173538,0-12 months,Medium Risk
+5062-CJJKH,One year,Mailed check,25,53.65,1355.45,No,0,0,0.07405839,25-48 months,Low Risk
+8930-XOTDP,Month-to-month,Mailed check,18,55.95,1082.8,No,0,0,0.19357535,13-24 months,Low Risk
+4779-ZGICK,Two year,Mailed check,48,23.55,1173.35,No,0,0,0.017269738,25-48 months,Low Risk
+9534-NSXEM,One year,Credit card (automatic),26,20.65,595.5,No,0,0,0.035748515,25-48 months,Low Risk
+3716-BDVDB,Month-to-month,Electronic check,1,69.1,69.1,Yes,1,1,0.8049369,0-12 months,High Risk
+9842-EFSYY,Month-to-month,Mailed check,4,57.2,223.75,No,0,0,0.30095962,0-12 months,Medium Risk
+9122-UMROB,Month-to-month,Mailed check,1,20.3,20.3,No,0,0,0.29403707,0-12 months,Low Risk
+1867-BDVFH,Month-to-month,Electronic check,11,74.35,834.2,Yes,1,1,0.614791,0-12 months,Medium Risk
+5949-EBSQK,Month-to-month,Credit card (automatic),4,61.45,229.55,Yes,1,0,0.28481424,0-12 months,Low Risk
+4160-AMJTL,Month-to-month,Electronic check,8,19.65,164.3,Yes,1,0,0.13678202,0-12 months,Low Risk
+8622-ZLFKO,Month-to-month,Electronic check,6,90.75,512.25,No,0,1,0.78186846,0-12 months,High Risk
+2990-IAJSV,Two year,Bank transfer (automatic),72,92.0,6632.75,No,0,0,0.012496111,49+ months,Low Risk
+6064-ZATLR,Two year,Bank transfer (automatic),27,52.85,1498.65,No,0,0,0.026161326,25-48 months,Low Risk
+7409-KIUTL,Month-to-month,Electronic check,1,71.0,71.0,Yes,1,1,0.79821044,0-12 months,High Risk
+5505-OVWQW,One year,Mailed check,17,20.15,353.65,No,0,0,0.037679143,13-24 months,Low Risk
+3948-KXDUF,Two year,Bank transfer (automatic),66,68.75,4447.55,No,0,0,0.018153774,49+ months,Low Risk
+9814-AOUDH,Two year,Credit card (automatic),53,19.5,1050.5,No,0,0,0.01624031,49+ months,Low Risk
+7398-LXGYX,Month-to-month,Credit card (automatic),44,84.8,3626.35,No,0,0,0.24646993,25-48 months,Low Risk
+5266-PFRQK,One year,Credit card (automatic),52,20.85,1071.6,No,0,0,0.035242558,49+ months,Low Risk
+1568-BEKZM,Two year,Credit card (automatic),70,90.05,6333.4,No,0,0,0.023388676,49+ months,Low Risk
+2692-PFYTJ,Month-to-month,Mailed check,1,25.75,25.75,No,0,0,0.30170593,0-12 months,Medium Risk
+2533-QVMSK,Two year,Electronic check,61,94.1,5638.3,Yes,1,0,0.08155643,49+ months,Low Risk
+5828-AVIPD,One year,Electronic check,19,100.95,1875.55,Yes,1,1,0.40774298,13-24 months,Medium Risk
+2907-ILJBN,One year,Mailed check,11,20.6,233.9,No,0,0,0.039104633,0-12 months,Low Risk
+5226-NOZFC,Month-to-month,Electronic check,26,85.75,2146.5,No,0,1,0.46692884,25-48 months,Medium Risk
+7114-AEOZE,Two year,Bank transfer (automatic),60,19.85,1128.1,No,0,0,0.015084987,49+ months,Low Risk
+2202-CUYXZ,Month-to-month,Electronic check,1,84.85,84.85,Yes,1,1,0.8301234,0-12 months,High Risk
+3466-RITXD,Month-to-month,Credit card (automatic),26,92.4,2349.8,No,0,1,0.34478426,25-48 months,Medium Risk
+7278-CKDNC,Month-to-month,Electronic check,24,80.5,2088.45,No,0,1,0.50906116,13-24 months,Medium Risk
+1956-YIFGE,One year,Mailed check,22,100.05,2090.25,No,0,0,0.29662678,13-24 months,Low Risk
+0422-UXFAP,One year,Electronic check,51,98.85,4947.55,No,0,0,0.2991026,49+ months,Low Risk
+3733-UOCWF,One year,Bank transfer (automatic),61,85.55,5251.75,No,0,0,0.07215432,49+ months,Low Risk
+7191-ADRGF,Two year,Bank transfer (automatic),44,54.3,2390.45,No,0,0,0.06551936,25-48 months,Low Risk
+5709-LVOEQ,Two year,Mailed check,0,80.85,0.0,No,0,0,0.06834342,0-12 months,Low Risk
+6034-YMTOB,Month-to-month,Mailed check,5,75.65,399.45,No,0,1,0.55616283,0-12 months,Medium Risk
+6372-RFVNS,Month-to-month,Electronic check,1,78.8,78.8,Yes,1,1,0.79994583,0-12 months,High Risk
+9052-DHNKM,One year,Electronic check,26,61.55,1581.95,No,0,0,0.07792746,25-48 months,Low Risk
+5609-IMCGG,Month-to-month,Credit card (automatic),15,84.35,1302.65,No,0,1,0.4105093,13-24 months,Medium Risk
+2959-MJHIC,Month-to-month,Electronic check,4,80.35,307.4,Yes,1,1,0.72082716,0-12 months,High Risk
+1319-YLZJG,Month-to-month,Electronic check,12,84.6,959.9,No,0,1,0.48730326,0-12 months,Medium Risk
+7623-TRNQN,Month-to-month,Mailed check,1,49.9,49.9,Yes,1,1,0.4010152,0-12 months,Medium Risk
+0377-JBKKT,Month-to-month,Mailed check,22,57.95,1271.8,No,0,0,0.12778316,13-24 months,Low Risk
+1936-CZAKF,Two year,Credit card (automatic),49,49.65,2409.9,No,0,0,0.067126244,49+ months,Low Risk
+5063-IUOKK,Two year,Mailed check,13,19.75,265.75,No,0,0,0.0182373,13-24 months,Low Risk
+8646-JCOMS,One year,Bank transfer (automatic),66,90.55,6130.95,No,0,0,0.07842773,49+ months,Low Risk
+0979-MOZQI,Two year,Bank transfer (automatic),62,39.0,2337.45,No,0,0,0.04057425,49+ months,Low Risk
+1525-LNLOJ,Two year,Bank transfer (automatic),66,63.3,4189.7,No,0,0,0.04732289,49+ months,Low Risk
+5759-RCVCB,Month-to-month,Credit card (automatic),3,35.2,108.95,Yes,1,1,0.43715712,0-12 months,Medium Risk
+9968-FFVVH,One year,Bank transfer (automatic),63,68.8,4111.35,No,0,0,0.034710076,49+ months,Low Risk
+2266-FUBDZ,Two year,Mailed check,15,19.35,278.85,No,0,0,0.015705323,13-24 months,Low Risk
+4760-THGOT,Month-to-month,Electronic check,43,94.1,4107.3,No,0,1,0.33016133,25-48 months,Medium Risk
+2307-FYNNL,Two year,Electronic check,65,109.05,7108.2,No,0,0,0.1620491,49+ months,Low Risk
+1143-NMNQJ,Month-to-month,Electronic check,2,85.7,169.8,Yes,1,1,0.8066029,0-12 months,High Risk
+1629-DQQVB,Month-to-month,Bank transfer (automatic),14,50.1,709.5,No,0,0,0.16253366,13-24 months,Low Risk
+3766-EJLFL,Two year,Bank transfer (automatic),68,109.05,7508.55,No,0,0,0.12340136,49+ months,Low Risk
+8457-XIGKN,Month-to-month,Credit card (automatic),20,19.6,356.15,No,0,0,0.11302688,13-24 months,Low Risk
+4981-FLTMF,Month-to-month,Bank transfer (automatic),57,65.2,3687.85,No,0,0,0.07496044,49+ months,Low Risk
+7606-BPHHN,Two year,Credit card (automatic),72,19.8,1468.75,No,0,0,0.009788824,49+ months,Low Risk
+7005-CCBKV,Month-to-month,Electronic check,6,84.4,556.35,Yes,1,1,0.6904492,0-12 months,Medium Risk
+4648-YPBTM,Two year,Bank transfer (automatic),53,73.9,3958.25,No,0,0,0.033070825,49+ months,Low Risk
+2325-ZUSFD,One year,Bank transfer (automatic),57,70.1,3913.3,Yes,1,0,0.06519539,49+ months,Low Risk
+1240-KNSEZ,Month-to-month,Mailed check,1,20.1,20.1,Yes,1,1,0.3419684,0-12 months,Medium Risk
+0430-IHCDJ,Month-to-month,Electronic check,15,49.0,749.25,No,0,1,0.4284616,13-24 months,Medium Risk
+7957-RYHQD,Month-to-month,Credit card (automatic),40,79.2,3233.85,Yes,1,0,0.23151927,25-48 months,Low Risk
+6164-HAQTX,Two year,Bank transfer (automatic),71,53.95,3888.65,No,0,0,0.013343981,49+ months,Low Risk
+0749-IRGQE,Month-to-month,Electronic check,13,45.3,528.45,No,0,1,0.46378002,13-24 months,Medium Risk
+1227-UDMZR,Two year,Bank transfer (automatic),72,91.15,6637.9,No,0,0,0.01195079,49+ months,Low Risk
+5473-KHBPS,One year,Credit card (automatic),52,95.7,4976.15,No,0,0,0.13126941,49+ months,Low Risk
+5297-MDOIR,One year,Credit card (automatic),63,81.15,5224.5,No,0,0,0.048736427,49+ months,Low Risk
+8873-TMKGR,One year,Mailed check,29,19.1,529.5,No,0,0,0.029685933,25-48 months,Low Risk
+6481-ESCNL,Month-to-month,Bank transfer (automatic),29,100.55,2878.75,No,0,1,0.43153736,25-48 months,Medium Risk
+0463-WZZKO,Month-to-month,Credit card (automatic),3,20.75,67.1,No,0,0,0.16435854,0-12 months,Low Risk
+1038-RQOST,Month-to-month,Mailed check,19,20.6,414.95,No,0,0,0.08843123,13-24 months,Low Risk
+4937-QPZPO,One year,Electronic check,61,99.9,6241.35,No,0,0,0.31488448,49+ months,Medium Risk
+3604-WLABM,Month-to-month,Electronic check,10,54.25,583.0,No,0,0,0.22487351,0-12 months,Low Risk
+1360-XFJMR,One year,Credit card (automatic),67,109.7,7344.45,No,0,0,0.20212643,49+ months,Low Risk
+8717-VCTXJ,One year,Mailed check,42,19.55,839.4,No,0,0,0.035748515,25-48 months,Low Risk
+5196-SGOAK,Month-to-month,Electronic check,1,75.7,75.7,Yes,1,1,0.7892624,0-12 months,High Risk
+8739-XNIKG,Month-to-month,Electronic check,5,84.0,424.75,No,0,1,0.79151654,0-12 months,High Risk
+2320-TZRRH,One year,Mailed check,20,19.5,403.15,No,0,0,0.037679143,13-24 months,Low Risk
+5186-SAMNZ,Month-to-month,Bank transfer (automatic),1,69.5,69.5,Yes,1,1,0.81688607,0-12 months,High Risk
+5760-FXFVO,Month-to-month,Electronic check,6,78.95,494.95,No,0,1,0.50487083,0-12 months,Medium Risk
+5380-WJKOV,Month-to-month,Electronic check,34,106.35,3549.25,Yes,1,1,0.5430631,25-48 months,Medium Risk
+4703-MQYKT,Two year,Mailed check,21,19.6,390.4,No,0,0,0.016878556,13-24 months,Low Risk
+2001-MCUUW,Two year,Electronic check,46,108.65,4903.2,No,0,0,0.15661015,25-48 months,Low Risk
+4947-DSMXK,Month-to-month,Bank transfer (automatic),34,97.7,3410.0,No,0,1,0.41908842,25-48 months,Medium Risk
+0076-LVEPS,Month-to-month,Mailed check,29,45.0,1242.45,No,0,0,0.108583175,25-48 months,Low Risk
+5566-SOEZD,One year,Credit card (automatic),27,80.65,2209.75,No,0,0,0.063664675,25-48 months,Low Risk
+7408-OFWXJ,Two year,Credit card (automatic),72,89.8,6510.45,No,0,0,0.011267923,49+ months,Low Risk
+1097-FSPVW,Month-to-month,Credit card (automatic),42,54.55,2455.05,No,0,0,0.120320715,25-48 months,Low Risk
+4412-YLTKF,Month-to-month,Electronic check,27,78.05,2135.5,Yes,1,1,0.470912,25-48 months,Medium Risk
+0420-TXVSG,Two year,Credit card (automatic),66,66.1,4428.45,No,0,0,0.028541053,49+ months,Low Risk
+7817-BOQPW,Month-to-month,Electronic check,2,75.55,166.3,Yes,1,1,0.7465584,0-12 months,High Risk
+0963-ZBDRN,Month-to-month,Electronic check,32,96.2,3183.4,Yes,1,1,0.42882627,25-48 months,Medium Risk
+9685-WKZGT,Month-to-month,Electronic check,14,74.95,1036.75,Yes,1,1,0.6567491,13-24 months,Medium Risk
+2139-FQHLM,Month-to-month,Mailed check,19,89.95,1682.4,No,0,0,0.28291693,13-24 months,Low Risk
+5825-XJOCM,One year,Bank transfer (automatic),48,64.4,3035.35,No,0,0,0.054906823,25-48 months,Low Risk
+0004-TLHLJ,Month-to-month,Electronic check,4,73.9,280.85,Yes,1,1,0.66323507,0-12 months,Medium Risk
+7529-ZDFXI,Month-to-month,Electronic check,57,89.85,4925.35,No,0,1,0.41692075,49+ months,Medium Risk
+6848-YLDFR,One year,Credit card (automatic),58,75.2,4300.8,No,0,0,0.08739875,49+ months,Low Risk
+5820-PTRYM,One year,Credit card (automatic),56,68.45,4014.0,No,0,0,0.043378122,49+ months,Low Risk
+2984-RGEYA,Two year,Bank transfer (automatic),69,19.75,1375.4,No,0,0,0.013975844,49+ months,Low Risk
+6434-TTGJP,Two year,Credit card (automatic),10,53.7,521.0,No,0,0,0.027816975,0-12 months,Low Risk
+9643-AVVWI,Month-to-month,Electronic check,3,80.0,241.3,No,0,1,0.6064699,0-12 months,Medium Risk
+3506-OVLKD,One year,Bank transfer (automatic),35,26.2,954.9,No,0,0,0.03823647,25-48 months,Low Risk
+4946-EDSEW,Month-to-month,Mailed check,11,19.25,180.3,Yes,1,0,0.10951788,0-12 months,Low Risk
+2924-KHUVI,One year,Electronic check,56,100.55,5514.95,No,0,0,0.3152607,49+ months,Medium Risk
+2263-SFSQZ,Two year,Mailed check,51,24.95,1222.25,No,0,0,0.016656712,49+ months,Low Risk
+5281-BUZGT,Month-to-month,Electronic check,36,90.85,3186.7,Yes,1,1,0.40876797,25-48 months,Medium Risk
+3717-FDJFU,Two year,Mailed check,5,20.45,106.9,No,0,0,0.018415442,0-12 months,Low Risk
+2239-CFOUJ,One year,Mailed check,1,20.4,20.4,No,0,0,0.07944505,0-12 months,Low Risk
+8699-ASUFO,Month-to-month,Mailed check,7,74.4,527.9,Yes,1,1,0.62643653,0-12 months,Medium Risk
+1122-YJBCS,One year,Credit card (automatic),69,53.65,3804.4,No,0,0,0.041134275,49+ months,Low Risk
+0628-CNQRM,One year,Bank transfer (automatic),22,67.5,1544.05,Yes,1,0,0.0548391,13-24 months,Low Risk
+1705-GUHPV,Two year,Mailed check,63,24.2,1618.2,No,0,0,0.015376968,49+ months,Low Risk
+4877-TSOFF,One year,Bank transfer (automatic),55,75.75,4264.25,No,0,0,0.05297919,49+ months,Low Risk
+7404-JLKQG,Month-to-month,Electronic check,3,57.55,161.45,No,0,1,0.43695173,0-12 months,Medium Risk
+0379-DJQHR,Two year,Credit card (automatic),67,81.35,5398.6,No,0,0,0.029221054,49+ months,Low Risk
+8993-PHFWD,Month-to-month,Electronic check,3,25.25,58.9,Yes,1,1,0.5419835,0-12 months,Medium Risk
+3930-ZGWVE,Month-to-month,Mailed check,1,19.75,19.75,No,0,0,0.3058963,0-12 months,Medium Risk
+1965-DDBWU,Month-to-month,Credit card (automatic),16,89.05,1448.6,Yes,1,1,0.4623484,13-24 months,Medium Risk
+7572-KPVKK,Two year,Electronic check,62,104.05,6590.5,No,0,0,0.13749927,49+ months,Low Risk
+6854-EXGSF,Month-to-month,Bank transfer (automatic),8,65.5,573.15,No,0,0,0.18660514,0-12 months,Low Risk
+9483-GCPWE,One year,Mailed check,9,20.1,190.25,No,0,0,0.03822762,0-12 months,Low Risk
+8053-WWDRO,Month-to-month,Bank transfer (automatic),6,19.5,146.3,Yes,1,0,0.11221085,0-12 months,Low Risk
+9473-CBZOP,One year,Mailed check,28,59.0,1654.45,No,0,0,0.04849556,25-48 months,Low Risk
+3985-HOYPM,One year,Mailed check,26,19.4,525.55,No,0,0,0.03459016,25-48 months,Low Risk
+8378-LKJAF,Month-to-month,Credit card (automatic),38,101.15,3956.7,No,0,1,0.4271229,25-48 months,Medium Risk
+1310-QRITU,Month-to-month,Electronic check,18,50.3,913.3,No,0,1,0.38459283,13-24 months,Medium Risk
+3237-AJGEH,Month-to-month,Mailed check,3,31.0,95.05,Yes,1,1,0.33194023,0-12 months,Medium Risk
+6542-LWGXJ,Month-to-month,Mailed check,3,25.0,78.25,No,0,1,0.4407929,0-12 months,Medium Risk
+6953-PBDIN,Two year,Bank transfer (automatic),70,72.95,5265.55,No,0,0,0.034620687,49+ months,Low Risk
+6332-FBZRI,One year,Credit card (automatic),67,69.35,4653.25,No,0,0,0.041399967,49+ months,Low Risk
+9365-CSLBQ,Two year,Mailed check,71,24.35,1654.6,No,0,0,0.011746991,49+ months,Low Risk
+3466-WAESX,Month-to-month,Electronic check,16,69.1,1083.7,No,0,0,0.2694926,13-24 months,Low Risk
+9700-ISPUP,Month-to-month,Electronic check,10,65.5,616.9,No,0,0,0.24949984,0-12 months,Low Risk
+5167-ZFFMM,Month-to-month,Credit card (automatic),1,90.85,90.85,Yes,1,1,0.823709,0-12 months,High Risk
+7669-LCRSD,Month-to-month,Mailed check,12,56.3,628.65,No,0,0,0.265191,0-12 months,Low Risk
+0870-VEMYL,Month-to-month,Credit card (automatic),5,53.85,259.8,Yes,1,0,0.19408222,0-12 months,Low Risk
+2995-UPRYS,One year,Credit card (automatic),40,99.2,4062.2,Yes,1,0,0.1987398,25-48 months,Low Risk
+3179-GBRWV,Month-to-month,Bank transfer (automatic),21,64.95,1339.8,No,0,0,0.1649846,13-24 months,Low Risk
+0701-TJSEF,Month-to-month,Bank transfer (automatic),9,68.25,576.95,No,0,0,0.17264262,0-12 months,Low Risk
+1848-LBZHY,Month-to-month,Bank transfer (automatic),7,50.3,355.1,No,0,0,0.22612076,0-12 months,Low Risk
+5380-XPJNZ,One year,Mailed check,38,20.05,678.2,No,0,0,0.03538679,25-48 months,Low Risk
+6608-QQLVK,Month-to-month,Electronic check,1,50.5,50.5,Yes,1,1,0.6548986,0-12 months,Medium Risk
+1475-VWVDO,Month-to-month,Electronic check,7,74.9,490.55,No,0,1,0.62474114,0-12 months,Medium Risk
+3721-CNEYS,Month-to-month,Electronic check,2,70.95,137.95,Yes,1,1,0.6667321,0-12 months,Medium Risk
+4299-OPXEJ,Two year,Bank transfer (automatic),56,19.55,1080.55,No,0,0,0.015084987,49+ months,Low Risk
+0096-BXERS,Month-to-month,Electronic check,6,50.35,314.55,No,0,1,0.40659234,0-12 months,Medium Risk
+3055-VTCGS,One year,Credit card (automatic),63,58.55,3503.5,No,0,0,0.082825355,49+ months,Low Risk
+9405-GPBBG,Two year,Credit card (automatic),64,110.5,7069.25,No,0,0,0.08780041,49+ months,Low Risk
+6704-UTUKK,Month-to-month,Electronic check,29,45.9,1332.4,No,0,1,0.36624983,25-48 months,Medium Risk
+9944-AEXBM,Month-to-month,Bank transfer (automatic),32,85.65,2664.3,No,0,1,0.40444273,25-48 months,Medium Risk
+2545-EBUPK,Month-to-month,Electronic check,2,84.05,186.05,No,0,1,0.82253575,0-12 months,High Risk
+6270-OMFIW,One year,Electronic check,60,94.4,5610.25,Yes,1,0,0.1945259,49+ months,Low Risk
+1852-XEMDW,Month-to-month,Mailed check,22,65.05,1427.55,No,0,0,0.13084556,13-24 months,Low Risk
+8158-WPEZG,Month-to-month,Electronic check,11,35.65,425.1,No,0,0,0.30471656,0-12 months,Medium Risk
+5198-EFNBM,One year,Electronic check,57,90.65,5199.8,No,0,0,0.15192889,49+ months,Low Risk
+7663-RGWBC,Month-to-month,Mailed check,1,44.15,44.15,Yes,1,1,0.5886122,0-12 months,Medium Risk
+3970-XGJDU,Two year,Credit card (automatic),62,19.2,1123.65,No,0,0,0.015527582,49+ months,Low Risk
+6845-RGTYS,Month-to-month,Electronic check,47,98.75,4533.7,Yes,1,1,0.4005541,25-48 months,Medium Risk
+0123-CRBRT,Two year,Mailed check,61,88.1,5526.75,No,0,0,0.018865045,49+ months,Low Risk
+6077-BDPXA,Month-to-month,Electronic check,3,70.15,194.2,No,0,1,0.6609253,0-12 months,Medium Risk
+2250-IVBWA,Month-to-month,Electronic check,64,81.05,5135.35,No,0,0,0.17274259,49+ months,Low Risk
+6137-NICCO,Month-to-month,Mailed check,6,94.05,518.75,No,0,1,0.7203288,0-12 months,High Risk
+8129-GMVGI,Two year,Mailed check,56,20.05,1090.1,No,0,0,0.014491651,49+ months,Low Risk
+4353-HYOJD,Month-to-month,Mailed check,27,49.85,1336.15,No,0,0,0.13926971,25-48 months,Low Risk
+8671-KKKOS,Month-to-month,Electronic check,46,45.55,2062.15,No,0,0,0.1683834,25-48 months,Low Risk
+8080-DDEMJ,Month-to-month,Electronic check,1,45.1,45.1,Yes,1,1,0.66152084,0-12 months,Medium Risk
+6698-OXETB,Two year,Mailed check,11,20.4,231.45,No,0,0,0.0182373,0-12 months,Low Risk
+3312-UUMZW,Month-to-month,Credit card (automatic),32,98.85,3145.9,No,0,1,0.44997883,25-48 months,Medium Risk
+6376-GAHQE,Month-to-month,Electronic check,4,77.85,299.2,Yes,1,1,0.63450205,0-12 months,Medium Risk
+0733-VUNUW,Month-to-month,Bank transfer (automatic),24,55.65,1400.55,Yes,1,0,0.16014668,13-24 months,Low Risk
+6733-LRIZX,Two year,Electronic check,35,108.95,4025.5,No,0,0,0.20870337,25-48 months,Low Risk
+2165-VOEGB,One year,Bank transfer (automatic),46,105.2,4822.85,Yes,1,0,0.2014133,25-48 months,Low Risk
+1853-UDXBW,Month-to-month,Electronic check,1,70.0,70.0,Yes,1,1,0.7901342,0-12 months,High Risk
+9070-BCKQP,Two year,Credit card (automatic),72,110.15,7881.2,No,0,0,0.046450827,49+ months,Low Risk
+1035-IPQPU,Month-to-month,Electronic check,63,103.5,6479.4,No,0,1,0.39760914,49+ months,Medium Risk
+2057-ZBLPD,Month-to-month,Electronic check,21,86.5,1808.7,Yes,1,1,0.58524674,13-24 months,Medium Risk
+6967-PEJLL,One year,Electronic check,37,40.2,1525.35,No,0,0,0.063101396,25-48 months,Low Risk
+7879-CGSFV,One year,Mailed check,55,100.9,5552.05,No,0,0,0.19620101,49+ months,Low Risk
+2257-BOVXD,Month-to-month,Credit card (automatic),14,66.6,979.5,No,0,0,0.2519811,13-24 months,Low Risk
+9822-BIIGN,Month-to-month,Electronic check,53,71.85,3827.9,No,0,0,0.10802159,49+ months,Low Risk
+1136-XGEQU,One year,Credit card (automatic),50,84.15,4164.4,No,0,0,0.10479838,49+ months,Low Risk
+2439-LYPMQ,Month-to-month,Electronic check,38,102.6,4009.2,No,0,1,0.55930865,25-48 months,Medium Risk
+6543-XRMYR,Month-to-month,Electronic check,30,99.7,2967.35,Yes,1,1,0.5753381,25-48 months,Medium Risk
+5753-QQWPW,One year,Electronic check,28,59.9,1654.7,No,0,0,0.063771755,25-48 months,Low Risk
+4785-QRJHC,One year,Bank transfer (automatic),46,59.9,2816.65,Yes,1,0,0.13833548,25-48 months,Low Risk
+0052-YNYOT,One year,Electronic check,67,20.55,1343.4,No,0,0,0.038571443,49+ months,Low Risk
+7054-LGEQW,Month-to-month,Mailed check,1,45.95,45.95,Yes,1,1,0.53585947,0-12 months,Medium Risk
+0608-JDVEC,Two year,Electronic check,50,19.8,1013.2,No,0,0,0.027105756,49+ months,Low Risk
+6284-KMNUF,One year,Electronic check,56,98.0,5270.6,No,0,0,0.19522385,49+ months,Low Risk
+6286-SUUWT,Month-to-month,Mailed check,1,19.95,19.95,No,0,0,0.3058963,0-12 months,Medium Risk
+3594-KADLU,Month-to-month,Mailed check,3,35.1,101.1,No,0,0,0.19458623,0-12 months,Low Risk
+0536-ACXIP,Two year,Electronic check,72,109.55,8165.1,No,0,0,0.06262007,49+ months,Low Risk
+8869-TORSS,One year,Credit card (automatic),48,60.35,2896.4,Yes,1,0,0.04281946,25-48 months,Low Risk
+0373-AIVNJ,One year,Mailed check,9,39.55,373.0,No,0,0,0.0633093,0-12 months,Low Risk
+6429-SHBCB,Month-to-month,Mailed check,19,69.6,1394.55,No,0,0,0.2120472,13-24 months,Low Risk
+5751-USDBL,Two year,Mailed check,46,81.0,3846.35,No,0,0,0.022784369,25-48 months,Low Risk
+6815-ABQFQ,One year,Electronic check,56,107.25,6033.3,No,0,0,0.30034858,49+ months,Medium Risk
+9450-TRJUU,Month-to-month,Electronic check,35,83.15,2848.45,No,0,1,0.44710952,25-48 months,Medium Risk
+2805-AUFQN,Two year,Credit card (automatic),25,19.8,475.2,No,0,0,0.01620272,25-48 months,Low Risk
+7855-DIWPO,Month-to-month,Electronic check,21,68.65,1493.2,No,0,1,0.45487267,13-24 months,Medium Risk
+0174-QRVVY,Two year,Credit card (automatic),71,25.35,1847.55,No,0,0,0.011746991,49+ months,Low Risk
+9507-EXLTT,Month-to-month,Bank transfer (automatic),1,79.35,79.35,Yes,1,1,0.8173832,0-12 months,High Risk
+8390-FESFV,Two year,Bank transfer (automatic),62,84.5,5193.2,No,0,0,0.032017324,49+ months,Low Risk
+0661-KBKPA,One year,Mailed check,53,78.75,3942.45,No,0,0,0.11346097,49+ months,Low Risk
+6856-RAURS,Month-to-month,Mailed check,2,74.9,136.05,No,0,1,0.6646495,0-12 months,Medium Risk
+7322-OCWHC,Two year,Bank transfer (automatic),72,93.05,6735.05,No,0,0,0.013074734,49+ months,Low Risk
+2203-GHNWN,Month-to-month,Mailed check,24,79.65,1928.7,No,0,1,0.37833196,13-24 months,Medium Risk
+3413-CSSTH,Month-to-month,Bank transfer (automatic),41,55.7,2237.55,No,0,0,0.18404286,25-48 months,Low Risk
+3006-XIMLN,Month-to-month,Bank transfer (automatic),2,94.2,193.8,Yes,1,1,0.79190356,0-12 months,High Risk
+3750-CKVKH,Month-to-month,Electronic check,2,67.75,116.65,Yes,1,1,0.7214345,0-12 months,High Risk
+0576-WNXXC,Month-to-month,Electronic check,27,95.55,2510.2,Yes,1,1,0.57345307,25-48 months,Medium Risk
+7056-IMHCC,Month-to-month,Electronic check,53,101.9,5549.4,Yes,1,1,0.5217519,49+ months,Medium Risk
+0866-QLSIR,One year,Mailed check,34,64.4,2088.75,Yes,1,0,0.045771055,25-48 months,Low Risk
+1628-BIZYP,Month-to-month,Electronic check,1,85.0,85.0,No,0,1,0.8105122,0-12 months,High Risk
+2230-XTUWL,Two year,Mailed check,48,19.55,883.35,No,0,0,0.015274297,25-48 months,Low Risk
+1980-KXVPM,Month-to-month,Credit card (automatic),3,75.05,256.25,Yes,1,1,0.68001866,0-12 months,Medium Risk
+8619-IJNDK,Two year,Credit card (automatic),71,64.05,4492.9,No,0,0,0.013442165,49+ months,Low Risk
+2960-NKRSO,Month-to-month,Electronic check,24,85.95,2107.15,No,0,1,0.35997173,13-24 months,Medium Risk
+6705-LXORM,Month-to-month,Electronic check,5,70.05,302.6,No,0,1,0.59016705,0-12 months,Medium Risk
+7130-VTEWQ,Month-to-month,Electronic check,8,75.75,606.25,Yes,1,1,0.7017537,0-12 months,High Risk
+9364-YKUVW,Month-to-month,Mailed check,15,19.8,309.4,No,0,0,0.13176583,13-24 months,Low Risk
+2761-OCIAX,Month-to-month,Electronic check,2,74.7,165.4,Yes,1,1,0.6826863,0-12 months,Medium Risk
+7996-BPXHY,Two year,Bank transfer (automatic),13,25.0,332.5,No,0,0,0.019335115,13-24 months,Low Risk
+4248-QPAVC,Month-to-month,Bank transfer (automatic),17,85.35,1463.45,Yes,1,1,0.370165,13-24 months,Medium Risk
+9357-UJRUN,One year,Electronic check,24,58.35,1346.9,No,0,0,0.07975427,13-24 months,Low Risk
+6340-DACFT,Two year,Credit card (automatic),50,20.55,1070.25,No,0,0,0.015274297,49+ months,Low Risk
+1023-BQXZE,Two year,Bank transfer (automatic),57,74.35,4317.35,No,0,0,0.0283466,49+ months,Low Risk
+5480-HPRRX,Month-to-month,Electronic check,3,25.3,77.75,Yes,1,1,0.58936393,0-12 months,Medium Risk
+9576-SYUHJ,Month-to-month,Electronic check,37,91.15,3369.25,No,0,1,0.401663,25-48 months,Medium Risk
+2169-RRLFW,Two year,Credit card (automatic),71,25.6,1888.25,No,0,0,0.012137596,49+ months,Low Risk
+8338-QIUNR,Two year,Credit card (automatic),72,66.5,4811.6,No,0,0,0.015374982,49+ months,Low Risk
+0463-TXOAK,Two year,Credit card (automatic),52,25.6,1334.5,No,0,0,0.016656712,49+ months,Low Risk
+4396-KLSEH,Month-to-month,Electronic check,4,19.85,63.0,No,0,0,0.19574699,0-12 months,Low Risk
+5186-EJEGL,Month-to-month,Mailed check,9,69.5,653.25,No,0,0,0.18130672,0-12 months,Low Risk
+9334-GWGOW,Month-to-month,Electronic check,7,74.85,485.25,No,0,1,0.7171035,0-12 months,High Risk
+5696-JVVQY,Two year,Credit card (automatic),48,70.1,3238.4,No,0,0,0.029350527,25-48 months,Low Risk
+9633-DENPU,Month-to-month,Bank transfer (automatic),47,58.6,2723.4,No,0,0,0.19121715,25-48 months,Low Risk
+0581-BXBUB,Month-to-month,Electronic check,4,72.75,317.75,No,0,1,0.55604553,0-12 months,Medium Risk
+2750-BJLSB,One year,Electronic check,47,103.7,4730.6,No,0,0,0.27257138,25-48 months,Low Risk
+2770-NSVDG,Month-to-month,Electronic check,24,29.1,688.0,No,0,0,0.27362224,13-24 months,Low Risk
+8280-MQRQN,Month-to-month,Mailed check,1,50.45,50.45,Yes,1,1,0.5820308,0-12 months,Medium Risk
+7851-FLGGQ,Month-to-month,Mailed check,1,44.65,44.65,Yes,1,1,0.4864923,0-12 months,Medium Risk
+9374-YOLBJ,Month-to-month,Electronic check,1,19.25,19.25,No,0,0,0.29212236,0-12 months,Low Risk
+6583-SZVGP,Two year,Bank transfer (automatic),48,108.1,5067.45,No,0,0,0.20591955,25-48 months,Low Risk
+2150-OEGBV,One year,Bank transfer (automatic),27,20.1,562.6,No,0,0,0.03459016,25-48 months,Low Risk
+9372-TXXPS,Two year,Bank transfer (automatic),60,59.85,3483.45,No,0,0,0.014678613,49+ months,Low Risk
+6933-FHBZC,One year,Mailed check,26,56.05,1553.2,No,0,0,0.079582155,25-48 months,Low Risk
+4698-KVLLG,Two year,Credit card (automatic),51,19.6,967.9,No,0,0,0.01739551,49+ months,Low Risk
+8752-STIVR,Month-to-month,Electronic check,4,79.0,303.15,Yes,1,1,0.73234147,0-12 months,High Risk
+8623-ULFNQ,Month-to-month,Electronic check,26,66.05,1652.4,No,0,0,0.25226578,25-48 months,Low Risk
+9822-WMWVG,Month-to-month,Electronic check,41,106.5,4282.4,No,0,1,0.36892602,25-48 months,Medium Risk
+4304-TSPVK,Two year,Bank transfer (automatic),68,114.9,7843.55,No,0,0,0.0779515,49+ months,Low Risk
+1716-LSAMB,Two year,Bank transfer (automatic),45,54.65,2553.7,No,0,0,0.022449931,25-48 months,Low Risk
+3523-QRQLL,One year,Bank transfer (automatic),22,69.5,1498.2,Yes,1,0,0.13936415,13-24 months,Low Risk
+2187-PKZAY,Month-to-month,Bank transfer (automatic),12,79.95,1043.4,No,0,1,0.4886926,0-12 months,Medium Risk
+1895-QTKDO,Month-to-month,Credit card (automatic),1,43.95,43.95,No,0,1,0.53585947,0-12 months,Medium Risk
+8161-QYMTT,Month-to-month,Electronic check,7,94.1,701.3,No,0,1,0.8176272,0-12 months,High Risk
+2955-PSXOE,Month-to-month,Bank transfer (automatic),1,20.2,20.2,Yes,1,1,0.32145864,0-12 months,Medium Risk
+6834-NXDCA,Month-to-month,Electronic check,13,23.9,300.8,Yes,1,1,0.46175596,13-24 months,Medium Risk
+8701-DGLVH,Two year,Mailed check,51,20.45,1042.65,No,0,0,0.01624031,49+ months,Low Risk
+2480-SQIOB,Month-to-month,Electronic check,4,44.8,169.65,No,0,1,0.385952,0-12 months,Medium Risk
+4993-JCRGJ,Month-to-month,Mailed check,26,84.3,2281.6,No,0,0,0.30415094,25-48 months,Medium Risk
+0581-MDMPW,Month-to-month,Credit card (automatic),24,88.95,2072.75,No,0,1,0.44236606,13-24 months,Medium Risk
+7789-CRUVC,Month-to-month,Credit card (automatic),61,94.2,5895.45,No,0,0,0.17440215,49+ months,Low Risk
+0164-APGRB,Two year,Electronic check,72,114.9,8496.7,No,0,0,0.03961503,49+ months,Low Risk
+8034-RYTVV,One year,Credit card (automatic),55,84.25,4589.85,No,0,0,0.06366893,49+ months,Low Risk
+3018-TFTSU,Month-to-month,Bank transfer (automatic),12,81.7,858.6,Yes,1,1,0.32245117,0-12 months,Medium Risk
+9777-IQHWP,Two year,Bank transfer (automatic),64,93.4,5822.3,No,0,0,0.055403914,49+ months,Low Risk
+6899-PPEEA,Month-to-month,Electronic check,37,96.55,3580.3,Yes,1,1,0.5771338,25-48 months,Medium Risk
+6701-YVNQG,Two year,Credit card (automatic),72,88.7,6301.7,No,0,0,0.012496111,49+ months,Low Risk
+7649-PHJVR,One year,Mailed check,11,19.5,226.8,No,0,0,0.041116994,0-12 months,Low Risk
+9278-VZKCD,Month-to-month,Electronic check,52,109.1,5647.95,No,0,1,0.373344,49+ months,Medium Risk
+7636-PEPNS,One year,Mailed check,58,44.1,2413.05,No,0,0,0.06479028,49+ months,Low Risk
+1575-KRZZE,Month-to-month,Electronic check,4,55.2,220.65,No,0,0,0.22256622,0-12 months,Low Risk
+8590-OHDIW,One year,Mailed check,38,20.3,749.35,No,0,0,0.034022518,25-48 months,Low Risk
+7764-BDPEE,Month-to-month,Mailed check,3,20.85,60.65,No,0,0,0.13222171,0-12 months,Low Risk
+9480-BQJEI,One year,Bank transfer (automatic),62,92.3,5731.45,No,0,0,0.073278084,49+ months,Low Risk
+3354-OADJP,One year,Bank transfer (automatic),8,54.25,447.75,No,0,0,0.056451913,0-12 months,Low Risk
+3181-MIZBN,Month-to-month,Electronic check,16,19.75,313.4,No,0,0,0.110971294,13-24 months,Low Risk
+9327-QSDED,Month-to-month,Mailed check,8,43.55,335.4,No,0,0,0.2359406,0-12 months,Low Risk
+4892-VLANZ,Month-to-month,Mailed check,1,19.8,19.8,Yes,1,0,0.3058963,0-12 months,Medium Risk
+0298-XACET,Two year,Mailed check,52,50.2,2554.0,No,0,0,0.03479525,49+ months,Low Risk
+6917-FIJHC,Two year,Mailed check,72,26.0,1776.0,No,0,0,0.0106814355,49+ months,Low Risk
+6557-BZXLQ,Month-to-month,Electronic check,16,69.65,1043.3,No,0,1,0.4694767,13-24 months,Medium Risk
+2432-TFSMK,One year,Credit card (automatic),18,89.6,1633.0,No,0,0,0.1498237,13-24 months,Low Risk
+4211-MMAZN,Month-to-month,Mailed check,1,20.25,20.25,Yes,1,0,0.29403707,0-12 months,Low Risk
+4751-ERMAN,Two year,Bank transfer (automatic),72,75.4,5480.25,No,0,0,0.049380697,49+ months,Low Risk
+8430-TWCBX,One year,Credit card (automatic),49,20.7,1032.05,No,0,0,0.034736488,49+ months,Low Risk
+1942-OQFRW,Month-to-month,Electronic check,1,44.0,44.0,No,0,1,0.59862673,0-12 months,Medium Risk
+4075-JFPGR,One year,Electronic check,51,93.5,4619.55,No,0,0,0.12574574,49+ months,Low Risk
+3339-EAQNV,One year,Credit card (automatic),72,97.25,7133.1,No,0,0,0.13065813,49+ months,Low Risk
+5329-KRDTM,Two year,Credit card (automatic),72,77.35,5396.25,No,0,0,0.029727481,49+ months,Low Risk
+0307-BCOPK,One year,Mailed check,16,19.05,326.65,No,0,0,0.03613408,13-24 months,Low Risk
+6473-ULUHT,Month-to-month,Electronic check,16,84.9,1398.25,No,0,0,0.17197366,13-24 months,Low Risk
+1194-SPVSP,Month-to-month,Bank transfer (automatic),1,19.65,19.65,No,0,0,0.2866077,0-12 months,Low Risk
+7249-WBIYX,Month-to-month,Electronic check,10,85.6,813.85,Yes,1,1,0.7638592,0-12 months,High Risk
+2293-IJWPS,One year,Credit card (automatic),57,100.75,5985.0,No,0,0,0.27283946,49+ months,Low Risk
+4377-VDHYI,One year,Electronic check,32,90.8,3023.85,No,0,0,0.13013023,25-48 months,Low Risk
+0019-EFAEP,Two year,Bank transfer (automatic),72,101.3,7261.25,No,0,0,0.03242519,49+ months,Low Risk
+2480-EJWYP,One year,Bank transfer (automatic),58,97.8,5458.8,No,0,0,0.19426367,49+ months,Low Risk
+8970-ANWXO,One year,Mailed check,23,73.75,1756.6,No,0,0,0.12508813,13-24 months,Low Risk
+8739-WWKDU,Month-to-month,Electronic check,25,89.5,2196.15,Yes,1,1,0.56167275,25-48 months,Medium Risk
+2171-UDMFD,Month-to-month,Credit card (automatic),32,19.45,674.55,No,0,0,0.08312554,25-48 months,Low Risk
+7036-TYDEC,Two year,Electronic check,69,104.0,7028.5,No,0,0,0.12984683,49+ months,Low Risk
+3831-YCPUO,Two year,Credit card (automatic),72,109.5,7854.9,No,0,0,0.029809754,49+ months,Low Risk
+0121-SNYRK,One year,Mailed check,50,35.4,1748.9,No,0,0,0.04433174,49+ months,Low Risk
+3325-FUYCG,One year,Electronic check,28,106.1,2847.4,Yes,1,0,0.25712478,25-48 months,Low Risk
+1952-DVVSW,One year,Mailed check,10,20.1,184.4,No,0,0,0.04205739,0-12 months,Low Risk
+3571-DPYUH,One year,Credit card (automatic),58,94.7,5430.35,No,0,0,0.11177011,49+ months,Low Risk
+2077-MPJQO,Month-to-month,Electronic check,7,75.4,533.05,No,0,1,0.7029247,0-12 months,High Risk
+2391-SOORI,Month-to-month,Electronic check,4,49.35,219.65,Yes,1,0,0.26950634,0-12 months,Low Risk
+4086-ATNFV,One year,Mailed check,34,60.8,2042.05,No,0,0,0.05435061,25-48 months,Low Risk
+3396-DKDEL,Two year,Credit card (automatic),70,115.15,8250.0,No,0,0,0.058324557,49+ months,Low Risk
+7471-MQPOS,One year,Bank transfer (automatic),71,72.9,5139.65,No,0,0,0.09074875,49+ months,Low Risk
+7181-OQCUT,Month-to-month,Mailed check,21,103.85,2215.0,No,0,1,0.46824592,13-24 months,Medium Risk
+3489-VSFRD,One year,Credit card (automatic),56,60.25,3282.75,No,0,0,0.040683724,49+ months,Low Risk
+6283-GITPX,Two year,Credit card (automatic),71,76.9,5522.7,No,0,0,0.013731345,49+ months,Low Risk
+2845-HSJCY,Month-to-month,Electronic check,14,87.25,1258.6,Yes,1,1,0.6181238,13-24 months,Medium Risk
+7216-KAOID,One year,Bank transfer (automatic),41,19.5,798.2,No,0,0,0.03325554,25-48 months,Low Risk
+6680-WKXRZ,Month-to-month,Bank transfer (automatic),3,74.4,215.8,Yes,1,1,0.5762159,0-12 months,Medium Risk
+2346-LOCWC,Two year,Credit card (automatic),58,20.5,1191.4,No,0,0,0.014491651,49+ months,Low Risk
+0769-MURVM,Two year,Bank transfer (automatic),72,65.7,4575.35,No,0,0,0.011848369,49+ months,Low Risk
+3374-LXDEV,Month-to-month,Electronic check,13,89.4,1132.35,Yes,1,1,0.42696363,13-24 months,Medium Risk
+5318-YKDPV,Two year,Credit card (automatic),43,79.15,3566.6,No,0,0,0.02435545,25-48 months,Low Risk
+8190-ZTQFB,One year,Electronic check,41,51.35,2075.1,No,0,0,0.24199785,25-48 months,Low Risk
+4512-ZUIYL,Month-to-month,Bank transfer (automatic),2,70.0,153.05,Yes,1,1,0.53400636,0-12 months,Medium Risk
+3090-QFUVD,Month-to-month,Credit card (automatic),1,20.3,20.3,No,0,0,0.2751998,0-12 months,Low Risk
+4806-KEXQR,Month-to-month,Electronic check,4,79.9,324.3,Yes,1,1,0.7020739,0-12 months,High Risk
+2369-FEVNO,Month-to-month,Mailed check,1,19.9,19.9,No,0,1,0.3419684,0-12 months,Medium Risk
+9637-CDTKZ,Two year,Credit card (automatic),72,114.1,8086.4,No,0,0,0.03498449,49+ months,Low Risk
+2954-PIBKO,Two year,Credit card (automatic),69,64.15,4254.1,No,0,0,0.017188465,49+ months,Low Risk
+2212-LYASK,One year,Credit card (automatic),27,45.85,1246.4,No,0,0,0.14037377,25-48 months,Low Risk
+9481-SFCQY,Month-to-month,Credit card (automatic),14,59.8,824.85,No,0,0,0.25394303,13-24 months,Low Risk
+2828-SLQPF,Month-to-month,Bank transfer (automatic),19,45.0,865.85,No,0,0,0.20633723,13-24 months,Low Risk
+4647-MUZON,Month-to-month,Credit card (automatic),18,95.95,1745.5,No,0,1,0.5129033,13-24 months,Medium Risk
+8212-DJRCH,Month-to-month,Mailed check,5,90.35,434.5,No,0,1,0.5435423,0-12 months,Medium Risk
+0516-OOHAR,One year,Bank transfer (automatic),28,100.35,2799.0,No,0,0,0.24730542,25-48 months,Low Risk
+4973-RLZVI,One year,Credit card (automatic),30,74.65,2308.6,No,0,0,0.049997024,25-48 months,Low Risk
+8089-UZWLX,Two year,Bank transfer (automatic),71,104.05,7413.55,No,0,0,0.14580579,49+ months,Low Risk
+9732-KPKBW,Month-to-month,Electronic check,1,53.95,53.95,Yes,1,1,0.3798316,0-12 months,Medium Risk
+9715-WZCLW,Two year,Electronic check,71,97.2,6910.3,No,0,0,0.08927514,49+ months,Low Risk
+0257-KXZGU,Month-to-month,Bank transfer (automatic),32,62.45,2045.55,No,0,0,0.15398687,25-48 months,Low Risk
+0707-HOVVN,Two year,Bank transfer (automatic),70,75.5,5212.65,No,0,0,0.03572991,49+ months,Low Risk
+5501-TVMGM,Month-to-month,Electronic check,1,55.25,55.25,No,0,1,0.6689463,0-12 months,Medium Risk
+3422-LYEPQ,Month-to-month,Electronic check,1,71.0,71.0,Yes,1,1,0.77682555,0-12 months,High Risk
+2277-VWCNI,Month-to-month,Mailed check,4,48.75,179.85,No,0,1,0.41392028,0-12 months,Medium Risk
+5461-QKNTN,Month-to-month,Electronic check,43,94.3,3953.15,No,0,1,0.3502311,25-48 months,Medium Risk
+3967-KXAPS,Two year,Credit card (automatic),72,92.3,6719.9,No,0,0,0.012496111,49+ months,Low Risk
+6919-ELBGL,Two year,Bank transfer (automatic),72,114.95,8196.4,No,0,0,0.038606808,49+ months,Low Risk
+8361-LTMKD,Month-to-month,Mailed check,4,74.4,306.6,Yes,1,1,0.68001866,0-12 months,Medium Risk
+1131-ALZWV,One year,Bank transfer (automatic),24,24.6,605.25,No,0,0,0.03823647,13-24 months,Low Risk
+5178-LMXOP,Month-to-month,Electronic check,1,95.1,95.1,Yes,1,1,0.88477075,0-12 months,High Risk
+8992-CEUEN,Month-to-month,Electronic check,1,18.85,18.85,No,0,0,0.28775814,0-12 months,Low Risk
+3320-VEOYC,Month-to-month,Electronic check,14,95.6,1273.3,No,0,1,0.7490754,13-24 months,High Risk
+3672-YITQD,Month-to-month,Electronic check,36,84.1,3021.6,Yes,1,1,0.5025149,25-48 months,Medium Risk
+6080-TCMYC,Month-to-month,Electronic check,40,81.2,3292.3,No,0,1,0.38919133,25-48 months,Medium Risk
+6734-FQAJX,Two year,Electronic check,67,105.05,7171.7,No,0,0,0.080584906,49+ months,Low Risk
+1063-DHQJF,Two year,Mailed check,69,92.15,6480.9,No,0,0,0.031932574,49+ months,Low Risk
+3976-NLDEZ,Month-to-month,Mailed check,1,20.6,20.6,No,0,0,0.29403707,0-12 months,Low Risk
+1729-VLAZJ,One year,Mailed check,10,40.25,411.45,No,0,0,0.0467083,0-12 months,Low Risk
+3400-ESFUW,Two year,Bank transfer (automatic),55,57.55,3046.4,Yes,1,0,0.016802875,49+ months,Low Risk
+5271-YNWVR,Two year,Electronic check,68,113.15,7856.0,Yes,1,0,0.084134094,49+ months,Low Risk
+1587-FKLZB,Month-to-month,Credit card (automatic),66,99.5,6822.15,Yes,1,1,0.39442638,49+ months,Medium Risk
+0958-YHXGP,Month-to-month,Mailed check,7,69.9,497.3,No,0,1,0.56470776,0-12 months,Medium Risk
+1494-EJZDW,Two year,Mailed check,10,20.15,220.8,No,0,0,0.017324489,0-12 months,Low Risk
+1816-FLZDK,Month-to-month,Mailed check,1,29.15,29.15,No,0,1,0.40647846,0-12 months,Medium Risk
+2075-PUEPR,Two year,Bank transfer (automatic),55,19.35,1153.25,No,0,0,0.015237512,49+ months,Low Risk
+1833-TCXKK,Month-to-month,Bank transfer (automatic),45,107.75,4882.8,No,0,1,0.44555876,25-48 months,Medium Risk
+1436-ZMJAN,Month-to-month,Credit card (automatic),10,67.8,653.15,No,0,0,0.31612396,0-12 months,Medium Risk
+0106-UGRDO,Two year,Electronic check,69,116.0,8182.85,No,0,0,0.07933401,49+ months,Low Risk
+1069-XAIEM,Month-to-month,Electronic check,1,85.05,85.05,Yes,1,1,0.85919124,0-12 months,High Risk
+4213-HKBJO,Two year,Credit card (automatic),33,25.7,826.1,No,0,0,0.018180616,25-48 months,Low Risk
+8345-MVDYC,Two year,Bank transfer (automatic),45,81.65,3618.7,No,0,0,0.024776645,25-48 months,Low Risk
+2672-OJQZP,Month-to-month,Mailed check,1,44.75,44.75,No,0,1,0.53585947,0-12 months,Medium Risk
+5136-RGMZO,Month-to-month,Electronic check,31,71.05,2168.15,No,0,0,0.20404975,25-48 months,Low Risk
+5774-QPLTF,One year,Mailed check,50,20.35,938.95,No,0,0,0.035242558,49+ months,Low Risk
+5240-CAOYT,Month-to-month,Bank transfer (automatic),57,87.55,4884.85,No,0,0,0.17657992,49+ months,Low Risk
+3707-GNWHM,Month-to-month,Mailed check,1,74.25,74.25,Yes,1,1,0.77026236,0-12 months,High Risk
+5159-YFPKQ,Month-to-month,Electronic check,2,75.8,160.75,Yes,1,1,0.69705355,0-12 months,Medium Risk
+5052-PNLOS,Month-to-month,Bank transfer (automatic),3,105.35,323.25,Yes,1,1,0.8004716,0-12 months,High Risk
+6173-GOLSU,Month-to-month,Credit card (automatic),67,94.65,6079.0,No,0,1,0.40958697,49+ months,Medium Risk
+6661-HBGWL,Month-to-month,Bank transfer (automatic),42,104.75,4323.45,Yes,1,1,0.46461,25-48 months,Medium Risk
+8207-VVMYB,Two year,Bank transfer (automatic),70,26.0,2006.95,No,0,0,0.016208528,49+ months,Low Risk
+5324-KTGCG,One year,Electronic check,71,20.85,1539.75,No,0,0,0.032864854,49+ months,Low Risk
+7354-OIJLX,Month-to-month,Electronic check,9,75.85,724.65,No,0,1,0.6886439,0-12 months,Medium Risk
+9286-BHDQG,Two year,Credit card (automatic),72,45.25,3139.8,No,0,0,0.010897027,49+ months,Low Risk
+3567-PQTSO,One year,Electronic check,53,105.25,5576.3,No,0,0,0.30999956,49+ months,Medium Risk
+3197-ARFOY,Month-to-month,Mailed check,19,105.0,2007.25,No,0,1,0.43130207,13-24 months,Medium Risk
+5698-BQJOH,Month-to-month,Electronic check,9,94.4,857.25,Yes,1,1,0.7188298,0-12 months,High Risk
+1090-ESELR,Two year,Bank transfer (automatic),72,105.5,7611.55,No,0,0,0.030020526,49+ months,Low Risk
+0056-EPFBG,Two year,Credit card (automatic),20,39.4,825.4,No,0,0,0.02744506,13-24 months,Low Risk
+4955-VCWBI,One year,Mailed check,43,20.0,817.95,No,0,0,0.034022518,25-48 months,Low Risk
+4717-GHADL,Two year,Mailed check,50,79.6,4024.2,No,0,0,0.038181033,49+ months,Low Risk
+0058-EVZWM,Month-to-month,Bank transfer (automatic),55,89.8,4959.6,No,0,0,0.25688884,49+ months,Low Risk
+7218-HKQFK,Month-to-month,Electronic check,2,94.2,167.5,Yes,1,1,0.6904703,0-12 months,Medium Risk
+5057-RKGLH,Two year,Mailed check,9,20.35,191.1,No,0,0,0.017324489,0-12 months,Low Risk
+2309-OSFEU,Month-to-month,Mailed check,10,33.9,298.45,Yes,1,1,0.4083689,0-12 months,Medium Risk
+3429-IFLEM,Two year,Credit card (automatic),71,77.35,5550.1,No,0,0,0.015056758,49+ months,Low Risk
+1550-LOAHA,Month-to-month,Bank transfer (automatic),32,84.15,2585.95,Yes,1,1,0.31868494,25-48 months,Medium Risk
+1400-MMYXY,Month-to-month,Electronic check,3,105.9,334.65,Yes,1,1,0.8468639,0-12 months,High Risk
+7503-QQRVF,Month-to-month,Credit card (automatic),16,74.3,1178.25,Yes,1,1,0.40168193,13-24 months,Medium Risk
+7504-UWHNB,Month-to-month,Electronic check,25,69.75,1729.35,No,0,1,0.3259724,25-48 months,Medium Risk
+9565-JSNFM,One year,Bank transfer (automatic),38,70.45,2597.6,Yes,1,0,0.08746322,25-48 months,Low Risk
+4735-BJKOU,Two year,Mailed check,40,20.15,804.85,No,0,0,0.01620272,25-48 months,Low Risk
+3580-GICBM,Two year,Mailed check,61,24.2,1445.2,No,0,0,0.014235674,49+ months,Low Risk
+7632-YUTXB,One year,Mailed check,25,20.05,520.1,No,0,0,0.034022518,25-48 months,Low Risk
+9412-ARGBX,Two year,Mailed check,48,95.5,4627.85,Yes,1,0,0.04124654,25-48 months,Low Risk
+9576-ANLXO,Month-to-month,Bank transfer (automatic),3,69.55,222.3,Yes,1,1,0.6054709,0-12 months,Medium Risk
+1110-KYLGQ,Month-to-month,Credit card (automatic),63,108.25,6780.1,No,0,0,0.21726823,49+ months,Low Risk
+8696-JKZNU,Month-to-month,Electronic check,37,76.25,2841.55,Yes,1,1,0.4743642,25-48 months,Medium Risk
+8757-TFHHJ,Month-to-month,Credit card (automatic),1,49.8,49.8,No,0,1,0.45975113,0-12 months,Medium Risk
+2955-BJZHG,Month-to-month,Electronic check,17,80.85,1400.85,Yes,1,1,0.4168082,13-24 months,Medium Risk
+9048-JVYVF,Month-to-month,Electronic check,3,69.35,191.35,Yes,1,1,0.41549137,0-12 months,Medium Risk
+0682-USIXD,Month-to-month,Electronic check,21,86.05,1818.9,No,0,1,0.4368204,13-24 months,Medium Risk
+3884-UEBXB,Two year,Bank transfer (automatic),67,36.15,2434.45,No,0,0,0.026366167,49+ months,Low Risk
+1776-SPBWV,One year,Bank transfer (automatic),34,20.1,682.1,No,0,0,0.035162557,25-48 months,Low Risk
+9050-QLROH,Month-to-month,Credit card (automatic),18,90.7,1597.25,Yes,1,1,0.4409546,13-24 months,Medium Risk
+2925-VDZHY,Two year,Credit card (automatic),72,88.7,6501.35,No,0,0,0.011782456,49+ months,Low Risk
+9512-UIBFX,Month-to-month,Mailed check,18,95.15,1779.95,Yes,1,1,0.37880945,13-24 months,Medium Risk
+8676-TRMJS,Month-to-month,Mailed check,3,75.0,209.1,Yes,1,1,0.5762159,0-12 months,Medium Risk
+3334-CTHOL,Month-to-month,Bank transfer (automatic),1,49.95,49.95,Yes,1,1,0.6125507,0-12 months,Medium Risk
+6331-LWDTQ,Month-to-month,Credit card (automatic),10,72.15,794.25,Yes,1,1,0.3874628,0-12 months,Medium Risk
+3847-BAERP,Month-to-month,Mailed check,10,20.9,247.0,No,0,0,0.13448872,0-12 months,Low Risk
+4709-LKHYG,One year,Electronic check,29,20.0,540.05,No,0,0,0.04338409,25-48 months,Low Risk
+8621-MNIHH,Month-to-month,Electronic check,34,94.25,3217.55,Yes,1,1,0.48672122,25-48 months,Medium Risk
+8884-ADFVN,Month-to-month,Electronic check,7,101.95,700.85,Yes,1,1,0.8455501,0-12 months,High Risk
+2885-HIJDH,Two year,Bank transfer (automatic),69,86.9,6194.1,No,0,0,0.027019208,49+ months,Low Risk
+8570-KLJYJ,One year,Mailed check,36,54.45,1893.5,No,0,0,0.048794374,25-48 months,Low Risk
+9339-FIIJL,Two year,Bank transfer (automatic),72,85.95,6151.9,No,0,0,0.028848283,49+ months,Low Risk
+6223-DHJGV,One year,Mailed check,42,20.65,958.1,No,0,0,0.03657081,25-48 months,Low Risk
+0959-WHOKV,One year,Electronic check,42,99.0,4298.45,No,0,0,0.20325196,25-48 months,Low Risk
+9610-WCESF,Two year,Electronic check,67,43.9,3097.2,No,0,0,0.049403105,49+ months,Low Risk
+9279-CJEOJ,Month-to-month,Bank transfer (automatic),21,95.4,2025.1,No,0,1,0.55833477,13-24 months,Medium Risk
+2985-FMWYF,Month-to-month,Electronic check,23,93.5,2341.55,No,0,1,0.64345855,13-24 months,Medium Risk
+3540-RZJYU,Month-to-month,Electronic check,15,86.2,1270.2,Yes,1,1,0.40948316,13-24 months,Medium Risk
+2522-WLNSF,One year,Bank transfer (automatic),34,64.2,2106.3,No,0,0,0.073570915,25-48 months,Low Risk
+6861-XWTWQ,Month-to-month,Electronic check,7,99.25,665.45,Yes,1,1,0.8551197,0-12 months,High Risk
+8735-NBLWT,Month-to-month,Mailed check,9,20.4,184.1,No,0,0,0.09503975,0-12 months,Low Risk
+1744-JHKYS,Month-to-month,Electronic check,34,24.7,780.2,No,0,0,0.10172907,25-48 months,Low Risk
+0841-NULXI,Month-to-month,Electronic check,1,35.55,35.55,Yes,1,1,0.74045044,0-12 months,High Risk
+4016-BJKTZ,Two year,Electronic check,25,108.9,2809.05,No,0,0,0.18127231,25-48 months,Low Risk
+9298-WGMRW,Two year,Bank transfer (automatic),72,115.5,8312.75,No,0,0,0.033895627,49+ months,Low Risk
+7893-IXHRQ,Month-to-month,Electronic check,1,20.55,20.55,Yes,1,0,0.31395584,0-12 months,Medium Risk
+8785-CJSHH,Month-to-month,Electronic check,60,99.8,5985.75,No,0,1,0.38764814,49+ months,Medium Risk
+7654-YWJUF,One year,Bank transfer (automatic),43,84.25,3539.25,No,0,0,0.05370925,25-48 months,Low Risk
+8909-BOLNL,One year,Mailed check,3,21.2,52.05,No,0,0,0.046056524,0-12 months,Low Risk
+9919-FZDED,Two year,Credit card (automatic),72,84.1,5981.65,No,0,0,0.023890726,49+ months,Low Risk
+0322-CHQRU,Month-to-month,Electronic check,2,45.35,89.5,Yes,1,1,0.49488565,0-12 months,Medium Risk
+3587-PMCOY,One year,Electronic check,10,98.9,1064.95,No,0,0,0.29954013,0-12 months,Low Risk
+0655-RBDUG,Month-to-month,Bank transfer (automatic),7,98.05,713.0,Yes,1,1,0.79852295,0-12 months,High Risk
+0983-TATYJ,One year,Mailed check,33,51.45,1758.9,No,0,0,0.06294377,25-48 months,Low Risk
+5650-YLIBA,Month-to-month,Electronic check,31,81.15,2640.55,No,0,1,0.47037417,25-48 months,Medium Risk
+5144-TVGLP,Month-to-month,Electronic check,38,94.75,3653.0,No,0,1,0.46404022,25-48 months,Medium Risk
+3569-EDBPQ,Month-to-month,Electronic check,24,84.35,1938.05,No,0,1,0.3533563,13-24 months,Medium Risk
+4945-RVMTE,Month-to-month,Bank transfer (automatic),28,59.55,1646.45,No,0,0,0.17432335,25-48 months,Low Risk
+3511-BFTJW,Two year,Credit card (automatic),72,38.5,2763.0,No,0,0,0.017851774,49+ months,Low Risk
+5537-UXXVS,Month-to-month,Bank transfer (automatic),20,19.25,375.25,No,0,0,0.081168115,13-24 months,Low Risk
+8782-NUUOL,One year,Mailed check,60,79.0,4801.1,No,0,0,0.064688995,49+ months,Low Risk
+2865-TCHJW,Month-to-month,Electronic check,4,89.2,346.2,Yes,1,1,0.8023279,0-12 months,High Risk
+9931-KGHOA,Month-to-month,Bank transfer (automatic),46,55.0,2473.95,No,0,0,0.1316608,25-48 months,Low Risk
+3071-MVJCD,Two year,Bank transfer (automatic),72,82.3,5815.15,No,0,0,0.010974701,49+ months,Low Risk
+7279-BUYWN,Month-to-month,Electronic check,41,113.2,4689.5,Yes,1,1,0.39906928,25-48 months,Medium Risk
+3756-VNWDH,One year,Electronic check,65,100.75,6674.65,No,0,0,0.26655504,49+ months,Low Risk
+1395-OFUWC,Month-to-month,Credit card (automatic),43,29.3,1224.05,No,0,0,0.15016542,25-48 months,Low Risk
+4223-BKEOR,One year,Mailed check,21,64.85,1336.8,No,0,0,0.067649975,13-24 months,Low Risk
+0040-HALCW,Two year,Credit card (automatic),54,20.4,1090.6,No,0,0,0.015602261,49+ months,Low Risk
+7124-UGSUR,One year,Credit card (automatic),61,104.4,6405.0,Yes,1,0,0.23019066,49+ months,Low Risk
+7395-XWZOY,Month-to-month,Credit card (automatic),20,55.0,1165.55,No,0,0,0.15639141,13-24 months,Low Risk
+5440-VHLUL,One year,Bank transfer (automatic),69,105.2,7386.05,No,0,0,0.2409021,49+ months,Low Risk
+4706-DGAHW,Month-to-month,Electronic check,1,45.2,45.2,No,0,1,0.66152084,0-12 months,Medium Risk
+8166-ORCHU,One year,Electronic check,33,93.55,3055.5,No,0,0,0.13187264,25-48 months,Low Risk
+3978-YNKDD,Two year,Credit card (automatic),19,20.85,467.5,No,0,0,0.016215852,13-24 months,Low Risk
+7198-GLXTC,Month-to-month,Electronic check,2,79.0,143.65,Yes,1,1,0.66783994,0-12 months,Medium Risk
+6366-XIVKZ,Month-to-month,Mailed check,13,63.15,816.8,No,0,0,0.20091422,13-24 months,Low Risk
+5133-POWUA,Month-to-month,Mailed check,1,45.8,45.8,No,0,1,0.5886122,0-12 months,Medium Risk
+8400-WZICQ,Month-to-month,Electronic check,55,55.7,3131.8,No,0,0,0.12616953,49+ months,Low Risk
+5382-SOYZL,Month-to-month,Electronic check,22,95.1,2162.6,No,0,1,0.681462,13-24 months,Medium Risk
+1989-PRJHP,Month-to-month,Electronic check,27,75.5,1893.95,Yes,1,1,0.47937062,25-48 months,Medium Risk
+4154-AQUGT,Month-to-month,Bank transfer (automatic),13,89.05,1169.35,Yes,1,1,0.44663712,13-24 months,Medium Risk
+0980-FEXWF,One year,Mailed check,26,50.35,1285.8,No,0,0,0.06599957,25-48 months,Low Risk
+5845-BZZIB,Two year,Mailed check,35,20.1,655.3,No,0,0,0.015208662,25-48 months,Low Risk
+4840-ORQXB,Month-to-month,Electronic check,56,104.75,5841.35,No,0,1,0.39492485,49+ months,Medium Risk
+0295-PPHDO,Month-to-month,Electronic check,1,95.45,95.45,Yes,1,1,0.8705391,0-12 months,High Risk
+8775-ERLNB,Month-to-month,Electronic check,1,74.3,74.3,No,0,1,0.787045,0-12 months,High Risk
+0376-YMCJC,Month-to-month,Electronic check,23,90.6,1943.2,Yes,1,1,0.47357735,13-24 months,Medium Risk
+7410-YTJIK,Month-to-month,Mailed check,7,75.45,480.75,Yes,1,1,0.5347527,0-12 months,Medium Risk
+9927-DSWDF,Month-to-month,Electronic check,22,104.6,2180.55,No,0,1,0.48184666,13-24 months,Medium Risk
+6681-ZSEXG,Two year,Credit card (automatic),56,59.5,3389.25,No,0,0,0.039991714,49+ months,Low Risk
+5702-KVQRD,Two year,Electronic check,71,82.55,5832.65,No,0,0,0.031197075,49+ months,Low Risk
+8711-LOBKY,Two year,Mailed check,59,19.85,1188.25,No,0,0,0.014803061,49+ months,Low Risk
+9692-TUSXH,Month-to-month,Electronic check,18,96.05,1740.7,Yes,1,1,0.57456535,13-24 months,Medium Risk
+4012-YCFAI,Two year,Mailed check,60,61.35,3766.2,No,0,0,0.014205855,49+ months,Low Risk
+8455-HIRAQ,Month-to-month,Mailed check,8,44.45,369.3,No,0,0,0.24086043,0-12 months,Low Risk
+7853-WNZSY,Month-to-month,Credit card (automatic),1,19.75,19.75,No,0,1,0.32145864,0-12 months,Medium Risk
+0390-DCFDQ,Month-to-month,Mailed check,1,70.45,70.45,Yes,1,1,0.7810475,0-12 months,High Risk
+6421-SZVEM,One year,Bank transfer (automatic),28,82.85,2320.8,No,0,0,0.09690583,25-48 months,Low Risk
+3094-JOJAI,Month-to-month,Mailed check,18,74.15,1387.0,No,0,0,0.3075052,13-24 months,Medium Risk
+4873-ILOLJ,Month-to-month,Electronic check,24,90.35,2238.5,Yes,1,1,0.5536501,13-24 months,Medium Risk
+8181-YHCMF,Two year,Credit card (automatic),68,60.3,4109.0,No,0,0,0.02769291,49+ months,Low Risk
+3324-OIRTO,One year,Bank transfer (automatic),71,104.65,7288.4,No,0,0,0.13789453,49+ months,Low Risk
+9135-HSWOC,Two year,Bank transfer (automatic),64,19.7,1274.05,No,0,0,0.01427633,49+ months,Low Risk
+2272-WUSPA,Two year,Electronic check,72,110.75,7751.7,No,0,0,0.059101913,49+ months,Low Risk
+4627-MIHJH,Two year,Credit card (automatic),69,110.25,7467.55,No,0,0,0.1307846,49+ months,Low Risk
+3896-RCYYE,Month-to-month,Credit card (automatic),67,53.4,3579.15,No,0,0,0.15170033,49+ months,Low Risk
+6729-GDNGC,Month-to-month,Bank transfer (automatic),20,80.7,1614.2,No,0,1,0.32205597,13-24 months,Medium Risk
+9945-PSVIP,Two year,Mailed check,25,18.7,383.65,No,0,0,0.014440922,25-48 months,Low Risk
+4137-JOPHL,Two year,Bank transfer (automatic),50,89.7,4304.5,No,0,0,0.04035822,49+ months,Low Risk
+2720-FVBQP,Month-to-month,Credit card (automatic),6,48.95,273.25,No,0,1,0.37164423,0-12 months,Medium Risk
+7854-EKTJL,Month-to-month,Electronic check,2,19.6,35.85,Yes,1,0,0.24232161,0-12 months,Low Risk
+1133-KXCGE,One year,Mailed check,18,20.1,407.05,No,0,0,0.037679143,13-24 months,Low Risk
+6048-QBXKL,Month-to-month,Credit card (automatic),2,56.55,118.25,No,0,1,0.5391241,0-12 months,Medium Risk
+6338-AVWCY,Month-to-month,Mailed check,3,40.15,130.75,Yes,1,1,0.4764802,0-12 months,Medium Risk
+0013-MHZWF,Month-to-month,Credit card (automatic),9,69.4,571.45,No,0,0,0.25773224,0-12 months,Low Risk
+9804-ICWBG,Month-to-month,Electronic check,1,69.9,69.9,Yes,1,1,0.7906641,0-12 months,High Risk
+2368-GAKKQ,Two year,Bank transfer (automatic),70,113.65,7939.25,No,0,0,0.0633077,49+ months,Low Risk
+4829-AUOAX,Month-to-month,Bank transfer (automatic),46,96.05,4399.5,Yes,1,1,0.37876657,25-48 months,Medium Risk
+7876-BEUTG,Month-to-month,Mailed check,15,48.8,720.1,No,0,0,0.28896144,13-24 months,Low Risk
+6349-JDHQP,Two year,Credit card (automatic),53,19.85,1049.6,No,0,0,0.015899153,49+ months,Low Risk
+3063-QFSZL,Month-to-month,Electronic check,1,55.4,55.4,Yes,1,1,0.66139215,0-12 months,Medium Risk
+9142-XMYJH,Month-to-month,Credit card (automatic),29,19.35,601.6,No,0,0,0.077664696,25-48 months,Low Risk
+2609-IAICY,Month-to-month,Electronic check,1,77.15,77.15,Yes,1,1,0.82269573,0-12 months,High Risk
+8626-PTQGE,Two year,Bank transfer (automatic),69,60.05,4176.7,No,0,0,0.01913851,49+ months,Low Risk
+0230-UBYPQ,One year,Bank transfer (automatic),63,36.1,2298.9,No,0,0,0.04199263,49+ months,Low Risk
+6814-ZPWFQ,One year,Bank transfer (automatic),51,25.0,1260.7,No,0,0,0.04274574,49+ months,Low Risk
+5921-NGYRH,Month-to-month,Mailed check,64,73.55,4764.0,No,0,0,0.1907179,49+ months,Low Risk
+7803-XOCCZ,Month-to-month,Bank transfer (automatic),52,84.05,4326.8,No,0,0,0.19500315,49+ months,Low Risk
+1459-QNFQT,Two year,Bank transfer (automatic),70,59.5,4144.8,No,0,0,0.021917948,49+ months,Low Risk
+3948-FVVRP,Month-to-month,Mailed check,9,54.8,452.8,No,0,0,0.1668149,0-12 months,Low Risk
+0923-PNFUB,Month-to-month,Electronic check,3,83.75,247.25,Yes,1,1,0.61726385,0-12 months,Medium Risk
+4654-ULTTN,Two year,Credit card (automatic),70,74.8,5315.8,No,0,0,0.026892444,49+ months,Low Risk
+5628-FCGYG,Month-to-month,Electronic check,21,84.1,1737.45,No,0,1,0.59345543,13-24 months,Medium Risk
+0506-LVNGN,Month-to-month,Credit card (automatic),5,75.55,349.65,Yes,1,1,0.6048667,0-12 months,Medium Risk
+4329-YPDDQ,Month-to-month,Bank transfer (automatic),20,108.2,2203.7,No,0,1,0.42100173,13-24 months,Medium Risk
+9866-OCCKE,Two year,Mailed check,72,109.75,8075.35,No,0,0,0.051883068,49+ months,Low Risk
+0794-YVSGE,Two year,Bank transfer (automatic),72,20.3,1401.15,No,0,0,0.009401814,49+ months,Low Risk
+4342-HENTK,Month-to-month,Electronic check,2,70.65,142.35,Yes,1,1,0.6887468,0-12 months,Medium Risk
+5934-TSSAU,Month-to-month,Credit card (automatic),23,75.3,1702.9,No,0,1,0.32342348,13-24 months,Medium Risk
+9986-BONCE,Month-to-month,Bank transfer (automatic),4,20.95,85.5,Yes,1,0,0.13069329,0-12 months,Low Risk
+5301-GAUUY,Month-to-month,Bank transfer (automatic),32,80.35,2596.15,Yes,1,1,0.35756183,25-48 months,Medium Risk
+0725-CXOTM,One year,Credit card (automatic),36,89.65,3348.1,No,0,0,0.0747758,25-48 months,Low Risk
+2843-CQMEG,Month-to-month,Mailed check,24,49.7,1218.25,No,0,0,0.18613614,13-24 months,Low Risk
+5600-PDUJF,Month-to-month,Credit card (automatic),6,49.5,312.7,No,0,0,0.29579225,0-12 months,Low Risk
+4500-HKANN,Two year,Mailed check,23,59.7,1414.2,No,0,0,0.029696563,13-24 months,Low Risk
+1862-QRWPE,Two year,Bank transfer (automatic),48,20.65,1057.0,No,0,0,0.015274297,25-48 months,Low Risk
+2155-AMQRX,Month-to-month,Credit card (automatic),28,54.9,1505.15,No,0,0,0.14658915,25-48 months,Low Risk
+0823-HSCDJ,Month-to-month,Electronic check,52,49.15,2550.9,Yes,1,1,0.37905407,49+ months,Medium Risk
+4090-KPJIP,Month-to-month,Electronic check,3,74.95,212.4,No,0,1,0.7248102,0-12 months,High Risk
+2737-YNGYW,Month-to-month,Electronic check,2,80.55,184.1,Yes,1,1,0.648924,0-12 months,Medium Risk
+5619-XZZKR,One year,Mailed check,4,19.95,68.2,No,0,0,0.046056524,0-12 months,Low Risk
+6047-YHPVI,Month-to-month,Electronic check,5,69.7,316.9,Yes,1,1,0.66323507,0-12 months,Medium Risk
+8375-DKEBR,Month-to-month,Electronic check,1,69.6,69.6,Yes,1,1,0.8322914,0-12 months,High Risk
+7729-XBTWX,Two year,Mailed check,66,19.75,1344.5,No,0,0,0.01427633,49+ months,Low Risk
+4983-CLMLV,Month-to-month,Credit card (automatic),52,102.7,5138.1,No,0,1,0.38878757,49+ months,Medium Risk
+9227-LUNBG,Month-to-month,Electronic check,1,24.6,24.6,Yes,1,1,0.6355809,0-12 months,Medium Risk
+2758-RNWXS,One year,Electronic check,35,89.2,3251.3,No,0,0,0.10339186,25-48 months,Low Risk
+7055-HNEOJ,Month-to-month,Mailed check,3,55.8,154.55,No,0,1,0.3271684,0-12 months,Medium Risk
+7134-MJPDY,One year,Credit card (automatic),66,102.85,6976.75,No,0,0,0.22978307,49+ months,Low Risk
+4560-WQAQW,One year,Bank transfer (automatic),59,68.7,4070.95,No,0,0,0.0503209,49+ months,Low Risk
+8532-UEFWH,Two year,Mailed check,52,25.75,1345.85,No,0,0,0.016656712,49+ months,Low Risk
+8541-QVFKM,Month-to-month,Electronic check,8,73.5,632.2,No,0,1,0.6694889,0-12 months,Medium Risk
+7129-ACFOG,Month-to-month,Electronic check,5,53.8,283.95,No,0,1,0.3949659,0-12 months,Medium Risk
+2495-INZWQ,Month-to-month,Electronic check,4,44.55,174.3,Yes,1,1,0.65012294,0-12 months,Medium Risk
+0263-FJTQO,Two year,Credit card (automatic),50,70.5,3486.65,No,0,0,0.021137733,49+ months,Low Risk
+0181-RITDD,Two year,Mailed check,62,108.15,6825.65,No,0,0,0.083845,49+ months,Low Risk
+8241-JUIQO,One year,Bank transfer (automatic),61,19.45,1336.35,No,0,0,0.033917427,49+ months,Low Risk
+0913-XWSCN,Month-to-month,Bank transfer (automatic),55,85.5,4713.4,No,0,0,0.2546586,49+ months,Low Risk
+2159-TURXX,Month-to-month,Credit card (automatic),5,20.05,95.55,No,0,0,0.12803589,0-12 months,Low Risk
+6461-PPAXN,One year,Bank transfer (automatic),35,54.95,1916.0,No,0,0,0.044062536,25-48 months,Low Risk
+1452-KIOVK,Month-to-month,Credit card (automatic),22,89.1,1949.4,No,0,1,0.4352977,13-24 months,Medium Risk
+1139-WUOAH,Two year,Credit card (automatic),57,53.35,3090.05,No,0,0,0.046080675,49+ months,Low Risk
+3207-OYBWH,Month-to-month,Bank transfer (automatic),57,95.25,5427.05,Yes,1,1,0.36336696,49+ months,Medium Risk
+8347-GDTMP,Two year,Credit card (automatic),64,19.45,1225.65,No,0,0,0.016141623,49+ months,Low Risk
+9909-DFRJA,One year,Bank transfer (automatic),26,95.85,2475.35,No,0,0,0.14054039,25-48 months,Low Risk
+6383-ZTSIW,One year,Mailed check,39,99.1,3877.95,No,0,0,0.15011595,25-48 months,Low Risk
+5438-QMDDL,Month-to-month,Mailed check,19,59.8,1130.85,No,0,0,0.20412129,13-24 months,Low Risk
+8914-RBTSB,Month-to-month,Electronic check,31,93.8,3019.5,Yes,1,1,0.39936838,25-48 months,Medium Risk
+6164-HXUGH,Month-to-month,Mailed check,6,19.85,119.3,No,0,0,0.10487194,0-12 months,Low Risk
+6900-RBKER,Two year,Credit card (automatic),52,89.45,4577.75,No,0,0,0.07932263,49+ months,Low Risk
+1492-QGCLU,Month-to-month,Electronic check,53,85.7,4616.1,No,0,0,0.1464141,49+ months,Low Risk
+6664-FPDAC,One year,Electronic check,56,111.95,6418.9,Yes,1,0,0.26466304,49+ months,Low Risk
+1088-AUUZZ,Two year,Credit card (automatic),56,75.85,4261.2,No,0,0,0.016510407,49+ months,Low Risk
+6651-AZVTJ,Month-to-month,Electronic check,49,99.8,4872.45,Yes,1,1,0.4924743,49+ months,Medium Risk
+8219-VYBVI,Two year,Mailed check,39,25.0,1004.35,No,0,0,0.016834792,25-48 months,Low Risk
+0310-MVLET,Month-to-month,Electronic check,61,99.15,6010.05,Yes,1,1,0.33966592,49+ months,Medium Risk
+7233-IOQNP,Month-to-month,Bank transfer (automatic),43,34.0,1505.35,No,0,0,0.108964145,25-48 months,Low Risk
+7311-MQJCH,One year,Electronic check,5,19.55,99.6,No,0,0,0.058193564,0-12 months,Low Risk
+9256-JTBNZ,Month-to-month,Bank transfer (automatic),11,20.3,246.3,No,0,0,0.10394604,0-12 months,Low Risk
+8713-IGZSO,Month-to-month,Mailed check,2,24.85,62.0,No,0,0,0.15885484,0-12 months,Low Risk
+6821-BUXUX,Month-to-month,Electronic check,13,96.65,1244.5,Yes,1,1,0.5786745,13-24 months,Medium Risk
+9114-DPSIA,Two year,Credit card (automatic),72,81.0,5750.0,No,0,0,0.011161225,49+ months,Low Risk
+4501-UYKBC,One year,Credit card (automatic),46,69.1,3255.35,No,0,0,0.11925393,25-48 months,Low Risk
+2798-NYLMZ,Two year,Credit card (automatic),71,108.55,7616.0,No,0,0,0.09180385,49+ months,Low Risk
+6711-VTNRE,Month-to-month,Electronic check,36,87.55,3078.1,Yes,1,1,0.31931663,25-48 months,Medium Risk
+5966-EMAZU,One year,Mailed check,64,108.5,6880.85,No,0,0,0.20471713,49+ months,Low Risk
+3627-FHKBK,Month-to-month,Mailed check,1,75.3,75.3,Yes,1,1,0.5914532,0-12 months,Medium Risk
+7861-UVUFT,Month-to-month,Electronic check,15,84.3,1308.4,Yes,1,1,0.58625245,13-24 months,Medium Risk
+9824-QCJPK,One year,Mailed check,36,20.0,666.75,No,0,0,0.03459016,25-48 months,Low Risk
+7816-VGHTO,Two year,Mailed check,6,40.55,217.5,No,0,0,0.04179281,0-12 months,Low Risk
+3794-NFNCH,Month-to-month,Mailed check,30,50.0,1474.9,No,0,0,0.15457444,25-48 months,Low Risk
+3877-JRJIP,Month-to-month,Electronic check,1,59.85,59.85,Yes,1,1,0.70616406,0-12 months,High Risk
+5228-EXCET,Month-to-month,Electronic check,13,80.85,1008.7,Yes,1,1,0.5961764,13-24 months,Medium Risk
+6248-BSHKG,One year,Mailed check,61,20.4,1226.45,No,0,0,0.030060744,49+ months,Low Risk
+8915-NNTRC,Two year,Credit card (automatic),72,107.7,7919.8,No,0,0,0.03432851,49+ months,Low Risk
+3470-OBUET,Two year,Credit card (automatic),67,74.0,4868.4,No,0,0,0.018856168,49+ months,Low Risk
+3229-USWAR,One year,Bank transfer (automatic),34,79.95,2727.3,No,0,0,0.08021971,25-48 months,Low Risk
+1927-QEWMY,Two year,Credit card (automatic),72,20.5,1502.25,No,0,0,0.009581873,49+ months,Low Risk
+6374-AFWOX,Two year,Mailed check,46,65.65,3047.15,No,0,0,0.01672512,25-48 months,Low Risk
+7912-SYRQT,Month-to-month,Bank transfer (automatic),7,75.1,552.95,Yes,1,1,0.6037619,0-12 months,Medium Risk
+2070-FNEXE,Month-to-month,Bank transfer (automatic),7,76.45,503.6,Yes,1,1,0.4087794,0-12 months,Medium Risk
+5803-NQJZO,Two year,Bank transfer (automatic),72,67.8,4804.65,No,0,0,0.0125121325,49+ months,Low Risk
+5651-YLPRD,Month-to-month,Electronic check,32,86.1,2723.75,No,0,1,0.46917784,25-48 months,Medium Risk
+1271-UODNO,Two year,Credit card (automatic),39,53.85,2200.7,No,0,0,0.039368607,25-48 months,Low Risk
+5014-WUQMG,One year,Electronic check,47,96.1,4391.45,No,0,0,0.13920057,25-48 months,Low Risk
+5889-JTMUL,Month-to-month,Electronic check,50,95.05,4888.7,Yes,1,1,0.44238588,49+ months,Medium Risk
+0788-DXBFY,One year,Electronic check,58,19.55,1108.8,No,0,0,0.0431433,49+ months,Low Risk
+2669-QVCRG,Month-to-month,Credit card (automatic),41,81.3,3190.65,No,0,0,0.25308856,25-48 months,Low Risk
+6630-UJZMY,Month-to-month,Electronic check,4,83.25,308.05,No,0,1,0.8023279,0-12 months,High Risk
+5061-PBXFW,Month-to-month,Bank transfer (automatic),32,61.4,1864.65,No,0,0,0.090489596,25-48 months,Low Risk
+2700-LUEVA,Month-to-month,Credit card (automatic),1,20.75,20.75,No,0,0,0.2751998,0-12 months,Low Risk
+3865-ZFZIB,Two year,Mailed check,19,19.65,358.15,No,0,0,0.016878556,13-24 months,Low Risk
+0471-ARVMX,One year,Electronic check,62,104.85,6312.9,No,0,0,0.24926619,49+ months,Low Risk
+8985-OOPOS,One year,Credit card (automatic),1,74.1,74.1,No,0,0,0.1812936,0-12 months,Low Risk
+0719-SYFRB,Month-to-month,Mailed check,12,61.65,713.75,Yes,1,0,0.17430656,0-12 months,Low Risk
+0447-BEMNG,Month-to-month,Bank transfer (automatic),48,45.3,2145.0,Yes,1,0,0.14992844,25-48 months,Low Risk
+5630-AHZIL,Month-to-month,Bank transfer (automatic),3,64.5,177.4,No,0,0,0.23225075,0-12 months,Low Risk
+2190-BCXEC,Month-to-month,Credit card (automatic),40,78.85,3126.85,No,0,0,0.2819632,25-48 months,Low Risk
+1559-DTODC,Month-to-month,Bank transfer (automatic),19,25.15,468.35,No,0,0,0.264322,13-24 months,Low Risk
+3244-DCJWY,Month-to-month,Electronic check,1,70.25,70.25,Yes,1,1,0.77145433,0-12 months,High Risk
+3967-VQOGC,Two year,Mailed check,67,24.9,1680.25,No,0,0,0.015006465,49+ months,Low Risk
+0265-PSUAE,Month-to-month,Bank transfer (automatic),16,100.7,1522.7,No,0,1,0.42365134,13-24 months,Medium Risk
+1622-HSHSF,Month-to-month,Mailed check,1,19.55,19.55,No,0,1,0.3419684,0-12 months,Medium Risk
+9867-XOBQA,Two year,Mailed check,21,53.15,1183.2,No,0,0,0.022169912,13-24 months,Low Risk
+6773-LQTVT,Month-to-month,Mailed check,29,35.65,1025.15,No,0,0,0.21577194,25-48 months,Low Risk
+4332-MUOEZ,One year,Credit card (automatic),20,94.3,1818.3,No,0,0,0.119302526,13-24 months,Low Risk
+0023-XUOPT,Month-to-month,Electronic check,13,94.1,1215.6,Yes,1,1,0.5392512,13-24 months,Medium Risk
+6543-CPZMK,Month-to-month,Electronic check,9,29.95,248.95,Yes,1,1,0.40047863,0-12 months,Medium Risk
+6418-HNFED,Two year,Credit card (automatic),51,83.25,4089.45,No,0,0,0.01974023,49+ months,Low Risk
+1036-GUDCL,Month-to-month,Credit card (automatic),60,79.05,4663.4,No,0,0,0.10495017,49+ months,Low Risk
+4818-QIUFN,Month-to-month,Electronic check,20,79.15,1520.9,Yes,1,1,0.46191183,13-24 months,Medium Risk
+0778-NELLA,Month-to-month,Credit card (automatic),9,34.7,296.1,Yes,1,1,0.40299922,0-12 months,Medium Risk
+7495-OOKFY,Month-to-month,Credit card (automatic),8,80.65,633.3,Yes,1,1,0.5939988,0-12 months,Medium Risk
+4737-HOBAX,Two year,Credit card (automatic),63,79.8,5034.05,No,0,0,0.04751781,49+ months,Low Risk
+7919-ZODZZ,One year,Mailed check,10,65.9,660.05,No,0,0,0.15390246,0-12 months,Low Risk
+2988-PLAHS,One year,Electronic check,3,69.95,220.45,No,0,0,0.24964437,0-12 months,Low Risk
+9067-SQTNS,One year,Bank transfer (automatic),44,20.6,926.0,No,0,0,0.03325554,25-48 months,Low Risk
+6483-OATDN,Month-to-month,Credit card (automatic),8,51.3,411.6,No,0,0,0.2070313,0-12 months,Low Risk
+5469-CTCWN,One year,Electronic check,61,106.0,6547.7,Yes,1,0,0.17902516,49+ months,Low Risk
+3524-WQDSG,Month-to-month,Bank transfer (automatic),43,99.3,4209.95,No,0,1,0.4355293,25-48 months,Medium Risk
+6968-URWQU,One year,Mailed check,43,56.35,2391.15,No,0,0,0.089429066,25-48 months,Low Risk
+8601-QACRS,Month-to-month,Mailed check,5,50.6,249.95,Yes,1,1,0.44072092,0-12 months,Medium Risk
+8690-UPCZI,One year,Bank transfer (automatic),29,69.05,1958.45,No,0,0,0.048104476,25-48 months,Low Risk
+5331-RGMTT,Month-to-month,Credit card (automatic),54,99.05,5295.7,No,0,1,0.472124,49+ months,Medium Risk
+1357-BIJKI,One year,Electronic check,50,98.25,4858.7,No,0,0,0.2783359,49+ months,Low Risk
+2088-IEBAU,Two year,Electronic check,68,88.15,6148.45,No,0,0,0.029786017,49+ months,Low Risk
+0679-IDSTG,Month-to-month,Electronic check,1,69.25,69.25,Yes,1,1,0.8318445,0-12 months,High Risk
+6519-ZHPXP,Two year,Bank transfer (automatic),72,108.3,7679.65,No,0,0,0.032405194,49+ months,Low Risk
+2101-RANCD,Month-to-month,Electronic check,55,73.1,4144.9,No,0,1,0.36529556,49+ months,Medium Risk
+4029-HPFVY,Month-to-month,Mailed check,3,70.3,220.4,No,0,1,0.5998209,0-12 months,Medium Risk
+1015-OWJKI,Month-to-month,Mailed check,1,19.05,19.05,No,0,0,0.2530797,0-12 months,Low Risk
+8314-HTWVE,Two year,Mailed check,7,19.85,144.15,No,0,0,0.018846832,0-12 months,Low Risk
+5357-TZHPP,Month-to-month,Credit card (automatic),9,84.4,732.5,Yes,1,1,0.7128394,0-12 months,High Risk
+8727-XDPUD,Two year,Credit card (automatic),37,35.8,1316.9,No,0,0,0.056162838,25-48 months,Low Risk
+9073-ZZIAY,Two year,Electronic check,62,86.1,5215.25,No,0,0,0.023646437,49+ months,Low Risk
+5181-OABFK,Two year,Credit card (automatic),56,61.3,3346.8,No,0,0,0.023062099,49+ months,Low Risk
+3812-LRZIR,Two year,Electronic check,27,24.5,761.95,No,0,0,0.029075311,25-48 months,Low Risk
+5204-HMGYF,One year,Mailed check,49,87.2,4345.0,No,0,0,0.06508816,49+ months,Low Risk
+9950-MTGYX,Two year,Credit card (automatic),28,20.3,487.95,No,0,0,0.015208662,25-48 months,Low Risk
+3675-EQOZA,Month-to-month,Bank transfer (automatic),5,20.65,93.55,No,0,0,0.12803589,0-12 months,Low Risk
+3646-ITDGM,Two year,Bank transfer (automatic),56,19.7,1051.9,No,0,0,0.015084987,49+ months,Low Risk
+3913-FCUUW,Two year,Bank transfer (automatic),72,70.45,5165.7,No,0,0,0.01191029,49+ months,Low Risk

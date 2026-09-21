@@ -1,11 +1,7 @@
-catboost
-matplotlib
 numpy
 pandas
-shap
 scikit-learn
 xgboost
-scikit-learn
 joblib
 fastapi
 uvicorn

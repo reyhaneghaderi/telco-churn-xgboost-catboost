@@ -322,17 +322,17 @@ jupyter notebook notebooks/00_databricks_pyspark_etl_demo.ipynb
 
 Connect Tableau to the enriched CatBoost prediction file and refresh the dashboard after regenerating model predictions.
 
+
 ## Tools and Skills Demonstrated
 
-- Python, pandas, NumPy
-- scikit-learn
-- XGBoost and CatBoost
-- SHAP and permutation importance
-- Hyperparameter tuning and stratified cross-validation
-- Classification-threshold optimization
-- PySpark ETL
-- Tableau dashboard development
-- Business-focused churn analysis
+- **Programming & Data:** Python, pandas, NumPy
+- **Machine Learning:** scikit-learn, XGBoost, CatBoost
+- **Model Development:** Hyperparameter tuning, stratified cross-validation, threshold optimization
+- **Explainability:** SHAP, permutation importance
+- **API Development:** FastAPI, REST API, Pydantic
+- **Deployment:** Docker, Azure Container Registry, Azure Container Apps
+- **Data Engineering:** PySpark
+- **Visualization:** Tableau
 
 ## Reproducibility Note
 

@@ -241,6 +241,17 @@ risk_segment
 ```text
 customer-churn-prediction/
 │
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   └── schemas.py
+│
+├── src/
+│   └── train_production.py
+│
+├── models/
+│   └── churn_xgb_bundle.joblib
+│
 ├── notebooks/
 │   ├── 00_databricks_pyspark_etl_demo.ipynb
 │   ├── 01_xgboost_churn.ipynb
@@ -259,6 +270,7 @@ customer-churn-prediction/
 ├── tableau/
 │   └── telco_churn_dashboard.png
 │
+├── Dockerfile
 ├── requirements.txt
 └── README.md
 ```

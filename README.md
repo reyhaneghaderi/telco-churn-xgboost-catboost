@@ -11,6 +11,45 @@ This repository develops and compares two classification pipelines for predictin
 - **CatBoost**, trained directly on numerical and categorical features.
 
 The project goes beyond model training by including threshold optimization, feature importance, SHAP explanations, prediction exports, a PySpark ETL demonstration, and a Tableau dashboard for communicating churn patterns and customer-risk segments.
+
+# Telco Customer Churn Prediction — XGBoost vs CatBoost
+
+An end-to-end customer churn project combining machine learning, model explainability, API deployment, containerization, and cloud deployment.
+
+## Project Overview
+
+This repository develops and compares two classification pipelines for predicting customer churn:
+
+- **XGBoost**
+- **CatBoost**
+
+For production deployment, XGBoost was selected and deployed as a REST API using FastAPI, Docker, Azure Container Registry, and Azure Container Apps.
+
+## Live Deployment
+
+**Live API:**  
+https://telco-churn-api.orangedune-e703ddc6.italynorth.azurecontainerapps.io/docs
+
+The deployed API allows users to submit customer information and receive a churn prediction and churn probability.
+
+## Deployment Architecture
+
+```text
+Data Preprocessing
+        ↓
+XGBoost Model
+        ↓
+FastAPI REST API
+        ↓
+Docker
+        ↓
+Azure Container Registry
+        ↓
+Azure Container Apps
+        ↓
+Public REST API
+
+
 ## Business Problem
 
 Customer churn reduces recurring revenue and increases acquisition costs. The project addresses three practical questions:

@@ -355,7 +355,15 @@ In the uploaded model notebooks, `RandomizedSearchCV` is currently fitted using 
    - Interpretability with global + local SHAP, comparing intrinsic vs agnostic importance.
    - Foundation for further research: cost-sensitive learning, uplift modeling, FL (federated churn prediction).
    
-  -  Author: Reyhaneh Ghaderi Chermahini
-  -  Master’s in Data Science & Stochastic Processes   
+    
+- `app/` contains the FastAPI application and request schema.
+- `src/` contains the production training pipeline.
+- `models/` stores the serialized XGBoost preprocessing and prediction pipeline.
+- `notebooks/` contains exploratory modeling, CatBoost/XGBoost comparison, and PySpark ETL work.
+- `outputs/` contains prediction and explainability artifacts.
+- `tableau/` contains the business dashboard.
+- `Dockerfile` defines the containerized deployment environment.
 
+- -  Author: Reyhaneh Ghaderi Chermahini
+  -  Master’s in Data Science & Stochastic Processes 
 

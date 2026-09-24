@@ -1,29 +1,51 @@
 # Telco Customer Churn Prediction — XGBoost vs CatBoost
 
-
-An end-to-end customer churn project combining machine learning, model explainability, PySpark ETL, and Tableau business reporting.
-(tableau/telco_churn_dashboard.png)
-
-#  Project Overview
-This repository develops and compares two classification pipelines for predicting customer churn:
-
-- **XGBoost**, trained on encoded numerical features.
-- **CatBoost**, trained directly on numerical and categorical features.
-
-The project goes beyond model training by including threshold optimization, feature importance, SHAP explanations, prediction exports, a PySpark ETL demonstration, and a Tableau dashboard for communicating churn patterns and customer-risk segments.
-
-# Telco Customer Churn Prediction — XGBoost vs CatBoost
-
-An end-to-end customer churn project combining machine learning, model explainability, API deployment, containerization, and cloud deployment.
+An end-to-end data and machine learning project covering data preparation, predictive modeling, model evaluation, explainability, ETL, business reporting, API development, containerization, and cloud deployment.
 
 ## Project Overview
 
-This repository develops and compares two classification pipelines for predicting customer churn:
+This project develops and compares **XGBoost** and **CatBoost** models for customer churn prediction using the Telco Customer Churn dataset.
 
-- **XGBoost**
-- **CatBoost**
+The workflow covers the complete machine learning lifecycle:
 
-For production deployment, XGBoost was selected and deployed as a REST API using FastAPI, Docker, Azure Container Registry, and Azure Container Apps.
+- Data cleaning and preprocessing
+- Feature preparation
+- XGBoost and CatBoost model training
+- Hyperparameter tuning and cross-validation
+- Classification threshold optimization
+- Model evaluation using ROC-AUC, precision, recall, and F1-score
+- SHAP and feature-importance analysis
+- PySpark ETL demonstration
+- Tableau business reporting
+- Production XGBoost pipeline
+- FastAPI REST API
+- Docker containerization
+- Azure Container Registry
+- Azure Container Apps deployment
+
+For production deployment, **XGBoost** was selected and exposed through a FastAPI REST API, packaged with Docker, and deployed to Azure Container Apps.
+
+## Live Deployment
+
+**REST API / Swagger:**  
+https://telco-churn-api.orangedune-e703ddc6.italynorth.azurecontainerapps.io/docs
+
+## Deployment Architecture
+
+```text
+Data Preprocessing
+        ↓
+XGBoost Model
+        ↓
+FastAPI REST API
+        ↓
+Docker
+        ↓
+Azure Container Registry
+        ↓
+Azure Container Apps
+        ↓
+Public REST API
 
 ## Live Deployment
 
